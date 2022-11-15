@@ -34,6 +34,16 @@ underlying question is basically one about energy costs, which is the
 same one I need to know about for my purposes, in gauging whether my
 endurance will be sufficient to get back to town.
 
-I've written a [scientific paper](https://www.biorxiv.org/content/10.1101/2021.04.03.438339v2) on this topic,
-which may not be as entertaining as some of the cheeky British humor in the
-Guardian column.
+I've written a [scientific
+paper](https://www.biorxiv.org/content/10.1101/2021.04.03.438339v2) on
+this topic, which may not be as entertaining as some of the cheeky
+British humor in the Guardian column. The related code and data are
+open source ([1](https://github.com/bcrowell/trail),
+[2](https://github.com/bcrowell/kcals)). The TL;DR answer is that hill
+climbing is a highly nonlinear effect. For
+the relatively small slopes that most runners spend most of their time
+running on, the uphills and downhills come very close to cancelling
+out. However, on very steep mountain trails people aren’t efficient
+enough at running downhill to make up for the climbing.
+
+![graph showing three models of running efficiency versus hill slope](graph.png)
