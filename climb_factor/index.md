@@ -48,7 +48,7 @@ enough at running downhill to make up for the climbing.
 
 ![graph showing three models of running efficiency versus hill slope](graph.png)
 
-This graph summarizes the results. The dashed line with the hockey stick shape
+This graph summarizes the results. The black dashed line with the hockey stick shape
 shows what you would think if you believed in total elevation gain as the right
 figure to pay attention to; in that model, downhill is the same as flat. The
 solid line is other people's previous lab work with elite mountain runners on
@@ -89,4 +89,5 @@ Other applications:
 
 - Measure results from training.
 
-- [Ben Crowell](http://lightandmatter.com/area4author.html)
+[Ben Crowell](http://lightandmatter.com/area4author.html)
+
