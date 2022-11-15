@@ -31,7 +31,7 @@ the uphill bit? What about running down a hill and then up, when
 you’re already tired?" Well, the part about "better for you" is something
 I don't really care about, because I run for enjoyment, but anyway the
 underlying question is basically one about energy costs, which is the
-same one I need to know about for my purposes, in gauging whether my
+same one I need to know about in my own example, to gauge whether my
 endurance will be sufficient to get back to town.
 
 I've written a [scientific
@@ -56,8 +56,10 @@ a tilting treadmill, breathing into a mask that measures their energy consumptio
 The curve highlighted in pink is the result of my work, in which I tried to
 find a model that would do a good job of rescribing real-world results from
 races. The cost of running downhill is indeed lower than the cost of running
-on the flats, but on very steep slopes the situation is not as rosy as you'd
-think from world-class athletes on a treadmill.
+on the flats, but on very steep slopes the going is not as easy as you'd
+think from world-class athletes on a treadmill. The near-cancellation of uphills
+and downhills for less severe hills comes about because the middle portion of the pink graph is nearly
+a straight line.
 
 Of course you can get smartphone apps and wearable consumer gadgets like the fitbit et al. that
 claim to tell you your energy consumption. The trouble is that these things use
