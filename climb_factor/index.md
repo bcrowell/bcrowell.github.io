@@ -47,3 +47,44 @@ out. However, on very steep mountain trails people aren’t efficient
 enough at running downhill to make up for the climbing.
 
 ![graph showing three models of running efficiency versus hill slope](graph.png)
+
+This graph summarizes the results. The dashed line with the hockey stick shape
+shows what you would think if you believed in total elevation gain as the right
+figure to pay attention to; in that model, downhill is the same as flat. The
+solid line is other people's previous lab work with elite mountain runners on
+a tilting treadmill, breathing into a mask that measures their energy consumption.
+The curve highlighted in pink is the result of my work, in which I tried to
+find a model that would do a good job of rescribing real-world results from
+races. The cost of running downhill is indeed lower than the cost of running
+on the flats, but on very steep slopes the situation is not as rosy as you'd
+think from world-class athletes on a treadmill.
+
+Of course you can get smartphone apps and wearable consumer gadgets like the fitbit et al. that
+claim to tell you your energy consumption. The trouble is that these things use
+algorithms that aren't public and probably not based on any valid science. And
+a wearable device won't help you with planning for a future run.
+
+It's unfortunate that the scientifically validated figures aren't as
+easy to figure out in your head as the traditional mileage-and-gain
+numbers, but I've written [an open-source web-based
+app](https://lightandmatter.com/cf) (also usable off-line) that will
+compute it for you if you upload a track. The track can be from
+someone else who's hiked or run the route while carrying a GPS, or you
+can generate it with an application such as google maps or
+[onthegomap](https://onthegomap.com/). It will output a number that I
+call the *climb factor* of the run (CF), which is defined as the percentage
+of your energy used in hill-climbing, compared to a flat course. So for example,
+if the CF is 50% for a 10 mile run, then the energy expenditure for the run
+is equivalent to 20 miles. If you're thinking of attempting that run, then you
+just need to check whether you normally have enough endurance to run twenty miles
+on the flats.
+
+Other applications:
+
+- Set a target time and splits on a course you've never run.
+
+- Compare trail races on an objective basis.
+
+- Measure results from training.
+
+- [Ben Crowell](http://lightandmatter.com/area4author.html)
