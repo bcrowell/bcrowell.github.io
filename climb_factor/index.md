@@ -54,7 +54,7 @@ figure to pay attention to; in that model, downhill is the same as flat. The
 solid line is other people's previous lab work with elite mountain runners on
 a tilting treadmill, breathing into a mask that measures their energy consumption.
 The curve highlighted in pink is the result of my work, in which I tried to
-find a model that would do a good job of rescribing real-world results from
+find a model that would do a good job of describing real-world results from
 races. The cost of running downhill is indeed lower than the cost of running
 on the flats, but on very steep slopes the going is not as easy as you'd
 think from world-class athletes on a treadmill. The near-cancellation of uphills
