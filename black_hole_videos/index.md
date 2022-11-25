@@ -69,7 +69,7 @@ The visuals mix realistic optical simulations with two-dimensional metaphors.
 The interior of an astrophysical black hole is hard vacuum.
 
 "Recent gravitational-wave observations have shown that not all black holes are alike. Instead, the universe is littered with a vast zoo of different types of black holes, and a trip to each of them would be an entirely different experience."
-The no-hair theorems tell us that this is not true, and nothing in gravitational wave observations has changed this picture. From context, it seems like you mean just that black holes come in radically different sizes, but that was known long before gravitational wave astronomy got going.
+The no-hair theorems tell us that this is not true, and nothing in gravitational wave observations has changed this picture. From context, it seems like they mean just that black holes come in radically different sizes, but that was known long before gravitational wave astronomy got going.
 
 "So yes, you would be as dead hundreds of miles even before you hit the singularity [of a solar-mass black hole]."
 This is a reasonable numerical estimate, but the narration makes it sound as if this is inside the horizon, when in fact it's outside the horizon.
