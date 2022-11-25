@@ -79,8 +79,34 @@ The discussion of time dilation, Doppler shifts, and the spacelike nature of the
 "It might provide a route to a parallel universe or an opening to the throat of a wormhole."
 This is not accurate for a black hole formed by gravitational collapse.
 
+What If You Fall into a Black Hole? (Kurzgesagt - In a Nutshell)
+-------------------------------------------------------
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QqsLTNkzvaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+2021, 13 million views
+
+There's a lot of fun in this video, and a certain amount of correct science. The metaphorical description of the broad structure of general relativity at the beginning was, for example, very nice. But the depiction of the science is a mixed bag, and a very large percentage of it is wrong. Some of it is just imprecise or wrong on technical points, which is not so bad in a video that is aiming for the feel of an LSD trip. But some of it is just grossly incorrect and shows both a lack of expertise and a failure to do careful research from reliable sources.
+
+In the following, I'm interpreting everything up to 7:26 as a description of a non-spinning black hole, because that's what the video tells us retrospectively at that point. The simplest model of this type of black hole is called a Schwarzschild black hole.
+
+There is a major mistake at 4:30: "Meanwhile, from your perspective the void of the black hole rises up to meet you, as light from fewer directions can reach you. The blackness envelopes you until your only view of the universe you left is a tiny spot of light."
+This is completely wrong. Actually, an observer falling into a non-spinning black hole never sees less than 50% of their field of view filled with a view of the outside universe.
+
+4:47 - "Here, inside the event horizon, space and time are so horribly broken that real time travel is possible, so it's probably a good thing that nothing gets out. If anything could escape it could create all sorts of time travel paradoxes and issues that break the universe."
+Also totally wrong. This is written as if a non-spinning black hole contains closed timelike curves (CTCs). That's just not the case, nor is it currently believed that astrophysical (spinning) black holes contain CTCs. The CTCs that exist in the Kerr spacetime are not something that is believed to exist in black holes formed by astrophysical collapse.
+
+7:00 - A non-spinning black hole's singularity is described as "... a single point with all the matter that has ever crossed the event horizon, all crushed to a point infinitely small. [There,] curvature becomes infinite, and density becomes infinite."
+No, a non-spinning black hole's singularity is not a crushing singularity, it's a spaghettifying one. (In technical language, the singularity of a Schwarzschild black hole is not a strong curvature singularity, it's only one where the Einstein tensor is singular.) It's also wrong to describe this type of singularity as a point in space. Actually it has spatial extent, in the sense that different observers can fall in and hit different points on it. (In technical terms, their past light cones can become separated from each other, which is the definition of a spacelike singularity.)
+
+There are various other less awful mistakes.
+
+There is a lot of fake quantification of velocities of infalling objects: "...their insides implode, at nearly a quarter of the speed of light;" "infalling matter flies in at half the speed of light;" "spinning 90% of the speed of light." This is all wrong because general relativity doesn't allow velocities to be defined at all in these contexts. GR only lets velocities be defined locally and relative to something else. It doesn't define velocities of distant objects or velocities without relation to another observer or frame of reference.
+
+The cartoon description of a gravity well as a kind of tunnel is really unfortunate in my opinion. It's at best a metaphor, and it plays into people's misconception of a black hole as if it were a two-dimensional disc.
+
+"The stronger the gravity, the slower time passes."
+This is possibly not so horrible in a popular-level cartoon, but it's wrong. Gravitational time dilation is related to the gravitational potential, not the gravitational field. It also isn't defined inside the horizon and can't be unambiguously separated from kinematic time dilation.
 
 Discussion for physicists: Does an infalling observer see the entire future history of the outside universe?
 ---------------------------------------------------
