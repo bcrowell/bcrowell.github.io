@@ -7,8 +7,10 @@ to simulate what an observer sees as they're falling into a black hole.
 It was a lot of fun. I learned some physics I hadn't known before.
 (I have a PhD in physics, but my training was in experimental nuclear
 physics, not general relativity.) When the software was done, I used it
-to create a [video animation](https://www.youtube.com/watch?v=z-H-PipYCKc), with
-some very basic text explaining what was going on.
+to create a video animation, with
+some very basic text explaining what was going on:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-H-PipYCKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 At that time, there were quite a few other pop-sci videos on youtube
 on the same topic, but although some of them had much more elaborate
@@ -21,14 +23,12 @@ the situation has improved a lot. If you want to learn correct science
 instead of misconceptions, and at the same time see something with
 good production values and a good explanation of the physics, you have
 some good options. Here are my reviews of several of these videos,
-in order from best to worst. Strangely enough, youtube's search algorithms
-decided to show me the very worst of these as its top-ranked choice --
-I don't know if this is because it's paid advertising placement.
+in order from best to worst. 
 
-The best: ScienceClic, "What would we see if we fell into a Black Hole?"
+The best: "What would we see if we fell into a Black Hole?" (ScienceClic)
 ------------------------------------------------------------------------
 
-[https://www.youtube.com/watch?v=4rTv9wvvat8](https://www.youtube.com/watch?v=4rTv9wvvat8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4rTv9wvvat8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2021, 4 million views
 
@@ -47,6 +47,41 @@ hole, but real-life black holes are all spinning, and for them the theoretical s
 really clear as of 2022. Physicists may want to read the more detailed discussion of this
 at the end of this article.
 
+Falling Into a Black Hole: A Realistic Experience (Secrets of the Universe)
+---------------------------------------------------------------------------
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wychk6EjymA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2021, 18 thousand views
+
+Strangely enough, youtube's search algorithms
+decided to show me this video as its top-ranked choice.
+I don't know if that was because of some kind of paid advertising placement.
+It's not the best of the lot scientifically, it doesn't have that many views, and the production values are not
+that great. They seem to have copied snippets out of a lot of videos by other people, with only minimal
+credit to them.
+
+Most of the video is fairly accurate, but there are some mistakes.
+
+The visuals mix realistic optical simulations with two-dimensional metaphors.
+
+"...a region of spacetime so dense that even light cannot escape it."
+The interior of an astrophysical black hole is hard vacuum.
+
+"Recent gravitational-wave observations have shown that not all black holes are alike. Instead, the universe is littered with a vast zoo of different types of black holes, and a trip to each of them would be an entirely different experience."
+The no-hair theorems tell us that this is not true, and nothing in gravitational wave observations has changed this picture. From context, it seems like you mean just that black holes come in radically different sizes, but that was known long before gravitational wave astronomy got going.
+
+"So yes, you would be as dead hundreds of miles even before you hit the singularity [of a solar-mass black hole]."
+This is a reasonable numerical estimate, but the narration makes it sound as if this is inside the horizon, when in fact it's outside the horizon.
+
+The discussion of time dilation, Doppler shifts, and the spacelike nature of the singularity are all pretty good. (We don't actually know whether an astrophysical black hole has a spacelike singularity or a timelike one.)
+
+"It might provide a route to a parallel universe or an opening to the throat of a wormhole."
+This is not accurate for a black hole formed by gravitational collapse.
+
+
+
+
 Discussion for physicists: Does an infalling observer see the entire future history of the outside universe?
 ---------------------------------------------------
 
@@ -57,7 +92,7 @@ actually what happens if you pass through the horizon that is
 topologically connected to the boundary at timelike infinity. Most
 likely you're destroyed before that by energetic processes at a mass inflation
 horizon, and therefore can't actually see the universe's whole future
-history, but this is not known for sure, and the see-forever ideap
+history, but this is not known for sure, and the see-forever idea
 is not just a silly misconception based on neglecting the Doppler
 effect, as claimed by the ScienceClic narration. For an early presentation of this
 idea, see Penrose, Battelle Rencontres: 1967 Lectures in Mathematics and Physics, p. 222.
