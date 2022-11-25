@@ -126,12 +126,11 @@ Roger Penrose is not just some naive person who doesn't understand basic physics
 
 This is one of the reasons why numerical simulations of the
 interior are so hard: you can't simulate the interior without
-simulating the entire future evolution of the exterior. It's also
-possible that Penrose's diverging blueshift is not actually present
-in black holes that are formed by gravitational collapse.
+simulating the entire future evolution of the exterior.
 
-Yes, it is possible that blueshift instability is just an artifact of
-oversimplified models, but based on my limited understanding of the
+It's also
+possible that Penrose's diverging blueshift is not actually present
+in black holes that are formed by gravitational collapse, but based on my limited understanding of the
 currently literature, that is probably an outmoded attitude. Many
 people, including me, used to feel very comfortable with the idea
 that all black hole interiors had a Penrose diagram qualitatively
@@ -140,7 +139,10 @@ type of causal diagram, it's immediately obvious that there is no
 see-forever going on. The other, crazy stuff, we fervently hoped, was
 only an artifact of the unphysical features of the Kerr spacetime,
 which after all was never thought to be correct in detail as a model
-of an astrophysical black hole. But that just doesn't seem to be
+of an astrophysical black hole. A fairly popular idea was the the diverging blueshifts
+were actually signs of a kind of blueshift instability, and that this instability would
+cause the inner horizon never to form in the first place for collapse from general initial conditions.
+But that just doesn't seem to be
 how things have turned out. [Recent work by Dafermos and coworkers](https://www.dpmms.cam.ac.uk/~md384/research/structure-of-singularities/strong-cosmic-censorship.html) seems to make it more plausible that in classical GR there really is a Cauchy
 horizon inside a spinning black hole formed by gravitational collapse.
 That's way more scary and threatening than a tame little spacelike singularity!
