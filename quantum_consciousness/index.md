@@ -59,11 +59,10 @@ brain cancer -- but there are still kooks in my neighborhood who believe that ou
 
 Along the same lines, people are spending grant money these days on things like NMR studies to see
 whether quantum correlations could be more robust than expected if they're partially shielded
-by their molecular environment (Kerskens and López Pérez, 2022). I'm sure these studies were done
-competently (I'm not an expert in NMR/MRI), but that can be true at the same time that the broader
-topic is pure hokum.
-There are simply too many different
-reasons why the notion of the human brain as a quantum computer is physically impossible.
+by their molecular environment, as well as an *in vivo* MRI study of the human brain that has been
+greatly ballyhooed on social media (Kerskens and López Pérez, 2022).
+Even if the Kerskens results are correct, the observation of correlations in the nervous system
+does not imply that the correlations are *quantum* correlations.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Nov. 29
 
