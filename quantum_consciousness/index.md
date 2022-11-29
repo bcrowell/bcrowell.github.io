@@ -61,7 +61,7 @@ Along the same lines, people are spending grant money these days on things like 
 whether quantum correlations could be more robust than expected if they're partially shielded
 by their molecular environment (Kerskens and López Pérez, 2022). I'm sure these studies were done
 competently (I'm not an expert in NMR/MRI), but that can be true at the same time that the broader
-topic is a waste of time.
+topic is pure hokum.
 There are simply too many different
 reasons why the notion of the human brain as a quantum computer is physically impossible.
 
@@ -70,7 +70,7 @@ reasons why the notion of the human brain as a quantum computer is physically im
 References
 ----------
 
-Christian Matthias Kerskens and David López Pérez 2022 J. Phys. Commun. 6 105001 DOI 10.1088/2399-6528/ac94be
+Kerskens and López Pérez 2022 J. Phys. Commun. 6 105001 DOI 10.1088/2399-6528/ac94be
 https://iopscience.iop.org/article/10.1088/2399-6528/ac94be
 
 Koch, C., & Hepp, K. (2006). Quantum mechanics in the brain. Nature, 440(7084), 611–611. doi:10.1038/440611a
