@@ -12,7 +12,7 @@ Linus Pauling [convinced people that megadoses of vitamin C cured the
 common cold](https://www.vox.com/2015/1/15/7547741/vitamin-c-myth-pauling).
 Equally silly is the [quantum woo](https://en.wikipedia.org/wiki/Quantum_mysticism)
 of brilliant physicist [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose),
-who believes that mysterious quantum processes underly the phenomenon of consciousness.
+who believes that mysterious quantum processes underlie the phenomenon of consciousness.
 
 The theory has been through a series of incarnations. First Penrose suggested that
 tiny structures inside neurons, called [microtubules](https://en.wikipedia.org/wiki/Microtubule),
@@ -59,8 +59,11 @@ brain cancer -- but there are still kooks in my neighborhood who believe that ou
 
 Along the same lines, people are spending grant money these days on things like NMR studies to see
 whether quantum correlations could be more robust than expected if they're partially shielded
-by their molecular environment (Kerskens and López Pérez, 2022). There are simply too many different
-reasons why the notion of the human brain as a quantum computer is physically implausible.
+by their molecular environment (Kerskens and López Pérez, 2022). I'm sure these studies were done
+competently (I'm not an expert in NMR/MRI), but that can be true at the same time that the broader
+topic is a waste of time.
+There are simply too many different
+reasons why the notion of the human brain as a quantum computer is physically impossible.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Nov. 29
 
