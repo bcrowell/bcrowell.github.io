@@ -51,13 +51,13 @@ days before cell phones and never made any sense in terms of the fundamental phy
 are too low in frequency to be able to ionize atoms, so when they interact with your body, all they
 can do is heat you. But my generation was nevertheless told not to sit too close to the TV or, later,
 stand too close to the microwave, because we would get cancer. Biologists and epidemiologists spent
-decades on quixotic attempts to use biology to probe a question that was answered at the basic
+decades on quixotic attempts to use biology to probe this question that was really a non-starter at the basic
 physical level. Only when cell phones came along did this junk science start to peter out, since
 nobody wanted to imagine that the phone they were holding against their head could be giving them
-brain cancer -- but there are still kooks in my neighborhood who believe that the high school's
+brain cancer -- but there are still kooks in my neighborhood who believe that our high school's
 5G network is an evil health hazard.
 
-Along the same lines, people spending grant money these days on things like NMR studies to see
+Along the same lines, people are spending grant money these days on things like NMR studies to see
 whether quantum correlations could be more robust than expected if they're partially shielded
 by their molecular environment (Kerskens and López Pérez, 2022). There are simply too many different
 reasons why the notion of the human brain as a quantum computer is physically implausible.
