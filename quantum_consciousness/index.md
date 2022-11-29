@@ -10,14 +10,14 @@ about it.
 
 Linus Pauling [convinced people that megadoses of vitamin C cured the
 common cold](https://www.vox.com/2015/1/15/7547741/vitamin-c-myth-pauling).
-Just as silly is the [quantum woo](https://en.wikipedia.org/wiki/Quantum_mysticism)
+Equally silly is the [quantum woo](https://en.wikipedia.org/wiki/Quantum_mysticism)
 of brilliant physicist [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose),
 who believes that mysterious quantum processes underly the phenomenon of consciousness.
 
 The theory has been through a series of incarnations. First Penrose suggested that
 tiny structures inside neurons, called [microtubules](https://en.wikipedia.org/wiki/Microtubule),
 actually acted as qubits. A [qubit](https://en.wikipedia.org/wiki/Qubit) is a type of
-quantum-mechanical unit of information, the quantum analog of a bit. It can exist in a superposition of the
+quantum-mechanical unit of information, the quantum analog of a bit. It can exist simultaneously in both of the
 0 and 1 states, like Schrodinger's cat. It also has a quantum-mechanical property called phase, which in
 a classical metaphor you can visualize as the wobbling of a spinning top. In a
 [quantum computer](https://en.wikipedia.org/wiki/Quantum_computing), a network of
@@ -44,7 +44,7 @@ Since estimates like Tegmark's show that that's impossible, more recent proposal
 UCSB physicist Matthew Fisher, have focused on even smaller objects, molecules called
 [Posner clusters](https://en.wikipedia.org/wiki/Amorphous_calcium_phosphate#Posner's_clusters).
 Studies by Litt et al. and Koch and Hepp, and McKemmish et al. have pointed out multiple independent reasons
-why the whole concept just doesn't work.
+why the concept just doesn't work in general.
 
 The whole sad story reminds me of the notion that radio waves could cause cancer, which started in the
 days before cell phones and never made any sense in terms of the fundamental physics: radio waves
