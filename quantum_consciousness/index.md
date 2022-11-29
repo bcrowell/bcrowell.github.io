@@ -59,7 +59,8 @@ brain cancer -- but there are still kooks in my neighborhood who believe that th
 
 Along the same lines, people spending grant money these days on things like NMR studies to see
 whether quantum correlations could be more robust than expected if they're partially shielded
-by their molecular environment (Kerskens and López Pérez, 2022). The trouble is that
+by their molecular environment (Kerskens and López Pérez, 2022). There are simply too many different
+reasons why the notion of the human brain as a quantum computer is physically implausible.
 
 References
 ----------
