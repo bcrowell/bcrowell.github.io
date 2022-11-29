@@ -57,12 +57,18 @@ nobody wanted to imagine that the phone they were holding against their head cou
 brain cancer -- but there are still kooks in my neighborhood who believe that our high school's
 5G network is an evil health hazard.
 
-Along the same lines, people are spending grant money these days on things like NMR studies to see
-whether quantum correlations could be more robust than expected if they're partially shielded
-by their molecular environment, as well as an *in vivo* MRI study of the human brain that has been
-greatly ballyhooed on social media (Kerskens and López Pérez, 2022).
-Even if the Kerskens results are correct, the observation of correlations in the nervous system
-does not imply that the correlations are *quantum* correlations.
+Along the same lines, people are spending grant money these days on
+things like NMR studies to see whether quantum correlations could be
+more robust than expected if they're partially shielded by their
+molecular environment, as well as an *in vivo* MRI study of the human
+brain that has been greatly ballyhooed on social media (Kerskens and
+López Pérez, 2022).  Even if the Kerskens results are correct, the
+observation of correlations in the nervous system does not imply that
+the correlations are *quantum* correlations.  The situation is similar to
+the one surrounding radio waves and cancer, because the physics doesn't make sense based on very basic
+principles. But once the claims are unleashed, people start doing
+biology and epidemiology studies, as if that could trump the
+underlying absurdity of it.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Nov. 29
 
