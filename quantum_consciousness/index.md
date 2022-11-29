@@ -75,7 +75,7 @@ https://iopscience.iop.org/article/10.1088/2399-6528/ac94be
 Koch, C., & Hepp, K. (2006). Quantum mechanics in the brain. Nature, 440(7084), 611–611. doi:10.1038/440611a
 https://sci-hub.se/10.1038/440611a
 
-Litt et al., 2006, Is the Brain a Quantum Computer?, https://sci-hub.se/https://doi.org/10.1207/s15516709cog0000_59~
+Litt et al., 2006, Is the Brain a Quantum Computer?, https://sci-hub.se/https://doi.org/10.1207/s15516709cog0000_59
 
 McKemmish et al., 2009, Penrose-Hameroff orchestrated objective-reduction proposal for human consciousness is not biologically feasible
 https://sci-hub.se/https://doi.org/10.1103/PhysRevE.80.021912
