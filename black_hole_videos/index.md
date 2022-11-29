@@ -147,5 +147,6 @@ how things have turned out. [Recent work by Dafermos and coworkers](https://www.
 horizon inside a spinning black hole formed by gravitational collapse.
 That's way more scary and threatening than a tame little spacelike singularity!
 
-[Ben Crowell](http://lightandmatter.com/area4author.html)
+[Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Nov. 25
+
 

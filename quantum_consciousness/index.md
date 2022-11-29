@@ -62,6 +62,8 @@ whether quantum correlations could be more robust than expected if they're parti
 by their molecular environment (Kerskens and López Pérez, 2022). There are simply too many different
 reasons why the notion of the human brain as a quantum computer is physically implausible.
 
+[Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Nov. 29
+
 References
 ----------
 
