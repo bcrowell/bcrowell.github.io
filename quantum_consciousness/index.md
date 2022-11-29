@@ -67,7 +67,7 @@ observation of correlations in the nervous system does not imply that
 the correlations are *quantum* correlations.  The situation is similar to
 the one surrounding radio waves and cancer, because the physics doesn't make sense based on very basic
 principles. But once the claims are unleashed, people start doing
-biology and epidemiology studies, as if that could trump the
+biological studies, as if that could trump the
 underlying absurdity of it.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Nov. 29
