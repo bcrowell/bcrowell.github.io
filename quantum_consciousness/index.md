@@ -50,7 +50,7 @@ why the concept of quantum consciouness just doesn't work scientifically.
 The whole sad story reminds me of the notion that radio waves could cause cancer, which started in the
 days before cell phones and never made any sense in terms of the fundamental physics: radio waves
 are too low in frequency to be able to ionize atoms, so when they interact with your body, all they
-can do is heat you. But my generation was nevertheless told not to sit too close to the TV or, later,
+can do is heat you. But my generation was nevertheless told not to use electric blankets or
 stand too close to the microwave, because we would get cancer. Biologists and epidemiologists spent
 decades on quixotic attempts to use biology to probe this question that was really a non-starter at the basic
 physical level. Only when cell phones came along did this junk science start to peter out, since
