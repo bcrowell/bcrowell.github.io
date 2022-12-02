@@ -44,7 +44,7 @@ Since estimates like Tegmark's show that that's impossible, more recent proposal
 UCSB physicist Matthew Fisher, have focused on even smaller objects, molecules called
 [Posner clusters](https://en.wikipedia.org/wiki/Amorphous_calcium_phosphate#Posner's_clusters).
 Studies by Litt et al., Koch and Hepp, and McKemmish et al. have pointed out multiple independent reasons
-why quantum woo isn't needed in order to explain consciousness and why the concept just doesn't work in general.
+why quantum woo isn't needed in order to explain consciousness (Litt 2006) and why the concept just doesn't work in general.
 
 The whole sad story reminds me of the notion that radio waves could cause cancer, which started in the
 days before cell phones and never made any sense in terms of the fundamental physics: radio waves
