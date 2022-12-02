@@ -73,6 +73,8 @@ underlying absurdity of it.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Nov. 29
 
+[other blog posts](https://bcrowell.github.io/)
+
 References
 ----------
 

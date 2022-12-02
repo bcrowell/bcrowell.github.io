@@ -90,3 +90,5 @@ Other applications:
 - Measure results from training.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Nov. 15
+
+[other blog posts](https://bcrowell.github.io/)
