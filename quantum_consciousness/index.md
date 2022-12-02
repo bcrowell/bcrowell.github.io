@@ -14,7 +14,7 @@ Equally silly is the [quantum woo](https://en.wikipedia.org/wiki/Quantum_mystici
 of brilliant physicist [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose),
 who believes that mysterious quantum processes underlie the phenomenon of consciousness.
 
-The theory has been through a series of incarnations. First Penrose suggested that
+The quantum consciousness idea has been through a series of incarnations. First Penrose suggested that
 tiny structures inside neurons, called [microtubules](https://en.wikipedia.org/wiki/Microtubule),
 actually acted as qubits. A [qubit](https://en.wikipedia.org/wiki/Qubit) is a type of
 quantum-mechanical unit of information, the quantum analog of a bit. It can exist simultaneously in both of the
