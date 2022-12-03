@@ -2,11 +2,11 @@ Myths and facts about water and thirst
 ===================================================
 
 This article discusses some of the popular mythology surrounding hydration and 
-drinking water from wilderness sources, from the point of view of hikers and trail runners.
+drinking water from wilderness sources, from the point of view of people going running and hiking.
 
 ![picture of an alpine lake](alpine_lake.jpg)
 
-Safe to drink!
+*Safe to drink!* -
 https://commons.wikimedia.org/wiki/File:Lila_Lake_26527.JPG - CC-BY-SA
 
 
