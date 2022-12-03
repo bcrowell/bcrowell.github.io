@@ -3,10 +3,23 @@ Myths and facts about water and thirst
 
 This article discusses some of the popular mythology surrounding hydration from the point of view of people going running and hiking,
 as well as myths about the dangers of drinking water from wilderness sources.
+Most of what you've been told by pop culture is probably wrong.
 
 ![statue of a man drinking thirstily](statue.jpg)
 
 https://commons.wikimedia.org/wiki/File:Nordkirchen-100415-12272-Trinkender.jpg - CC-BY-SA
+
+Highlights for the impatient:
+
+*  There is no health benefit from drinking before you're thirsty, or from forcing yourself to consume a certain amount
+   of water every day.
+*  You can't get sick by drinking untreated water in pristine mountain wilderness areas.
+*  There is no documented case of a person having a life-threatening problem due to exercise-induced dehydration, but
+   it's fairly common for people to die from drinking too much water.
+*  Beer and coffee hydrate you the same as water, and if you're going on a wilderness backpacking trip it's a really bad idea to
+   go cold-turkey off of caffeine.
+*  Energy drinks are bogus.
+*  Heat stroke is dangerous, but you can't prevent it by drinking lots of fluids.
 
 Myths about hydration
 --------------------------
