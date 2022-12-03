@@ -4,11 +4,9 @@ Myths and facts about water and thirst
 This article discusses some of the popular mythology surrounding hydration and 
 drinking water from wilderness sources, from the point of view of people going running and hiking.
 
-![picture of an alpine lake](alpine_lake.jpg)
+![statue of a man drinking thirstily](statue.jpg)
 
-*Safe to drink!* -
-https://commons.wikimedia.org/wiki/File:Lila_Lake_26527.JPG - CC-BY-SA
-
+https://commons.wikimedia.org/wiki/File:Nordkirchen-100415-12272-Trinkender.jpg - CC-BY-SA
 
 Myths about hydration
 --------------------------
@@ -179,6 +177,11 @@ A multi-day backpacking hike (what people in some countries call trekking or bus
 involves a change in your diet and daily routine, which can disrupt bowel function. Many backpackers
 get constipated,[Mueser 1997, p. 101] while others report "backpacker's diarrhea." 
 Diarrhea hits about 10-20% of backpackers on short trips, more than 50% on long through-hikes.[Zell 1993,Mueser 1997]
+
+![picture of an alpine lake](alpine_lake.jpg)
+
+*Safe to drink!* -
+https://commons.wikimedia.org/wiki/File:Lila_Lake_26527.JPG - CC-BY-SA
 
 ### Myth: Backpackers have a significant risk of getting sick from *Giardia* in the water.
 
