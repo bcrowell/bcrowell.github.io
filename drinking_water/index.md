@@ -209,8 +209,9 @@ microorganism that can contaminate backcountry water supplies. Among weekend bac
 it is almost certain that any illness during the hike itself was not caused by wilderness-acquired *Giardia*, which has a typical
 incubation period of about a week or two.[Erlandsen 1984, Jokipii; see more detailed information in the footnotes]
 Fear of *Giardia* in backcountry water began, without any medical evidence, in the 1970's when large numbers of people began to participate
-in backpacking as part of a "get back to the land" idea. For the reasons described below, what seems to have really happened is
-that some people randomly got diarrhea and attributed it to *Giardia*, even in situations where that wasn't medically possible.
+in backpacking as part of a "get back to the land" idea. What seems to have really happened is
+that some people randomly got diarrhea and attributed it to *Giardia*, even in situations where that wasn't medically possible due
+to the long incubation period.
 The tale grew in the telling.
 
 *Giardia* is a big problem in daycare centers and public swimming pools, but recent
