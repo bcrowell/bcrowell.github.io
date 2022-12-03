@@ -65,7 +65,7 @@ It's generally not necessary to drink at all during your run, unless you feel th
 and have the opportunity. Historically, coaches discouraged competitive runners from drinking during
 their races because they thought it would hurt performance, and in some cases race rules prohibited
 drinking because it might be harmful to the athletes' health. This didn't change until the 1970's,
-when running became a more mainstream form of recreation.
+when running became a more mainstream form of recreation.[Noakes 2007]
 Studies with endurance athletes in real-world conditions have shown that
 post-race body temperatures were not reduced by drinking more water
 [Noakes 1988], and "there is not a single case report or clinical
@@ -445,6 +445,9 @@ Mueser 1997 - Roland Mueser, <b>Long-Distance Hiking: Lessons from the Appalachi
 
 Noakes 1988 - Noakes et al., "The danger of an inadequate water intake during prolonged exercise," European Journal of Applied Physiology and Occupational Physiology 57 (1988) 210.
 
+Noakes 2007 - Noakes, "ration in the marathon : using thirst to gauge safe fluid replacement," ports Med
+. 2007;37(4-5):463-6.
+doi: 10.2165/00007256-200737040-00050 - https://pubmed.ncbi.nlm.nih.gov/17465636/
 
 Rockwell 2002 - Robert L. Rockwell, 
 Sierra Nature Notes, Volume 2, January 2002, http://web.archive.org/web/20051026030831/www.yosemite.org/naturenotes/Giardia.htm
