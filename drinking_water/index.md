@@ -14,8 +14,9 @@ Highlights for the impatient:
 *  There is no health benefit from drinking before you're thirsty, or from forcing yourself to consume a certain amount
    of water every day.
 *  You can't get sick by drinking untreated water in pristine mountain wilderness areas.
-*  There is no documented case of a person having a life-threatening problem due to exercise-induced dehydration, but
+*  It's not dangerous to get thirsty, but
    it's fairly common for people to die from drinking too much water.
+*  Runners generally do not need to drink while running.
 *  Beer and coffee hydrate you the same as water, and if you're going on a wilderness backpacking trip it's a really bad idea to
    go cold-turkey off of caffeine.
 *  Energy drinks are bogus.
@@ -60,18 +61,22 @@ you're trying to run.
 
 https://commons.wikimedia.org/wiki/File:Bebedouro_para_cachorros_-_City_Park_New_Orleans.jpg - CC-BY-SA
 
-It's generally not necessary to drink at all during your run, unless it's
-long enough, and the weather is hot enough, to cause you to actually feel thirst.
+It's generally not necessary to drink at all during your run, unless you feel thirsty, want to drink,
+and have the opportunity. Historically, coaches discouraged competitive runners from drinking during
+their races because they thought it would hurt performance, and in some cases race rules prohibited
+drinking because it might be harmful to the athletes' health. This didn't change until the 1970's,
+when running became a more mainstream form of recreation.
 Studies with endurance athletes in real-world conditions have shown that
 post-race body temperatures were not reduced by drinking more water
 [Noakes 1988], and "there is not a single case report or clinical
 trial that unambiguously links exercise-induced dehydration with
 specific life-threatening, exercise-related disorders"
-[Curran 2004]. On the other hand, there have been multiple people who have died
+[Curran 2004].
+
+On the other hand, there have been multiple people who have died
 when running endurance races because they drank *too much* water. This can cause
 a serious condition called hyponatremia, where you dilute your body's electrolytes
 too much.
-
 One of the best-documented cases of a death from drinking too much water involved army recruits who were forced
 by a well-intentioned drill instructor to drink large amounts of water on a hot day  because of very hot temperatures
 [Garigan 1999]. This unfortunate person drank something like 20 liters of water over the course of one morning.
@@ -203,7 +208,10 @@ diarrhea while backpacking automatically attribute the problem to *Giardia*, whi
 microorganism that can contaminate backcountry water supplies. Among weekend backpackers,
 it is almost certain that any illness during the hike itself was not caused by wilderness-acquired *Giardia*, which has a typical
 incubation period of about a week or two.[Erlandsen 1984, Jokipii; see more detailed information in the footnotes]
-
+Fear of *Giardia* in backcountry water began, without any medical evidence, in the 1970's when large numbers of people began to participate
+in backpacking as part of a "get back to the land" idea. For the reasons described below, what seems to have really happened is
+that some people randomly got diarrhea and attributed it to *Giardia*, even in situations where that wasn't medically possible.
+The tale grew in the telling.
 
 *Giardia* is a big problem in daycare centers and public swimming pools, but recent
 data show that its prevalence in the backcountry has been wildly exaggerated. In a surveys of sites in California's Sierra Nevada mountains,
