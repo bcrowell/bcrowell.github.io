@@ -43,12 +43,27 @@ of runners on my city's public trail system wearing vests or Batman-style utilit
 holstered in them. Carrying all that gear interferes with running, and it's totally unnecessary because
 the trail system has water fountains. More recently the holsters and vests seem to have gone out of style,
 but a lot of people are carrying water bottles in their hands, which is just as physically awkward when
-you're trying to run. It's generally not necessary to drink at all during your run, unless it's
-long enough, and the weather is hot enough, to cause you to actually feel strong thirst.
+you're trying to run.
 
 ![picture of a public drinking fountain](fountain.jpg)
 
 https://commons.wikimedia.org/wiki/File:Bebedouro_para_cachorros_-_City_Park_New_Orleans.jpg - CC-BY-SA
+
+It's generally not necessary to drink at all during your run, unless it's
+long enough, and the weather is hot enough, to cause you to actually feel thirst.
+Studies with endurance athletes in real-world conditions have shown that
+post-race body temperatures were not reduced by drinking more water
+[Noakes 1988], and "there is not a single case report or clinical
+trial that unambiguously links exercise-induced dehydration with
+specific life-threatening, exercise-related disorders"
+[Curran 2004]. On the other hand, there have been multiple people who have died
+when running endurance races because they drank *too much* water. This can cause
+a serious condition called hyponatremia, where you dilute your body's electrolytes
+too much.
+
+One of the best-documented cases of a death from drinking too much water involved army recruits who were forced
+by a well-intentioned drill instructor to drink large amounts of water on a hot day  because of very hot temperatures
+[Garigan 1999]. This unfortunate person drank something like 20 liters of water over the course of one morning.
 
 ### Myth: caffeine causes dehydration
 
@@ -122,16 +137,40 @@ The moral of this story is that if you're considering hiking in a
 low-elevation area where the temperature can get very high, you need
 to check the weather forecast, and cancel your hike if the
 temperatures are likely to be life-threatening. 
-
-
 The medical evidence doesn't even support the idea that if you
 *did* drink more water, it would reduce your risk of heat stroke.
-Studies with endurance athletes in real-world conditions showed that
-post-race body temperatures were not reduced by drinking more water
-[Noakes 1988], and "there is not a single case report or clinical
-trial that unambiguously links exercise-induced dehydration with
-specific life-threatening, exercise-related disorders"
-[Curran 2004].
+
+### Drink mixes, "energy drinks," and electrolyte supplements
+
+Some hikers add drink mixes to some of their water.
+This adds variety to the monotonous diet of a long hike, and for people who can taste iodine, the mix masks the taste.
+Mixes can be either zero-calorie (e.g., Crystal Light) or sweetened with sugar (e.g., Kool-Aid). If you use the ones sweetened with sugar,
+be scrupulous about cleaning the threads of your water bottles, because otherwise you may risk dysentery.[Mueser 1997, p. 100]
+If you're using chemical treatment, wait until it's complete before adding the mix.
+
+So-called "energy drinks" are a marketing phenomenon with little scientific justification. They're
+expensive, and they come in single-use plastic bottles, which are a huge environmental problem.
+People used to think that muscle cramps were caused by the loss of sodium from the body during
+intense endurance activity, which gave a reason for using these drinks to maintain one's electrolyte
+balance. However, studies show that's not true, and cramps really just occur because the nerves in
+the muscles have been repeatedly stimulated. 
+
+The same marketers have also pushed the idea that
+you need to "fuel" your exercise by constantly consuming sugary drinks or gels while you're doing the activity. Typically it takes
+quite a long time for your body to digest your food and turn it into muscle and liver glycogen,
+which are the main source of energy for endurance activity. If you're going on a morning run, your
+source of energy is glycogen from last night's dinner -- breakfast is still making its way through your gut.
+Hunger doesn't mean you're going to "bonk" (run out of glycogen),
+and you can bonk without being hungry. If you think you might get hungry
+during a 15-25k-ish run, bring some oreos or a piece of fruit in your pocket, and eat it if you feel hungry. It
+will be too late to contribute to your glycogen supply, but it will get rid of the sensation of hunger,
+which is unpleasant. Better yet, just 
+(Marathon
+distances are a little different, and it can make sense to drink sugary drinks at that distance
+for the sake of their small amounts of relatively rapidly digestible carbs.) Fatigue is not generally an indication
+that you're out of "fuel;" especially for activities that involve less than about 2 hours of
+continuous, intense exertion, you have plenty of glycogen, and fatigue is more like an involuntary
+central nervous system response that prevents damage.
 
 Myths about contaminated water
 --------------------------
@@ -302,37 +341,6 @@ algae can produce toxins that can make you sick. Treatment will not get rid of t
 an algae bloom has died off, the toxins can remain in the water if it's stagnant. The only way to
 avoid this problem is to plan your hikes so that you never have to drink from such sources.
 
-### Drink mixes, "energy drinks," and electrolyte supplements
-
-Some hikers add drink mixes to some of their water.
-This adds variety to the monotonous diet of a long hike, and for people who can taste iodine, the mix masks the taste.
-Mixes can be either zero-calorie (e.g., Crystal Light) or sweetened with sugar (e.g., Kool-Aid). If you use the ones sweetened with sugar,
-be scrupulous about cleaning the threads of your water bottles, because otherwise you may risk dysentery.[Mueser 1997, p. 100]
-If you're using chemical treatment, wait until it's complete before adding the mix.
-
-So-called "energy drinks" are a marketing phenomenon with little scientific justification. They're
-expensive, and they come in single-use plastic bottles, which are a huge environmental problem.
-People used to think that muscle cramps were caused by the loss of sodium from the body during
-intense endurance activity, which gave a reason for using these drinks to maintain one's electrolyte
-balance. However, studies show that's not true, and cramps really just occur because the nerves in
-the muscles have been repeatedly stimulated. 
-
-The same marketers have also pushed the idea that
-you need to "fuel" your exercise by constantly consuming sugary drinks or gels while you're doing the activity. Typically it takes
-quite a long time for your body to digest your food and turn it into muscle and liver glycogen,
-which are the main source of energy for endurance activity. If you're going on a morning run, your
-source of energy is glycogen from last night's dinner -- breakfast is still making its way through your gut.
-Hunger doesn't mean you're going to "bonk" (run out of glycogen),
-and you can bonk without being hungry. If you think you might get hungry
-during a 15-25k-ish run, bring some oreos or a piece of fruit in your pocket, and eat it if you feel hungry. It
-will be too late to contribute to your glycogen supply, but it will get rid of the sensation of hunger,
-which is unpleasant. Better yet, just 
-(Marathon
-distances are a little different, and it can make sense to drink sugary drinks at that distance
-for the sake of their small amounts of relatively rapidly digestible carbs.) Fatigue is not generally an indication
-that you're out of "fuel;" especially for activities that involve less than about 2 hours of
-continuous, intense exertion, you have plenty of glycogen, and fatigue is more like an involuntary
-central nervous system response that prevents damage.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Nov. 29
 
@@ -381,6 +389,10 @@ Fuechslin 2012 - "Cryptosporidium spp. in drinking water: Samples from rural sit
 
 Furness 2000 - Furness, Beach, and Roberts, "Giardiasis surveillance--United States, 1992-1997," MMWR CDC Surveill Summ. 2000 Aug 11;49(7):1-13.
 
+
+Garigan 1999 - Garigan, T. P., & Ristedt, D.
+E. (1999). Death from Hyponatremia as a Result of Acute Water Intoxication in an Army Basic Trainee. Military Medicine, 164(3), 234–238.
+doi:10.1093/milmed/164.3.234 
 
 Grandjean 2000 - Grandjean et al., "The Effect of Caffeinated, Non-Caffeinated, Caloric and Non-Caloric Beverages on Hydration," Journal of the American College of Nutrition, Vol. 19, No. 5, 591-600 (2000)
 http://www.jacn.org/cgi/content/full/19/5/591
