@@ -5,6 +5,8 @@ This article discusses some of the popular mythology surrounding hydration and
 drinking water from wilderness sources, from the point of view of hikers and trail runners.
 
 ![picture of an alpine lake](alpine_lake.jpg)
+
+Safe to drink!
 https://commons.wikimedia.org/wiki/File:Lila_Lake_26527.JPG - CC-BY-SA
 
 
@@ -44,6 +46,7 @@ but a lot of people are carrying water bottles in their hands, which is just as 
 you're trying to run.
 
 ![picture of a public drinking fountain](fountain.jpg)
+
 https://commons.wikimedia.org/wiki/File:Bebedouro_para_cachorros_-_City_Park_New_Orleans.jpg - CC-BY-SA
 
 ### Myth: caffeine causes dehydration
