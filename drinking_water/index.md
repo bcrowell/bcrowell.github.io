@@ -320,14 +320,15 @@ The same marketers have also pushed the idea that
 you need to "fuel" your exercise by constantly consuming sugary drinks or gels while you're doing the activity. Typically it takes
 quite a long time for your body to digest your food and turn it into muscle and liver glycogen,
 which are the main source of energy for endurance activity. If you're going on a morning run, your
-source of energy is glycogen from last night's dinner. Hunger doesn't mean you're going to "bonk,"
-and you can bonk (run out of glycogen) without being hungry. If you think you might get hungry
-during a 15k-25k-ish run, bring some oreos or a piece of fruit in your pocket, and eat it if you feel hungry. It
+source of energy is glycogen from last night's dinner -- breakfast is still making its way through your gut.
+Hunger doesn't mean you're going to "bonk" (run out of glycogen),
+and you can bonk without being hungry. If you think you might get hungry
+during a 15-25k-ish run, bring some oreos or a piece of fruit in your pocket, and eat it if you feel hungry. It
 will be too late to contribute to your glycogen supply, but it will get rid of the sensation of hunger,
 which is unpleasant. Better yet, just 
 (Marathon
 distances are a little different, and it can make sense to drink sugary drinks at that distance
-for the sake of their relatively rapidly digestible carbs.) Fatigue is not generally an indication
+for the sake of their small amounts of relatively rapidly digestible carbs.) Fatigue is not generally an indication
 that you're out of "fuel;" especially for activities that involve less than about 2 hours of
 continuous, intense exertion, you have plenty of glycogen, and fatigue is more like an involuntary
 central nervous system response that prevents damage.
@@ -335,6 +336,8 @@ central nervous system response that prevents damage.
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Nov. 29
 
 [other blog posts](https://bcrowell.github.io/)
+
+This post is CC-BY-SA licensed.
 
 References
 --------------------------
