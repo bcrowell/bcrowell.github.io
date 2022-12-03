@@ -140,13 +140,7 @@ temperatures are likely to be life-threatening.
 The medical evidence doesn't even support the idea that if you
 *did* drink more water, it would reduce your risk of heat stroke.
 
-### Drink mixes, "energy drinks," and electrolyte supplements
-
-Some hikers add drink mixes to some of their water.
-This adds variety to the monotonous diet of a long hike, and for people who can taste iodine, the mix masks the taste.
-Mixes can be either zero-calorie (e.g., Crystal Light) or sweetened with sugar (e.g., Kool-Aid). If you use the ones sweetened with sugar,
-be scrupulous about cleaning the threads of your water bottles, because otherwise you may risk dysentery.[Mueser 1997, p. 100]
-If you're using chemical treatment, wait until it's complete before adding the mix.
+## Drink mixes, "energy drinks," and electrolyte supplements
 
 So-called "energy drinks" are a marketing phenomenon with little scientific justification. They're
 expensive, and they come in single-use plastic bottles, which are a huge environmental problem.
@@ -171,6 +165,12 @@ for the sake of their small amounts of relatively rapidly digestible carbs.) Fat
 that you're out of "fuel;" especially for activities that involve less than about 2 hours of
 continuous, intense exertion, you have plenty of glycogen, and fatigue is more like an involuntary
 central nervous system response that prevents damage.
+
+Some hikers add drink mixes to some of their water.
+This adds variety to the monotonous diet of a long hike, and for people who can taste iodine, the mix masks the taste.
+Mixes can be either zero-calorie (e.g., Crystal Light) or sweetened with sugar (e.g., Kool-Aid). If you use the ones sweetened with sugar,
+be scrupulous about cleaning the threads of your water bottles, because otherwise you may risk dysentery.[Mueser 1997, p. 100]
+If you're using chemical treatment, wait until it's complete before adding the mix.
 
 Myths about contaminated water
 --------------------------
