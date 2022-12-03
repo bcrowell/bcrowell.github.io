@@ -214,7 +214,7 @@ that some people randomly got diarrhea and attributed it to *Giardia*, even in s
 to the long incubation period.
 The tale grew in the telling.
 
-*Giardia* is a big problem in daycare centers and public swimming pools, but recent
+*Giardia* is a big problem in daycare centers and public swimming pools, but
 data show that its prevalence in the backcountry has been wildly exaggerated. In a surveys of sites in California's Sierra Nevada mountains,
 concentrations of *Giardia* cysts were much too low to be a realistic health 
 risk.[Suk 1986] Studies on prison volunteers
@@ -223,8 +223,8 @@ and even at the most contaminated site
 in the surveys, a hiker could only have swallowed this many of the
 bugs by drinking hundreds of liters of water.
 In fact, 67 out of the 69 sites in the survey
-had concentrations lower than 0.03 per liter, which is the
-typical concentration found in San Francisco and Los Angeles tap water.[Rockwell 2002,sfwater 2009]
+had concentrations lower than 0.03 per liter, which was the
+typical concentration found in San Francisco and Los Angeles tap water at the time.[Rockwell 2002,sfwater 2009]
 Elsewhere in the U.S., similar testing[Jaret 2003] also failed to turn up any concentrations of cysts likely to
 cause disease at any of the backcountry locations tested: 
 West Beaver Creek, AZ; Merced River, CA; Chattooga River, NC;
