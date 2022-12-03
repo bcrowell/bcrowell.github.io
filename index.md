@@ -7,3 +7,5 @@ blog posts
 
 [the junk science of quantum consciousness](quantum_consciousness/index.md) - 2022 Nov. 29
 
+[myths and facts about water and thirst](drinking_water) - 2022 Dec. 3
+
