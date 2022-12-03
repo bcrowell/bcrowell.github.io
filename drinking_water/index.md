@@ -174,7 +174,7 @@ Hunger doesn't mean you're going to "bonk" (run out of glycogen),
 and you can bonk without being hungry. If you think you might get hungry
 during a 15-25k-ish run, bring some oreos or a piece of fruit in your pocket, and eat it if you feel hungry. It
 will be too late to contribute to your glycogen supply, but it will get rid of the sensation of hunger,
-which is unpleasant. Better yet, just 
+which is unpleasant. 
 (Marathon
 distances are a little different, and it can make sense to drink sugary drinks at that distance
 for the sake of their small amounts of relatively rapidly digestible carbs.) Fatigue is not generally an indication
