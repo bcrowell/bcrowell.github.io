@@ -43,7 +43,8 @@ of runners on my city's public trail system wearing vests or Batman-style utilit
 holstered in them. Carrying all that gear interferes with running, and it's totally unnecessary because
 the trail system has water fountains. More recently the holsters and vests seem to have gone out of style,
 but a lot of people are carrying water bottles in their hands, which is just as physically awkward when
-you're trying to run.
+you're trying to run. It's generally not necessary to drink at all during your run, unless it's
+long enough, and the weather is hot enough, to cause you to actually feel strong thirst.
 
 ![picture of a public drinking fountain](fountain.jpg)
 
