@@ -1,8 +1,8 @@
 Myths and facts about water and thirst
 ===================================================
 
-This article discusses some of the popular mythology surrounding hydration and 
-drinking water from wilderness sources, from the point of view of people going running and hiking.
+This article discusses some of the popular mythology surrounding hydration, from the point of view of people going running and hiking,
+as well as myths about the dangers of drinking water from wilderness sources.
 
 ![statue of a man drinking thirstily](statue.jpg)
 
