@@ -119,7 +119,11 @@ Africa were really so low tended to point to those two countries, which had deva
 deaths. South Africa and India, they suggested, are just better at keeping records and tracking
 COVID infections. But this explanation doesn't seem to work well in explaining why there are so
 few excess deaths in equatorial Africa, which, in the method used by *The Economist*, doesn't
-depend on the availability of COVID testing. It may be that we'll get more definitive information
+depend on the availability of COVID testing. And in fact, the data seem so suggest an explanation
+for why India and South Africa would be so different from equatorial Africa: the prevalence of
+healthy lifestyles [does seem to differ a lot, as measured by diabetes](https://github.com/bcrowell/african_covid/blob/master/international_comparison.txt).
+
+It may be that we'll get more definitive information
 in the future from statistically rigorous projects such as Sierra Leone's SL-SRS, in which workers visit a random
 sample of villages and neighborhoods, but for the time being it does seem that the low death
 rates in equatorial Africa are real -- and worth celebrating.
