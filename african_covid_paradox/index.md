@@ -99,7 +99,8 @@ Graph by the author, showing Kenya, Sierra Leone, South Africa, India, and the U
 The graph shows covid death rates plotted versus the rate of incidence of diabetes. 
 In order to account for some confounding
 factors, I've attempted to estimate the vulnerable population of each country. I define "vulnerable"
-as someone who is age 65+, and who has not received any doses of a COVID vaccine. This is admittedly
+as someone who is age 65+ and has not received any doses of a COVID vaccine (and I assume these two fractions
+multiply like independent probabilities). This is admittedly
 very crude, but it allows us to approximately eliminate the possible confusion caused by the differing
 demographic pyramids, as well as by the fact that some African countries have low vaccination rates.
 I haven't tried to correct for the prevalence of COVID, because the data are all cumulative figures,
