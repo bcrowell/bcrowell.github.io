@@ -9,8 +9,9 @@ Source: https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estim
 
 The map shows the current best estimates, country by country, of the number of people who
 have died of COVID. If you're like me, you know people who have died during the epidemic,
-and with elderly people, at least in some cases, it can be hard to know whether COVID was really the reason they died or if it was just
-a contributing cause or not the cause at all. And in many poor countries, there aren't
+and with elderly people, at least in some cases, it can be hard to know whether COVID was really the reason they died.
+Maybe it was just
+a contributing cause, or not the cause at all. And in many poor countries, there aren't
 detailed and systematic death records. This map, made as an open-source project by *The Economist*,
 sidesteps those issues by looking at the total number of deaths during the epidemic, and subtracting
 the baseline of deaths that would have been expected based on data from before COVID hit.
