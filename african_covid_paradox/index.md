@@ -34,7 +34,7 @@ which worsen people's health outcomes.
 
 ![map of disability-adjusted life years for respiratory infections](respiratory_infections.png)
 
-Source: //en.wikipedia.org/w/index.php?title=Lower_respiratory_tract_infection - CC-BY-SA
+*(Source: //en.wikipedia.org/w/index.php?title=Lower_respiratory_tract_infection - CC-BY-SA)*
 
 That makes it even more surprising that the COVID death rate is so low in places like Sierra Leone, and
 in many quarters the initial reaction was to say that it just couldn't be true. The New York Times
