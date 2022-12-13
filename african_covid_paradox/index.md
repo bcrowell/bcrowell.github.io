@@ -77,6 +77,10 @@ There is a lot of scientific work
 currently being done to understand this, but the leading hypotheses have to do with the fact that
 older people in developed countries are more likely to have unhealthy lifestyles.
 
+![People walking on a dirt road in Sierra Leone.](people_in_sl_walking.jpg)
+
+*A lifestyle where physical activity isn't optional. - https://commons.wikimedia.org/wiki/File:Kenema-Kailahun_Road.jpg - CC-BY-SA*
+
 A lot of attention has focused on physical activity as an explanation for the gentler age-dependence
 of the COVID mortality curves (Wachira 2022). In general, people in a country like Sierra Leone are
 very physically active, simply because it's required by the way they make a living and carry out their daily lives.
