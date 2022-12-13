@@ -44,6 +44,9 @@ disbelief and others insisting that Africans wouldn't have been oblivious if peo
 
 ![comparison of population pyramids in Sierra Leone and US](pyramid_comparison.png)
 
+*(Source: https://commons.wikimedia.org/wiki/File:Sierra_Leone_single_age_population_pyramid_2020.png
+https://commons.wikimedia.org/wiki/File:USA_Population_Pyramid.svg - CC-BY-SA)*
+
 One obvious thing to check is how much of the seeming African miracle could be explained simply because
 the population in Africa, especially poor countries in equatorial Africa, skews very young.
 The graphs above show a comparison of the population pyramids in Sierra Leone and US. The population
