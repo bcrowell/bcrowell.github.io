@@ -94,6 +94,8 @@ as a lifestyle indicator rather than rates of death from the condition.
 
 ![adjusted covid death rates versus diabetes](international_comparison.png)
 
+Graph by the author, showing Kenya, Sierra Leone, South Africa, India, and the US.
+
 The graph shows covid death rates plotted versus the rate of incidence of diabetes. 
 In order to account for some confounding
 factors, I've attempted to estimate the vulnerable population of each country. I define "vulnerable"
