@@ -57,7 +57,7 @@ pattern in how it affects people of different ages, in comparison to rich countr
 
 ![log plot of CFR versus age for Italy and Kenya](age_comparison.png)
 
-Graph by the author.
+*(Graph by the author.)*
 
 These graphs show a comparison of the case fatality rates (CFR) in Italy and Kenya. A "case"
 is anyone who gets recorded in official statistics as having COVID. Note that the y axis is
@@ -97,8 +97,8 @@ as a lifestyle indicator rather than rates of death from the condition.
 
 ![adjusted covid death rates versus diabetes](international_comparison.png)
 
-Graph by the author, showing Kenya, Sierra Leone, South Africa, India, and the US.
-Open-source data and code at [https://github.com/bcrowell/african_covid](https://github.com/bcrowell/african_covid).
+*(Graph by the author, showing Kenya, Sierra Leone, South Africa, India, and the US.
+Open-source data and code at [https://github.com/bcrowell/african_covid](https://github.com/bcrowell/african_covid).)*
 
 The graph shows covid death rates plotted versus the rate of incidence of diabetes. 
 In order to account for some confounding
