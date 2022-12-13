@@ -18,10 +18,10 @@ sidesteps those issues by looking at the total number of deaths during the epide
 the baseline of deaths that would have been expected based on data from before COVID hit.
 
 The good news is that equatorial Africa has extremely low death rates from this virus.
-The most extreme case is Sierra Leone, which is the little gray oval on the west coast
-of Africa. You might think that the gray color was like the gray color of Greenland, a
+The most extreme case is Sierra Leone, which is the little gray oval on the west coast.
+You might think that the gray color was like the gray color of Greenland, a
 blank marker to show that there's no data. No, it's real. The COVID death rate there seems
-to be really, really low.
+to be really, really low. (Well, this has been controversial. More on that below.)
 
 That's good, but totally unexpected. For comparison, here's a map from before COVID of how badly different
 regions of the world were generally afflicted with lower respiratory tract infections. The colors represent something
