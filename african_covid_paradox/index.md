@@ -5,7 +5,7 @@ How would you like some good news about COVID, which is also good news about Afr
 
 ![map of global covid death rate](global_covid_deaths.png)
 
-Source: https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates (fair use)
+*(Source: https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates - fair use)*
 
 The map shows the current best estimates, country by country, of the number of people who
 have died of COVID. If you're like me, you know people who have died during the epidemic,
