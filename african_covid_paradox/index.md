@@ -163,7 +163,7 @@ not potentially decisive at the individual level to have a healthy lifestyle.
 *Full disclosure: I'm a physicist, not a doctor or an epidemiologist. I think my analysis is more or less
 in line with the current thinking on the subject, as described in the list of references below. The only
 part that's at all original with me is the use of diabetes as a proxy for lifestyle. Professionals
-have done fancier things to try to factor out effects such as age and vaccination in population studies.
+have done fancier things than I did to try to factor out effects such as age and vaccination in population studies.
 I haven't seen any recent professional studies that attempt to do the type of international comparison
 I've done here; what I've done is simple and amateurish and is offered as a way of visualizing and
 understanding what seems to be going on in the current scientific literature.*
