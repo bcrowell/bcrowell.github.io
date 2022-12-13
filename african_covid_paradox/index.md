@@ -167,5 +167,4 @@ Demombynes et al., Are COVID-19 age-mortality curves for 2020 flatter in develop
 
 Steenkamp, 2022, https://bjsm.bmj.com/content/56/10/568
 
-Wachira, 2022, "Why are COVID-19 effects less severe in Sub-Saharan Africa? Moving more and sitting less may be a primary reason"
-- https://www.sciencedirect.com/science/article/pii/S003306202200041X
+Wachira, 2022, "Why are COVID-19 effects less severe in Sub-Saharan Africa? Moving more and sitting less may be a primary reason" - https://www.sciencedirect.com/science/article/pii/S003306202200041X
