@@ -179,8 +179,25 @@ References
 
 Chauvin, 2020 - https://www.econstor.eu/handle/10419/237451
 
+Chen, 2022, Causal relationship between physical activity, leisure sedentary behaviors and COVID-19 risk: a Mendelian randomization study - https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-022-03407-6
+
 Demombynes et al., Are COVID-19 age-mortality curves for 2020 flatter in developing countries? - https://pubmed.ncbi.nlm.nih.gov/36351719/
+
+Gomide, oct 2022, The role of physical activity in the clinical outcomes of people diagnosed with Covid-19: A systematic review - https://www.sciencedirect.com/science/article/pii/S2772696722000072
+
+Li, 2022, Association of physical activity and the risk of COVID-19 hospitalization: a dose–response meta-analysis - https://www.medrxiv.org/content/10.1101/2022.06.22.22276789v1
+
+
+Sallis, 2021, "Physical inactivity is associated with a higher risk for severe COVID-19 outcomes: a study in 48 440 adult patients" 
 
 Steenkamp, 2022, https://bjsm.bmj.com/content/56/10/568
 
+Tsuzuki, 2022, Association between physical activity status and severity of COVID-19 in older adults - https://www.cambridge.org/core/journals/epidemiology-and-infection/article/association-between-physical-activity-status-and-severity-of-covid19-in-older-adults/39296F23FD3AB964C17D59240DDC278A
+
 Wachira, 2022, "Why are COVID-19 effects less severe in Sub-Saharan Africa? Moving more and sitting less may be a primary reason" - https://www.sciencedirect.com/science/article/pii/S003306202200041X
+
+
+
+
+
+
