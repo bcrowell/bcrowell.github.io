@@ -117,7 +117,7 @@ One thing that this explanation does seem to handle well is the difference betwe
 and countries like South Africa and India. People who didn't believe the death rates in equatorial
 Africa were really so low tended to point to those two countries, which had devastating numbers of
 deaths. South Africa and India, they suggested, are just better at keeping records and tracking
-COVID infections. But this explanation doesn't seem to work well in explaining why there are so
+COVID infections. But their explanation doesn't seem to work well in explaining why there are so
 few excess deaths in equatorial Africa, which, in the method used by *The Economist*, doesn't
 depend on the availability of COVID testing. And in fact, the data seem so suggest an explanation
 for why India and South Africa would be so different from equatorial Africa: the prevalence of
