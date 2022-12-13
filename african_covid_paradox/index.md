@@ -56,6 +56,8 @@ pattern in how it affects people of different ages, in comparison to rich countr
 
 ![log plot of CFR versus age for Italy and Kenya](age_comparison.png)
 
+Graph by the author.
+
 These graphs show a comparison of the case fatality rates (CFR) in Italy and Kenya. A "case"
 is anyone who gets recorded in official statistics as having COVID. Note that the y axis is
 goes by factors of 10, so it takes the very drastic up-curving shape of the graphs and makes them flatter.
@@ -95,6 +97,7 @@ as a lifestyle indicator rather than rates of death from the condition.
 ![adjusted covid death rates versus diabetes](international_comparison.png)
 
 Graph by the author, showing Kenya, Sierra Leone, South Africa, India, and the US.
+Open-source data and code at [https://github.com/bcrowell/african_covid](https://github.com/bcrowell/african_covid).
 
 The graph shows covid death rates plotted versus the rate of incidence of diabetes. 
 In order to account for some confounding
@@ -128,11 +131,11 @@ effective and easier to change.
 
 I did spend some time looking at county-by-county maps in the US and seeing if I could detect correlations:
 
-* [COVID (click on deaths per 100,000 people)](https://www.arcgis.com/apps/MapSeries/index.html?appid=ad46e587a9134fcdb43ff54c16f8c39b)
+* [COVID (Click on "deaths per 100,000 people.")](https://www.arcgis.com/apps/MapSeries/index.html?appid=ad46e587a9134fcdb43ff54c16f8c39b)
 
-* [obesity and diabetes](https://www.arcgis.com/home/item.html?id=c09aee5d3fee41c489fdffec21cb270a)
+* [obesity and diabetes (Click on the thumbnail.)](https://www.arcgis.com/home/item.html?id=c09aee5d3fee41c489fdffec21cb270a)
 
-* [vaccination](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=all_states%26list_select_county%3Dall_counties%26data-type%3DVaccinations%26metric%3DAdministered_Dose1_Pop_Pct&data-type=Vaccinations)
+* [vaccination (Scroll down.)](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=all_states%26list_select_county%3Dall_counties%26data-type%3DVaccinations%26metric%3DAdministered_Dose1_Pop_Pct&data-type=Vaccinations)
 
 What I seemed to find was that the really strong predictor of death rates was simply vaccinations.
 For example, south Texas has extremely high rates of obesity and diabetes, but it has a low COVID
