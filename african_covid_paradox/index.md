@@ -22,7 +22,7 @@ blank marker to show that there's no data. No, it's real. The COVID death rate t
 to be really, really low.
 
 That's good, but totally unexpected. For comparison, here's a map from before COVID of how badly different
-regions of the world are afflicted with lower respiratory tract infections. The colors represent something
+regions of the world were generally afflicted with lower respiratory tract infections. The colors represent something
 called a "disability-adjusted life year" (DALY), which is a way of measuring how many years of life people missed
 out on because they died, or an attempt to assign an equivalent if the disease didn't kill them but hurt their
 quality of life. Check out the scale. Sierra Leone's suffering from these infections is more than *70 times*
