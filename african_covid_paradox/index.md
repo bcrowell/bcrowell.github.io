@@ -24,8 +24,8 @@ to be really, really low.
 That's good, but totally unexpected. For comparison, here's a map from before COVID of how badly different
 regions of the world were generally afflicted with lower respiratory tract infections. The colors represent something
 called a "disability-adjusted life year" (DALY), which is a way of measuring how many years of life people missed
-out on because they died, or an attempt to assign an equivalent if the disease didn't kill them but hurt their
-quality of life. Check out the scale. Sierra Leone's suffering from these infections is more than *70 times*
+out on because they died. (It also attempts to assign an equivalent if the disease didn't kill them but hurt their
+quality of life). Check out the scale. Sierra Leone's suffering from these infections is more than *70 times*
 what we experience where I live, in the US. This is partly because it's a poor country with a weak public
 health system, and also partly because they experience more conditions such as malnutrition and poor housing,
 which worsen people's health outcomes.
@@ -76,10 +76,12 @@ older people in developed countries are more likely to have unhealthy lifestyles
 
 A lot of attention has focused on physical activity as an explanation for the gentler age-dependence
 of the COVID mortality curves (Wachira 2022). In general, people in a country like Sierra Leone are
-very physically active, simply because the way they make a living and carry out their daily lives
-requires it. But this hypothesis is hard to test quantitatively as an explanation
+very physically active, simply because it's required by the way they make a living and carry out their daily lives.
+But this hypothesis is hard to test quantitatively as an explanation
 for the African COVID paradox, because the relevant data in Africa come mostly from the most affluent sector of
-the population in more developed countries like South Africa (Steenkamp 2022). And in any case, a sedentary
+the population in more developed countries. The best study involved South Africans who got an incentive
+from their employer or their health insurance company to wear an electronic gadget such as a Fitbit or keep a log
+of their exercise (Steenkamp 2022). And in any case, a sedentary
 lifestyle is just one part of a set of intercorrelated health issues that includes also includes obesity and diabetes.
 
 But rates of diabetes, at least, are relatively easy to obtain for various countries.
