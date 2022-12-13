@@ -138,10 +138,13 @@ I did spend some time looking at county-by-county maps in the US and seeing if I
 * [vaccination (Scroll down.)](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=all_states%26list_select_county%3Dall_counties%26data-type%3DVaccinations%26metric%3DAdministered_Dose1_Pop_Pct&data-type=Vaccinations)
 
 What I seemed to find was that the really strong predictor of death rates was simply vaccinations.
-For example, south Texas has extremely high rates of obesity and diabetes, but it has a low COVID
+For example, south Texas has extremely high rates of obesity and diabetes, but it has a fairly low COVID
 death rate because its vaccination rate is high. Wyoming, on the other hand, has extremely
 low rates of obesity and diabetes, but a lot of COVID deaths, probably because its vaccination rate is low.
-At the level of the entire population, vaccination is what's really crucial. But that doesn't mean it's
+The effect of lifestyle is a smaller effect that really
+only becomes evident when you factor out vaccination, as I did in my graph.
+
+So at the level of the entire population, vaccination is what's really crucial. But that doesn't mean it's
 not potentially decisive at the individual level to have a healthy lifestyle.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 13
