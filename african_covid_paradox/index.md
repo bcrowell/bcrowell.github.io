@@ -21,10 +21,6 @@ of Africa. You might think that the gray color was like the gray color of Greenl
 blank marker to show that there's no data. No, it's real. The COVID death rate there seems
 to be really, really low.
 
-![map of disability-adjusted life years for respiratory infections](respiratory_infections.png)
-
-Source: //en.wikipedia.org/w/index.php?title=Lower_respiratory_tract_infection - CC-BY-SA
-
 That's good, but totally unexpected. For comparison, here's a map from before COVID of how badly different
 regions of the world are afflicted with lower respiratory tract infections. The colors represent something
 called a "disability-adjusted life year" (DALY), which is a way of measuring how many years of life people missed
@@ -33,6 +29,10 @@ quality of life. Check out the scale. Sierra Leone's suffering from these infect
 what we experience where I live, in the US. This is partly because it's a poor country with a weak public
 health system, and also partly because they experience more conditions such as malnutrition and poor housing,
 which worsen people's health outcomes.
+
+![map of disability-adjusted life years for respiratory infections](respiratory_infections.png)
+
+Source: //en.wikipedia.org/w/index.php?title=Lower_respiratory_tract_infection - CC-BY-SA
 
 That makes it even more surprising that the COVID death rate is so low in places like Sierra Leone, and
 in many quarters the initial reaction was to say that it just couldn't be true. The New York Times
@@ -46,8 +46,8 @@ One obvious thing to check is how much of the seeming African miracle could be e
 the population in Africa, especially poor countries in equatorial Africa, skews very young.
 The graphs above show a comparison of the population pyramids in Sierra Leone and US. The population
 of the US is relatively static, and would even be shrinking if not for immigration. In Sierra Leone,
-the population is growing rapidly, families tend to have many children, and not many people live beyond
-70. Since the risk of death from COVID rises exponentially with age, it makes sense that in a country with
+the population is growing rapidly, families tend to have many children, and not many people live beyond 70.
+Since the risk of death from COVID rises exponentially with age, it makes sense that in a country with
 a far smaller proportion of old people, the toll will be much less.
 
 But the demographic effect probably isn't big enough to explain the entire disparity in death rates.
@@ -92,6 +92,15 @@ as a lifestyle indicator rather than rates of death from the condition.
 
 ![adjusted covid death rates versus diabetes](international_comparison.png)
 
+The graph shows covid death rates plotted versus diabetes. 
+In order to account for some confounding
+factors, I've attempted to estimate the vulnerable population of each country. I define "vulnerable"
+as someone who is age 65+, and who has not received any doses of a COVID vaccine. This is admittedly
+very crude, but it allows us to approximately eliminate the possible confusion caused by the differing
+demographic pyramids, as well as by the fact that some African countries have low vaccinatio rates.
+I haven't tried to correct for the amount of disease, because the data are all cumulative figures,
+and by now (December 2022), a very high percentage of the world's entire population has had a COVID
+infection.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 13
 
