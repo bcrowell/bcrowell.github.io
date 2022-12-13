@@ -92,15 +92,34 @@ as a lifestyle indicator rather than rates of death from the condition.
 
 ![adjusted covid death rates versus diabetes](international_comparison.png)
 
-The graph shows covid death rates plotted versus diabetes. 
+The graph shows covid death rates plotted versus the rate of incidence of diabetes. 
 In order to account for some confounding
 factors, I've attempted to estimate the vulnerable population of each country. I define "vulnerable"
 as someone who is age 65+, and who has not received any doses of a COVID vaccine. This is admittedly
 very crude, but it allows us to approximately eliminate the possible confusion caused by the differing
-demographic pyramids, as well as by the fact that some African countries have low vaccinatio rates.
-I haven't tried to correct for the amount of disease, because the data are all cumulative figures,
+demographic pyramids, as well as by the fact that some African countries have low vaccination rates.
+I haven't tried to correct for the prevalence of COVID, because the data are all cumulative figures,
 and by now (December 2022), a very high percentage of the world's entire population has had a COVID
 infection.
+
+The graph seems to show a pretty tight relationship, suggesting that the low toll of COVID in Africa
+can be explained by a combination of two things: a younger population, and a healthier lifestyle.
+One thing that this explanation does seem to handle well is the difference between equatorial Africa
+and countries like South Africa and India. People who didn't believe the death rates in equatorial
+Africa were really so low tended to point to those two countries, which had devastating numbers of
+deaths. South Africa and India, they suggested, are just better at keeping records and tracking
+COVID infections. But this explanation doesn't seem to work well in explaining why there are so
+few excess deaths in equatorial Africa, which, in the method used by *The Economist*, doesn't
+depend on the availability of COVID testing. It may be that we'll get more definitive information
+in the future from statistically rigorous projects such as Sierra Leone's SL-SRS, in which workers visit a random
+sample of villages and neighborhoods, but for the time being it does seem that the low death
+rates in equatorial Africa are real -- and worth celebrating.
+
+As an American, I would like to not just celebrate those facts but also learn and benefit from
+them. We should certainly not discourage older people
+from going outside and getting physical activity. A healthier lifestyle is just better for people's health and
+longevity in general -- although when it comes to COVID specifically, vaccination is probably a lot more directly
+effective and easier to change.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 13
 
