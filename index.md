@@ -10,3 +10,5 @@ blog posts
 [myths and facts about water and thirst](drinking_water) - 2022 Dec. 3
 
 [the African COVID paradox](african_covid_paradox) - 2022 Dec. 13
+
+[Do we all move through spacetime at the speed of light?](moving_through_spacetime_at_c) - 2022 Dec. 18
