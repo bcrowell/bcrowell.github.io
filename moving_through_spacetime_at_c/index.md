@@ -13,7 +13,7 @@ But once these verbal misstatements emerge into the wild, they acquire lives of 
 supposed to represent.
 It just goes to show that using English to describe math is like using watercolors to describe a symphony. Fidelity and precision suffer.
 
-![abstract painting by Kupka, 1912, Amorpha, fugue en deux couleurs](kupka.png)
+![abstract painting by Kupka, 1912, Amorpha, fugue en deux couleurs](kupka.jpg)
 
 *A painting that actually was intended to depict a musical form, at least according to the title. Kupka, "fugue en deux couleurs," 1912.*
 
