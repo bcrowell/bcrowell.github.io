@@ -81,7 +81,7 @@ sqrt(2^2+0^2)=2. To normalize it, we would take that result of 2 and go back and
 ![diagram showing three normalized vectors on a piece of graph paper](normalized-vectors.jpg)
 
 Two points will turn out to be crucial for the actual relativity stuff: (1) Normalization doesn't work on a vector that has a length of zero. That's because
-that vector doesn't carry any direction information, so no matter how we stretch it or shrink it, it will still be a zero vector.
+no matter how we stretch it or shrink it, it will still have a length of 0, not 1.
 (2) The normalization is arbitrary. As long as a vector isn't
 exactly the zero vector, it can be stretched or shrunk to have *any* standard length. In the image above, all three vectors have been normalized to 5 graph-paper squares in length. Is that "wrong" because it's not *one* square? No, because in some other set of units it *would* be 1. In fact, the graph paper I used was sold in the US and has 5 squares per inch (an archaic unit used in that country). So in that sense those vectors *are* normalized "correctly."
 
@@ -114,7 +114,7 @@ That's not what it is at all. What Δs really gives is a measure of the amount o
 
 So in the alien art example, there is now a clear reason why the equation is inapplicable: a clock can't get there in time for the art premiere, because that would require traveling faster than the speed of light.
 
-Not to beat a dead horse, but we can now see yet another reason why Greene's description doesn't make a lot of sense. A ray of light travels at the speed of light. Therefore if you plug in to the formula, you get Δs=0. So in Greene's verbal depiction, we're all "moving through spacetime" at c, except for beams of light, which are all "moving through spacetime" at a speed of zero. A vector describing this type of motion has a "magnitude" of zero in relativity, which is why you can't normalize it in the way Greene has in mind.
+Not to beat a dead horse, but we can now see yet another reason why Greene's description doesn't make a lot of sense. A ray of light travels at the speed of light. Therefore if you plug in to the formula, you get Δs=0. So in Greene's verbal depiction, we're all "moving through spacetime" at c, except for beams of light, which are all "moving through spacetime" at a speed of zero. A vector describing this type of motion has a "magnitude" of zero in relativity, which is why you can't normalize it in the way Greene has in mind. The difficulty here arises because Greene wants to normalize all his velocity vectors, but a ray of light has a velocity vector that has a "length" of zero.
 
 To see that Greene and Hossenfelder are not saying the same thing, consider the case where a clock is in motion relative to you. Greene says that the clock "moves through spacetime" at precisely c. Hossenfelder says that the clock "moves" at less than or equal to c. (She is careful to explain that the result Δs/Δt=c applies only "relative to yourself," i.e., in a frame of reference where you're at rest.)
 
