@@ -65,7 +65,7 @@ All of this could have been written before Einstein was born, as a description o
 originated by Galileo.
 
 So returning to our original question, do we all move through spacetime at the speed of light?
-Well, objects don't move through spacetime. Objects move through space. If you depict an object in spacetime, you have a world-line. The world-line doesn't move through spacetime, it simply extends across spacetime. It doesn't move. It is.
+Well, objects don't move through spacetime. Objects move through space. If you depict an object in spacetime, you have a world-line. The world-line doesn't move through spacetime, it simply extends across spacetime, just as the US-Canada border *extends across* the continent but doesn't "move though" it. 
 
 To understand why Greene would want to say it this way, in his misguided naughtiness, let's imagine you're sailing on the ocean and you want
 to describe the direction you're going. You can do it using a compass bearing from 0 to 360 degrees, which is what sailors actually do, but
