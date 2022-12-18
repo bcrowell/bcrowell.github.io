@@ -67,7 +67,7 @@ originated by Galileo.
 So returning to our original question, do we all move through spacetime at the speed of light?
 Well, objects don't move through spacetime. Objects move through space. If you depict an object in spacetime, you have a world-line. The world-line doesn't move through spacetime, it simply extends across spacetime, just as the US-Canada border *extends across* the continent but doesn't "move though" it. 
 
-To understand why Greene would want to say it this way, in his misguided naughtiness, let's imagine you're sailing on the ocean and you want
+To understand why Greene, in his misguided naughtiness,  would want to say it this way, let's imagine you're sailing on the ocean and you want
 to describe the direction you're going. You can do it using a compass bearing from 0 to 360 degrees, which is what sailors actually do, but
 to a mathematician's taste, that's a little ugly because of the discontinuity where you "wrap arond." Then (ew!) differences of angles don't
 always have the expected meaning, because 359 degrees is actually not very different from 0 degrees. A much nicer approach is to use vectors.
