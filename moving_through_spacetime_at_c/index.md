@@ -47,7 +47,7 @@ relativity.
 
 The lines are called "world-lines." The somewhat odd terminology comes from an awkward
 translation of a German phrase that was intended to be something more like "line through
-the world," i.e., a line through spacetime.
+the world," or "line through all of history and existence."
 
 The gray rectangle is referred to as "spacetime." It's a sort of stage, or a piece of graph
 paper, that represents both time (vertically) and space (horizontally). If we take the picture and
