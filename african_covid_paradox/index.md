@@ -39,7 +39,7 @@ which worsen people's health outcomes.
 That makes it even more surprising that the COVID death rate is so low in places like Sierra Leone, and
 in many quarters the initial reaction was to say that it just couldn't be true. The New York Times
 ran an [article](https://www.nytimes.com/2022/03/23/health/covid-africa-deaths.html) on the topic in March 2022,
-with a variety of African and overseas experts making contradictory statements, with some expressing
+with a variety of African and overseas experts making contradictory statements, some some expressing
 disbelief and others insisting that Africans wouldn't have been oblivious if people were dying in their communities.
 
 ![comparison of population pyramids in Sierra Leone and US](pyramid_comparison.png)
