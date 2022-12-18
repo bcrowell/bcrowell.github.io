@@ -95,7 +95,7 @@ Greene's portrayal of us as "moving through spacetime at the speed of light" see
 
 One thing I haven't even discussed yet is what is the formula that plays the role of the Pythagorean theorem for a spacetime diagram. Let's hold that thought for a moment and come back to it, because it will be more obvious in a moment how it would be relevant.
 
-Greene started spreading this bad idea around 2000, but more recently, with people increasingly getting their pop-sci information from videos rather than the printed word, a lot of people seem to be influenced instead by a different and equally ill-considered popularization in a seven-minute video by Sabine Hossenfelder. Her English-language description contradict's Greene's, even though they both certainly understand the physics. 
+Greene started spreading this bad idea around 2000, but more recently, with people increasingly getting their pop-sci information from videos rather than the printed word, a lot of people seem to be influenced instead by a different and equally ill-considered popularization in a seven-minute video by Sabine Hossenfelder. Her English-language description contradicts Greene's, even though they both certainly understand the physics. 
 
 Hossenfelder presents the following equation: Δs/Δt = sqrt[-(Δx/Δt)^2+c^2]. (I'm omitting the y and z dimensions for simplicity.) 
 The notation is:
