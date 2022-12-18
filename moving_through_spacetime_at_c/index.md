@@ -82,8 +82,8 @@ sqrt(2^2+0^2)=2. To normalize it, we would take that result of 2 and go back and
 
 Two points will turn out to be crucial for the actual relativity stuff: (1) Normalization doesn't work on a vector that has a length of zero. That's because
 no matter how we stretch it or shrink it, it will still have a length of 0, not 1.
-(2) The normalization is arbitrary. As long as a vector isn't
-exactly the zero vector, it can be stretched or shrunk to have *any* standard length. In the image above, all three vectors have been normalized to 5 graph-paper squares in length. Is that "wrong" because it's not *one* square? No, because in some other set of units it *would* be 1. In fact, the graph paper I used was sold in the US and has 5 squares per inch (an archaic unit used in that country). So in that sense those vectors *are* normalized "correctly."
+(2) The normalization is arbitrary. As long as a vector doesn't have a length of exactly zero,
+it can be stretched or shrunk to have *any* standard length. In the image above, all three vectors have been normalized to 5 graph-paper squares in length. Is that "wrong" because it's not *one* square? No, because in some other set of units it *would* be 1. In fact, the graph paper I used was sold in the US and has 5 squares per inch (an archaic unit used in that country). So in that sense those vectors *are* normalized "correctly."
 
 Now what happens when we use this on a spacetime diagram? The idea would be to chop out some short segment of a world-line, draw an arrow-head on the forward (future) end of it, normalize that, and call that a direction in spacetime. I've tried to depict that in the diagram below. (But I'm a bad artist, so my pink scissors look like squids or something. Sorry.)
 
