@@ -69,18 +69,18 @@ Well, objects don't move through spacetime. Objects move through space. If you d
 
 To understand why Greene, in his misguided naughtiness,  would want to say it this way, let's imagine you're sailing on the ocean and you want
 to describe the direction you're going. You can do it using a compass bearing from 0 to 360 degrees, which is what sailors actually do, but
-to a mathematician's taste, that's a little ugly because of the discontinuity where you "wrap arond." Then (ew!) differences of angles don't
+to a mathematician's taste, that's a little ugly because of the discontinuity where you "wrap around." Then (ew!) differences of angles don't
 always have the expected meaning, because 359 degrees is actually not very different from 0 degrees. A much nicer approach is to use vectors.
 For example (1,0) is a pair of numbers that we could say represents motion to the east: for every 1 km we travel along the x axis (east),
 we travel 0 km in y (north-south). Similarly, (0,1) would be north, (-1,0) is west, and (1,1) northeast. The only awkwardness is that we can have two
 different vectors that represent setting the same course. For example, (2,0) and (1,0) would both mean we were going due east. To fix
-this problem, we descree that the x and y parts should always come out to 1 when we put them in the Pythagorean theorem. The fancy
+this problem, we decree that the x and y parts should always come out to 1 when we put them in the Pythagorean theorem. The fancy
 term for this is "normalization." The vector (2,0) isn't normalized, because if you put it in the Pythagorean formula, you get
 sqrt(2^2+0^2)=2. To normalize it, we would take that result of 2 and go back and divide everything by that, which would give us (1,0).
 
 ![diagram showing three normalized vectors on a piece of graph paper](normalized-vectors.jpg)
 
-Two points that will turn out to be crucial for the actual relativity stuff. (1) Normalization doesn't work on the zero vector (0,0). That's because
+Two points will turn out to be crucial for the actual relativity stuff: (1) Normalization doesn't work on the zero vector (0,0). That's because
 that vector doesn't carry any direction information, so no matter how we stretch it or shrink it, it will still be a zero vector.
 (2) The normalization is arbitrary. As long as a vector isn't
 exactly the zero vector, it can be stretched or shrunk to have *any* standard length. In the image above, all three vectors have bee normalized to 5 graph-paper squares in length. Is that "wrong" because it's not *one* square? No, because in some other set of units it *would* be 1. In fact, the graph paper I used was sold in the US and has 5 squares per inch (an archaic unit used in that country). So in that sense those vectors *are* normalized "correctly."
