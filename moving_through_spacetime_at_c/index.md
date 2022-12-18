@@ -23,10 +23,7 @@ what this would really mean, and why it's at best half-wrong, consider this diag
 ![spacetime diagram of a car and a cow, in the cow's frame of reference](cow-frame.png)
 
 It's a series of snapshots in the a car and a cow.
-Time moves forward as we go up the page. (If we had wanted to, we could have interchanged
-the axes or reversed either or both of them. Making the time axis vertical, and
-making the top point toward the future, is a standard convention in relativity,
-like the conventional orientation of the compass directions on a map.)
+Time moves forward as we go up the page.
 The cow sees itself as being at rest,
 while the car drives by on the road.
 
