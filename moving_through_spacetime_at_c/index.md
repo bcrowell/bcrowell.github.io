@@ -1,7 +1,7 @@
 Do we all move through spacetime at the speed of light?
 ===================================================
 
-Has anyone told you that according to Einstein's theory of relativity, we all move through spacetime at the speed of light?
+You may have heard that according to Einstein's theory of relativity, we all move through spacetime at the speed of light.
 Is this true?
 
 Short answer: no.
@@ -10,7 +10,7 @@ The rest of this blog post is the long answer. The basic issue is that this char
 using loose metaphorical language to try to describe math and physics. They write down some equations and some words, and
 they intend you to understand the equations and just use the words as a way to make the medicine go down more smoothly.
 But once these verbal misstatements emerge into the wild, they acquire lives of their own, unmoored from what they were
-suppoed to represent.
+supposed to represent.
 It just goes to show that using English to describe math is like using watercolors to describe a symphony. Fidelity and precision suffer.
 
 ![abstract painting by Kupka, 1912, Amorpha, fugue en deux couleurs](kupka.png)
@@ -62,6 +62,10 @@ mode of thought or description, and it isn't true or false.)
 ![spacetime diagram of a man walking his dog, as a series of snapshots, representing the block universe idea](block-universe.png)
 
 *(Figure by the author and his dog.)*
+
+By the way, absolutely *nothing* I've said so far has anything to do with Einstein's theory of relativity.
+All of this could have been written before Einstein was born, as a description of the kind of relativity
+originated by Galileo.
 
 So returning to our original question, do we all move through spacetime at the speed of light?
 Well, objects don't move through spacetime. Objects move through space. If you depict an object in spacetime, you have a world-line. The world-line doesn't move through spacetime, it simply extends across spacetime. It doesn't move. It is.
