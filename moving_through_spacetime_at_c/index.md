@@ -17,6 +17,9 @@ It just goes to show that using English to describe math is like using watercolo
 
 *A painting that actually was intended to depict a musical form, at least according to the title. Kupka, "fugue en deux couleurs," 1912.*
 
+Spacetime
+---------
+
 This idea of "moving through spacetime at c" seems to be something originally perpetrated by the popularizer Brian Greene. To understand
 what this would really mean, and why it's at best half-wrong, consider this diagram.
 
@@ -64,8 +67,15 @@ By the way, absolutely *nothing* I've said so far has anything to do with Einste
 All of this could have been written before Einstein was born, as a description of the kind of relativity
 originated by Galileo.
 
+![map of US and Canada](canada.png)
+
+*The US-Canada border isn't moving through North America. It simply extends across it. ( https://commons.wikimedia.org/wiki/File:Mapa_america_do_norte.svg - CC-BY-SA)*
+
 So returning to our original question, do we all move through spacetime at the speed of light?
 Well, objects don't move through spacetime. Objects move through space. If you depict an object in spacetime, you have a world-line. The world-line doesn't move through spacetime, it simply extends across spacetime, just as the US-Canada border *extends across* the continent but doesn't "move though" it. 
+
+Directions in space, directions in spacetime
+--------------------------------------------
 
 To understand why Greene, in his misguided naughtiness,  would want to say it this way, let's imagine you're sailing on the ocean and you want
 to describe the direction you're going. You can do it using a compass bearing from 0 to 360 degrees, which is what sailors actually do, but
@@ -95,6 +105,9 @@ Greene's portrayal of us as "moving through spacetime at the speed of light" see
 
 Something I haven't even discussed yet is what is the formula that plays the role of the Pythagorean theorem for a spacetime diagram. Let's hold that thought for a moment and come back to it, because it will be more obvious in a moment how it would be relevant.
 
+A different presentation, with its own problems
+-----------------------------------------------
+
 Greene started spreading this bad idea around 2000, but more recently, with people increasingly getting their pop-sci information from videos rather than the printed word, a lot of people seem to be influenced instead by a different and equally ill-considered popularization in a [seven-minute video](https://www.youtube.com/watch?v=iBTez-nTKes) by Sabine Hossenfelder. Her English-language description contradicts Greene's, even though they both certainly understand the physics. 
 
 Hossenfelder presents the following equation: Δs/Δt = sqrt[-(Δx/Δt)^2+c^2]. (I'm omitting the y and z dimensions for simplicity.) 
@@ -118,8 +131,41 @@ Not to beat a dead horse, but we can now see yet another reason why Greene's des
 
 To see that Greene and Hossenfelder are not saying the same thing, consider the case where a clock is in motion relative to you. Greene says that the clock "moves through spacetime" at precisely c. Hossenfelder says that the clock "moves" at less than or equal to c. (She is careful to explain that the result Δs/Δt=c applies only "relative to yourself," i.e., in a frame of reference where you're at rest.)
 
+The standard terminology is not just standard, it's better.
+-----------------------------------------------------------
+
 Since both Hossenfelder and Greene are both describing a symphony using watercolors, it's not possible to say whether the watercolor picture is literally right or wrong. However, physicists do talk to each other about physics using words, and we usually understand each other pretty well. That's partly because we agree on standard ways of using esoteric terminology like "quark" and "strangeness." So it's worth noting that when Greene says "moving through spacetime" and Hossenfelder refers to "spacetime distance," these are not pieces of terminology that professionals ever use with each other. In the case of Hossenfelder's "spacetime distance," the thing that we actually attach a standard technical phrase to is not the square root she defines but actually the quantity inside the square root, which is called the "spacetime interval," I. It's not hard to understand why the standard terminology became standard -- because it refers to something that is always a real number, and the phrase avoids making it sound like it's more closely analogous to distance than it actually is.
 
+A final note for physicists
+---------------------
+
+Finally, here's a little postscript that will be of more interest to physicists who are going to teach this kind of thing.
+There is a very good and fundamental reason why professional relativists have never used this kind of talk. 
+They realized very early on that it was advantageous to express all their equations as much as possible in the language
+of tensors. These include relativistic scalars (rank-0 tensors), which don't change under a Lorentz transformation, and
+relativistic vectors (rank 1), which transform like spacetime displacements. The advantage is that you can then avoid
+knowing lots of different, complicated equations that express how different types of quantities transform. All of your
+tensors obey the same consistent rules, and you can reason about them in the same ways. If you take a spacetime
+displacement Δx, which is a tensor, and divide by proper time Δs, which is a scalar, then you get the relativistic
+velocity vector v.
+
+But notice how in this style of popularization, you end up doing things like dividing a Δs by a Δt. Just as
+in freshman physics dividing a scalar by one component of a vector will not give you a scalar or a vector,
+so this procedure will not give you a relativistic scalar or vector.
+
+A [similar video presentation by Alessandro Roussel] runs into a related problem. Roussel uses a clever
+graphing technique in which the axes are 1/γ and v, so that the relativistic identity relating these two
+variables is an ellipse, or a circle in units where c=1. (In the timelike case, this is formally identical
+to the form of the equation presented by Hossenfelder.) But he takes the Pythagoran
+distance from the center of the circle and calls it "velocity." The problem here is that there is no
+Pythagorean metric that applies to the axes of this graph. If you draw an arrow from the center to a point
+on the circle, that arrow is *not* a vector, because it doesn't transform like any kind of vector (3-vector
+or 4-vector).
+
+So in all these cases, there is a problem because not only are these authors referring to something as
+a velocity that isn't called a velocity in standard terminology, but the thing they're talking about doesn't
+transform as a vector. This lays a bad foundation for students, who will see a needlessly complicated story
+in which there is no consistency in how various quantities behave under a Lorentz boost.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 18
 
