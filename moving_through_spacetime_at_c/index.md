@@ -153,7 +153,7 @@ But notice how in this style of popularization, you end up doing things like div
 in freshman physics dividing a scalar by one component of a vector will not give you a scalar or a vector,
 so this procedure will not give you a relativistic scalar or vector.
 
-A [similar video presentation by Alessandro Roussel] runs into a related problem. Roussel uses a clever
+A [similar video presentation by Alessandro Roussel](https://www.youtube.com/watch?v=au0QJYISe4c) runs into a related problem. Roussel uses a clever
 graphing technique in which the axes are 1/γ and v, so that the relativistic identity relating these two
 variables is an ellipse, or a circle in units where c=1. (In the timelike case, this is formally identical
 to the form of the equation presented by Hossenfelder.) But he takes the Pythagoran
