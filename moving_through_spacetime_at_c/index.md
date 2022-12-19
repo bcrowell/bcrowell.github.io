@@ -72,7 +72,7 @@ originated by Galileo.
 *The US-Canada border isn't moving through North America. It simply extends across it. ( https://commons.wikimedia.org/wiki/File:Mapa_america_do_norte.svg - CC-BY-SA)*
 
 So returning to our original question, do we all move through spacetime at the speed of light?
-Well, objects don't move through spacetime. Objects move through space. If you depict an object in spacetime, you have a world-line. The world-line doesn't move through spacetime, it simply extends across spacetime, just as the US-Canada border *extends across* the continent but doesn't "move though" it. 
+Well, objects don't move through spacetime. Objects move through space. If you depict an object in spacetime, you have a world-line. The world-line doesn't move through spacetime, it simply exists across spacetime, just as the US-Canada border *exists across* the continent but doesn't "move though" it. 
 
 Directions in space, directions in spacetime
 --------------------------------------------
@@ -143,7 +143,7 @@ Finally, here's a little postscript that will be of more interest to physicists 
 There is a very good and fundamental reason why professional relativists have never used this kind of talk. 
 They realized very early on that it was advantageous to express all their equations as much as possible in the language
 of tensors. These include relativistic scalars (rank-0 tensors), which don't change under a Lorentz transformation, and
-relativistic vectors (rank 1), which transform like spacetime displacements. The advantage is that you can then avoid
+relativistic vectors (rank 1), which transform in the same way spacetime displacements. The advantage is that you can then avoid
 knowing lots of different, complicated equations that express how different types of quantities transform. All of your
 tensors obey the same consistent rules, and you can reason about them in the same ways. If you take a spacetime
 displacement Δx, which is a tensor, and divide by proper time Δs, which is a scalar, then you get the relativistic
@@ -165,7 +165,11 @@ or 4-vector).
 So in all these cases, there is a problem because not only are these authors referring to something as
 a velocity that isn't called a velocity in standard terminology, but the thing they're talking about doesn't
 transform as a vector. This lays a bad foundation for students, who will see a needlessly complicated story
-in which there is no consistency in how various quantities behave under a Lorentz boost.
+in which there is no consistency in how various quantities behave under a Lorentz boost. If it's not obvious
+to you that this could be a real problem, take a look at old college textbooks from the 50's and 60's, such as
+the Berkeley Physics Series. You get all kinds of nasty stuff such as relativistic mass (rather than invariant mass),
+transverse acceleration, and longitudinal acceleration. It really does come off looking very complicated to the
+student when presented that way. 
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 18
 
