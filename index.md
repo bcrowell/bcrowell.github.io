@@ -12,3 +12,5 @@ blog posts
 [the African COVID paradox](african_covid_paradox) - 2022 Dec. 13
 
 [Do we all move through spacetime at the speed of light?](moving_through_spacetime_at_c) - 2022 Dec. 18
+
+[Why can't you go faster than the speed of light? -- An explanation without equations or fallacies.](faster_than_light) - 2022 Dec. 31
