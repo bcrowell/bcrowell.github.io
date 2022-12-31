@@ -139,7 +139,8 @@ through spacetime, so that its motion can be represented as an arrow without any
 a certain amount of time. When a clock takes a more circuitous route from A to B, like the clocks aboard the
 plane, it records a different amount of time, which is always *less* than the time taken by the non-swervy clock.
 
-Because these effects occur regardless of the type of clock, we consider them to be facts about time itself,
+Because these effects occur regardless of the type of clock, and always obey the same rules,
+we consider them to be facts about time itself,
 and we say that time is not absolute. If time isn't absolute, then neither is simultaneity. Just as Newton and
 Galileo showed that "same place" depends on one's frame of reference, Einstein showed the lack of any universal
 notion of "same time." If observers A and B are in motion relative to one another, they will in general disagree
@@ -148,7 +149,21 @@ both about whether events occur at the same place and about whether they occur a
 Measuring a spacetime vector
 ----------------------------
 
+The experiments show that if a clock moves smoothly through spacetime, then the time elapsed on the clock
+depends only on the displacement vector, and not on anything else. This gives us a way of defining a measurement
+of the "length" of the vector. 
 
+![Simplified spacetime diagram of the Hafele-Keating experiment.](hafele-keating-and-simplification.png)
+
+But watch out, because these "lengths" don't have to behave in all the same
+ways as lengths of arrows on a piece of paper. The figure above is a simplified spacetime diagram of the Hafele-Keating
+experiment, with the plane simply traveling straight away from home base and then coming back at the same speed.
+If you thought that ruler distances on paper were valid indications of clock time, then you would expect the
+traveling clock to record more time than the home-base one. But remember, it's always the clock that *doesn't*
+speed up, slow down, or swerve that experiences the most time. That is, it's the other way around compared
+to what you'd think from the lengths on the page. If it helps your intuition, you can
+think of the line segments as roads, and the clock times as indications of how many gas stations
+you pass on those roads. In this particular diagram, the longer road just happens to have fewer gas stations.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 31
 
