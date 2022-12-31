@@ -117,7 +117,25 @@ known limitations), then we say that what we're seeing is a behavior of time its
 
 The second claim Newton is making is that nothing can influence the rate at which time flows. This is a scientific
 claim, not just a philosophical preference, because it can be tested by experiments. When we test it, we find that it's false.
+The evidence was indirect when Einstein first published his theory of relativity in 1905, but
+eventually technology became good enough to allow conceptually *simple* experiments
+that students in the early 20th century could only discuss in terms like "Imagine that we could..."
+A good jumping-on point is 1971. In that year, J.C. Hafele and R.E. Keating
+brought atomic clocks aboard commercial
+airliners, and went around the world, once from east to west and once from west to east.
+Hafele and Keating observed that there was a discrepancy between the times measured by the
+traveling clocks and the times measured by similar clocks that stayed home at the U.S. Naval Observatory in Washington.
+The east-going clock lost time, ending up off by -59±10 nanoseconds, while the west-going one gained 273±7 ns.
 
+
+![Hafele and Keating with their clock](hk-in-cabin.jpg)
+
+*The clock took up two seats, and two tickets were bought for it under the name of "Mr. Clock." (Copyright 1971, Associated press. Used under U.S. fair use exception to copyright law.)*
+
+Newton's notion of absolute time seems like common sense, but in fact it's only an approximation.
+For a passenger jet, it's quite a good approximation, and we need fancy atomic clocks to detect the
+discrepancy. For a subatomic particle in a particle accelerator, or the bits and pieces moving around
+inside the atomic nuclei in your body, it can be a really bad approximation.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 31
 
