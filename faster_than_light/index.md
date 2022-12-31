@@ -4,7 +4,8 @@ Why can't you go faster than the speed of light? -- An explanation without equat
 It's easy to find explanations online of why you can't go faster than the speed of light. What's harder
 to find is an explanation that isn't over-simplified to the point of fallacy. I've done
 [a previous blog post](https://bcrowell.github.io/moving_through_spacetime_at_c/) debunking one
-family of these pseudo-explanations.
+family of these pseudo-explanations. (If you read that article, then you'll see that I've recycled
+a few diagrams and a bit of text here.)
 
 It's also easy to find explanations that labor through a lot of algebra to arrive at this
 type of result, without any of the dumb non sequiturs. Almost any pre-internet writeup
@@ -164,6 +165,23 @@ speed up, slow down, or swerve that experiences the most time. That is, it's the
 to what you'd think from the lengths on the page. If it helps your intuition, you can
 think of the line segments as roads, and the clock times as indications of how many gas stations
 you pass on those roads. In this particular diagram, the longer road just happens to have fewer gas stations.
+In this blog post, I'll present just enough information about the rules for "how many gas stations" there are in order
+to make a logically rigorous framework for getting at my main topic, which is why relativity forbids faster-than-light motion.
+
+Because a spacetime displacement vector extends across both time and space, what we have here is a measurement
+system that is somehow a unified system of measurement for both time and space. Physicists call it "the metric,"
+and it's basically nothing more than a set of "how many	gas stations" rules. In school you learned about the
+Pythagorean theorem (sometimes referred to in textbooks as "the distance formula"), which is one way of characterizing
+the metric of Euclid's conception of space. The metric of relativity combines this into time measurement to make
+a metric for 3+1-dimensional spacetime. One consequence of this is that in relativity, we have a natural system
+of units in which the same units are used for both time and space. (This is similar to other cases in the physics where
+units had to be unified and reconciled. For instance, the calorie and the kilowatt-hour are both units of energy, but
+people didn't realize that at first; the fact that we use different units for food-energy and lightbulb-energy is
+just a historical inconvenience.) In these natural units, when you compute speed by dividing distance by time,
+the units cancel out. That is, velocity is a unitless thing. That means there is some special velocity that equals
+1. This is the speed that, as it turns out, light travels at, but relativists actually think of it as more of
+a conversion factor between time and space units, and they prefer to work in a system of units where the conversion
+factor simply equals 1. One such system of units is the one where we use years to measure time, and light-years for distance.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 31
 
