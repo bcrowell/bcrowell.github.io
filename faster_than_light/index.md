@@ -127,15 +127,28 @@ Hafele and Keating observed that there was a discrepancy between the times measu
 traveling clocks and the times measured by similar clocks that stayed home at the U.S. Naval Observatory in Washington.
 The east-going clock lost time, ending up off by -59±10 nanoseconds, while the west-going one gained 273±7 ns.
 
-
 ![Hafele and Keating with their clock](hk-in-cabin.jpg)
 
 *The clock took up two seats, and two tickets were bought for it under the name of "Mr. Clock." (Copyright 1971, Associated press. Used under U.S. fair use exception to copyright law.)*
 
 Newton's notion of absolute time seems like common sense, but in fact it's only an approximation.
 For a passenger jet, it's quite a good approximation, and we need fancy atomic clocks to detect the
-discrepancy. For a subatomic particle in a particle accelerator, or the bits and pieces moving around
-inside the atomic nuclei in your body, it can be a really bad approximation.
+discrepancy. For a subatomic particle in a particle accelerator, or the bits and pieces moving around violently
+inside the atomic nuclei in your body, it can be a really bad approximation. When a clock moves smoothly
+through spacetime, so that its motion can be represented as an arrow without any curves or kinks, it records
+a certain amount of time. When a clock takes a more circuitous route from A to B, like the clocks aboard the
+plane, it records a different amount of time, which is always *less* than the time taken by the non-swervy clock.
+
+Because these effects occur regardless of the type of clock, we consider them to be facts about time itself,
+and we say that time is not absolute. If time isn't absolute, then neither is simultaneity. Just as Newton and
+Galileo showed that "same place" depends on one's frame of reference, Einstein showed the lack of any universal
+notion of "same time." If observers A and B are in motion relative to one another, they will in general disagree
+both about whether events occur at the same place and about whether they occur at the same time.
+
+Measuring a spacetime vector
+----------------------------
+
+
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 31
 
