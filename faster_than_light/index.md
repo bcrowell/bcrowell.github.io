@@ -348,11 +348,33 @@ a positive measure, and its speed will be less than c.
 Light has no mass, so now we can see why light travels at c. Its momentum vector has a metric measure of zero, so its
 displacement vector also always has zero measure, which indicates motion at c.
 
-So we have a third and qualitatively different defense against faster-than-light motion. If anything *can* go faster than c,
-it can't be normal matter. It would have to be some other, exotic form of matter whose mass-squared was *negative*. In other words,
-its mass would have to be an imaginary number. That's not to say that we can rule out such a possibility just because
-an imaginary mass seems weird. Maybe exotic particles of this type exist. We've reserved a label for them if the ever
-turn up -- they're to be called "tachyons," from the Greek word for "fast."
+So we have a third and qualitatively different defense against
+faster-than-light motion. If anything *can* go faster than c, it can't
+be normal matter. It would have to be some other, exotic form of
+matter whose mass-squared was *negative*. In other words, its mass
+would have to be an imaginary number. That's not to say that we can
+rule out such a possibility just because an imaginary mass seems
+weird. Maybe exotic particles of this type exist. We've reserved a
+label for them if the ever turn up -- they're to be called "tachyons,"
+from the Greek word for "fast." Tachyons have been searched for as
+products of radioactive decay (Alvager and Erman, 1965; Baltay et al.,
+1970) and in cosmic ray showers (Clay, 1988), but none were found.
+Some excitement was occasioned in a 2011 debacle when the
+particle-physics experiment OPERA mistakenly reported
+faster-than-light propagation of neutrinos; the anomaly was later
+found to be the result of a loose connection on a fiber-optic cable
+plus a miscalibrated oscillator. An experiment called KATRIN is currently
+measuring the mass of a certain type of neutrino, and in fact the way the
+experiment works is that what it really measures is the mass-squared. So
+if this type of neutrino has a negative mass-squared, and it's not too close
+to zero, KATRIN may be able to tell that, and therefore prove that type
+of neutrino to be tachyonic. Nevertheless, I don't think any physicists
+want to bet a six-pack that this is how it will actually come out.
+
+So, for example, we could imagine a device similar to the Star Trek
+transporter, and it *could* teleport you faster than c, but only if the
+beam that it transmitted was made of tachyons -- which we currently have
+no evidence for the existence of.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 31
 
