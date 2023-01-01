@@ -7,9 +7,11 @@ to find is an explanation that isn't over-simplified to the point of fallacy. I'
 family of these pseudo-explanations. (If you read that article, then you'll see that I've recycled
 a few diagrams and a bit of text here.)
 
-![A digital painting of a fictional spacecraft with stars moving by quickly](spaceship.png)
+![The KATRIN spectrometer being transported.](katrin.png)
 
-*(Painting by Wikimedia Commons user Alorin, CC-BY-SA licensed. https://commons.wikimedia.org/wiki/File:Warp_drive_starship.png)*
+*The KATRIN spectrometer being transported. (See text near the end of this article.)
+A possible, but unlikely, result of the experiment would be to show that a certain kind of
+neutrino goes faster than light.*
 
 It's also easy to find explanations that labor through a lot of algebra to arrive at this
 type of result, without any of the dumb non sequiturs. Almost any pre-internet writeup
@@ -320,6 +322,10 @@ Defense number 2, causality
 The first defense only tells us that we're not going to be able to get past c by steadily pouring on more and more steam.
 But that doesn't rule out the kind of scenario like the discontinuous "jump to hyperspace" in Star Wars.
 
+![A digital painting of a fictional spacecraft with stars moving by quickly](spaceship.png)
+
+*(Painting by Wikimedia Commons user Alorin, CC-BY-SA licensed. https://commons.wikimedia.org/wiki/File:Warp_drive_starship.png)*
+
 But nobody has ever found a way to do such a jump, and relativity gives us a separate, specific reason to believe that it isn't
 possible. Suppose that we have a spacey vector, →. To an observer in a certain state of motion, this is a simultaneity vector.
 But to observers who are moving to the left or right, this is *not* a simultaneity vector. To them, it will tip a little
@@ -382,6 +388,7 @@ if this type of neutrino has a negative mass-squared, and it's not too close
 to zero, KATRIN may be able to tell that, and therefore prove that type
 of neutrino to be tachyonic. Nevertheless, I don't think any physicists
 want to bet a six-pack that this is how it will actually come out.
+
 
 So, for example, we could imagine a device similar to the Star Trek
 transporter, and it *could* teleport you faster than c, but only if the
