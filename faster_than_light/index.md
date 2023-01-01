@@ -349,7 +349,7 @@ Defense number 3, dynamics
 
 An object has a vector called a momentum vector. In relativity, the momentum vector measures how hard an object's impact will
 be if it hits something. It also measures its energy, such as the energy in a firecracker or an atomic bomb. It turns out that
-in relativity, mass and energy are equivalent (the famous E=mc^2), so even a stationary, inert rock has a massive amount
+in relativity, mass and energy are equivalent (the famous E=mc^2), so even a stationary, inert rock has a stupendous amount
 of energy ("mass-energy"), and this too is incorporated into its momentum vector.
 
 Incorporated in what way? Well, there is only one sensible direction for the momentum vector to point, and that's parallel
