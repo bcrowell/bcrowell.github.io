@@ -11,7 +11,7 @@ a few diagrams and a bit of text here.)
 
 *The KATRIN spectrometer being transported. (See text near the end of this article.)
 A possible, but unlikely, result of the experiment would be to show that a certain kind of
-neutrino goes faster than light.*
+neutrino goes faster than light. (Wikimedia Commons user Dkw, CC-BY-SA license. https://commons.wikimedia.org/wiki/File:Ortsdurchfahrt-Leopoldshafen.jpg)*
 
 It's also easy to find explanations that labor through a lot of algebra to arrive at this
 type of result, without any of the dumb non sequiturs. Almost any pre-internet writeup
