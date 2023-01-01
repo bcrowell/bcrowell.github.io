@@ -18,7 +18,8 @@ fits in this category. A perfectly serviceable example is Einstein's own century
 
 In this blog post, I aim to give a no-swindle explanation that explores all the logical ins and outs, but
 with no equations, only graphs and diagrams. Yes, believe it or not, this type of topic can be discussed
-in a completely rigorous way without equations.
+in a completely rigorous way without equations. Because I'm only focusing on the single topic of faster-than-light
+motion, my article can be fairly short.
 
 My general take on the topic is that current physical theories don't so much *forbid* faster-than-light
 motion as *defend* against it, with a multi-layered defense system that, while worthy of any James Bond
