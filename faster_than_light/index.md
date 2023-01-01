@@ -7,7 +7,7 @@ to find is an explanation that isn't over-simplified to the point of fallacy. I'
 family of these pseudo-explanations. (If you read that article, then you'll see that I've recycled
 a few diagrams and a bit of text here.)
 
-![The KATRIN spectrometer being transported.](katrin.png)
+![The KATRIN spectrometer being transported.](katrin.jpg)
 
 *The KATRIN spectrometer being transported. (See text near the end of this article.)
 A possible, but unlikely, result of the experiment would be to show that a certain kind of
