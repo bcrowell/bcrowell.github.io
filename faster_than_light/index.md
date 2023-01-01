@@ -279,7 +279,7 @@ We're now all set to discuss the multiple impediments that relativity places in 
 Defense number 1, kinematics
 ----------------------------
 
-If draw the vector ↑ and then start drawing all the possibilities in between that and →, we will eventually have to
+If we draw the vector ↑ and then start drawing all the possibilities in between that and →, we will eventually have to
 transition from positive intervals to negative ones. At the transition point, we'll have a vector whose interval is
 zero. Conventionally, we draw our diagrams so that the scales are properly matched on the time and space axes, and
 then the zero interval is what occurs when the vector's representation on paper is at an angle of 45 degrees.
@@ -295,7 +295,7 @@ vector in some frame of reference.
 
 What can never happen is that any of these vectors has a zero or negative interval, because then it wouldn't
 be equivalent to a straight-up vector in any frame. Therefore as we accelerate the proton, the arrows can only
-tilt closer and closer to the 45-degree line, without ever reaching it.
+tilt closer and closer to the 45-degree line (the light cone), without ever reaching it.
 
 This is the first way in which relativity thwarts our faster-than-light plans: no object can be boosted
 past the speed of light by any continuous process of acceleration.
