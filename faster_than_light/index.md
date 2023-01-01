@@ -162,7 +162,7 @@ experiment, with the plane simply traveling straight away from home base and the
 
 If you thought that ruler distances on paper were valid indications of clock time, then you would expect the
 traveling clock to record more time than the home-base one. But remember, it's always the clock that *doesn't*
-speed up, slow down, or swerve that experiences the most time. That is, it's the other way around compared
+undergo anything but smooth motion that experiences the most time. That is, it's the other way around compared
 to what you'd think from the lengths on the page. If it helps your intuition, you can
 think of the line segments as roads, and the clock times as indications of how many gas stations
 you pass on those roads. In this particular diagram, the longer road just happens to have fewer gas stations.
