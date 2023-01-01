@@ -288,9 +288,71 @@ What can never happen is that any of these vectors has a zero or negative interv
 be equivalent to a straight-up vector in any frame. Therefore as we accelerate the proton, the arrows can only
 tilt closer and closer to the 45-degree line, without ever reaching it.
 
+This is the first way in which relativity thwarts our faster-than-light plans: no object can be boosted
+past the speed of light by any continuous process of acceleration.
 
+This may seem wrong, because it would seem that we could keep on adding one mile per hour to our
+speed, then another mile per hour, and so on, and eventually we would surpass c.
+Einstein later recalled that when he was trying to create special relativity, he got stuck on
+this point for about a year. Finally he realized that ``Time cannot be absolutely defined, and there is
+an inseparable relation between time and [...] velocity.'' Therefore it didn't need to be true that
+velocities add the way we normally assume. After this he finished his seminal paper
+on special relativity within five weeks.
 
+This is supposed to be a presentation without equations,
+but as a side note for those who want to see a more concrete example, the combination of velocities u and v turns out to be (u+v)/(1+uv). So for
+example, if you're going at a speed u=0.6 (60% of the speed of light), and you shoot a bullet from a gun at v=0.6 relative to you,
+the bullet's velocity is only about 88% of the speed of light, not 120%. It's only at low velocities that the product uv occurring in this
+formula becomes small compared to 1, in which case it's well approximated by u+v.
 
+Defense number 2, causality
+---------------------------
+
+The first defense only tells us that we're not going to be able to get past c by steadily pouring on more and more steam.
+But that doesn't rule out the kind of scenario like the discontinuous "jump to hyperspace" in Star Wars.
+
+But nobody has ever found a way to do such a jump, and relativity gives us a separate, specific reason to believe that it isn't
+possible. Suppose that we have a spacey vector, →. To an observer in a certain state of motion, this is a simultaneity vector.
+But to observers who is moving to the left or right, this is *not* a simultaneity vector. To them, it will tip a little
+bit so that it points somewhat into the past or future. In fact, any faster-than-light displacement vector has a negative
+interval, so it's equivalent to any other vector with a negative interval, including many that represent motion back into the past.
+This means that any mechanism for faster-than-light travel, communication, or transmission of energy is also a mechanism for
+traveling into the past, sending messages back to the past, or transmitting energy back to the past.
+
+These possibilities make physicists queasy, because they lead to time-travel paradoxes. For example, I could go back in time and
+murder my own grandfather before he met my grandmother. Well, who knows, maybe cause and effect in our universe don't have to work
+the way we mere mortals envision them. But if so, we've never seen any evidence of it.
+
+Defense number 3, dynamics
+--------------------------
+
+An object has a vector called a momentum vector. In relativity, the momentum vector measures how hard an object's impact will
+be if it hits something. It also measures its energy, such as the energy in a firecracker or an atomic bomb. It turns out that
+in relativity, mass and energy are equivalent (the famous E=mc^2), so even a stationary, inert rock has a massive amount
+of energy ("mass-energy"), and this too is incorporated into its momentum vector.
+
+Incorporated in what way? Well, there is only one sensible direction for the momentum vector to point, and that's parallel
+to the object's spacetime displacement vector. (To see this through a more formal argument, suppose, to the contrary, that the
+momentum and the displacement were *not* parallel. Then in a frame where the object was at rest, its displacement vector would
+be straight "up" on the page, but its momentum vector would tilt one way or the other. Which way? Right? Why right? Why not left?
+This would violate the inherent symmetry of space, but a variety of extremely precise
+experiments have failed to show any evidence of any such asymmetry in the laws of physics.)
+
+The metric is a machine that takes vectors and give back the corresponding interval as a measure of the input vector.
+If we put in a displacement vector, we get back an interval. If we put in a momentum vector, we get back a number that
+is interpreted as the square of the object's mass. Therefore if we take a material object, whose mass is a positive, nonzero
+number, then no matter how we accelerate the object, its momentum vector will
+always have the same measure. This means that its displacement vector, which points in the same direction, will also have
+a positive measure, and its speed will be less than c.
+
+Light has no mass, so now we can see why light travels at c. Its momentum vector has a metric measure of zero, so its
+displacement vector also always has zero measure, which indicates motion at c.
+
+So we have a third and qualitatively different defense against faster-than-light motion. If anything *can* go faster than c,
+it can't be normal matter. It would have to be some other, exotic form of matter whose mass-squared was *negative*. In other words,
+its mass would have to be an imaginary number. That's not to say that we can rule out such a possibility just because
+an imaginary mass seems weird. Maybe exotic particles of this type exist. We've reserved a label for them if the ever
+turn up -- they're to be called "tachyons," from the Greek word for "fast."
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 31
 
