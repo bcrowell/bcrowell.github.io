@@ -213,6 +213,7 @@ other by some change in our frame of reference. For spacetime vectors in 3+1 dim
 some combination of a rotation and a change in your state of motion. (It may also require an additional
 flip of the vector so that the future-directed arrowhead becomes one that points toward the past. For now, let's
 not worry about that possibility, which is not something that you can do without being Benjamin Button.)
+Two such vectors can be considered equivalent.
 
 What makes time different from space
 ------------------------------------
@@ -230,7 +231,66 @@ it in her own frame of reference: she is at rest the whole time, so the arrow po
 At A she sends out a space probe to the right at a certain speed relative to her. It's programmed to cruise for a certain
 time, then, at event D, turn around blast its rocket engines so that it comes back at the same speed (again relative to her). It arrives back
 at event C. The scientist measures the time from A to C, so retrospectively she can identify the event B that was
-at the mid-point. Based on this experiment, she can say that events B and D were simultaneous.
+at the mid-point. Based on this experiment, she can say that events B and D were simultaneous. (This procedure is referred to
+as Einstein synchronization of events B and D.)
+
+So according to this observer, her own vector is purely in the time direction, while a vector from B to D, →, would be purely spatial, i.e.,
+she says that B and D are simultaneous.
+
+We can't say that B and D are simultaneous in any *absolute* sense. An observer in a different state of motion would say that they weren't.
+But to her, they are. The fact that they are simultaneous *to her* can be summarized as a fact about her vector, which looks like this ↑,
+and the B-D vector, which looks like this →. They look perpendicular when drawn this way, in this frame, so we say that they're
+"orthogonal." When we have a metric (her ability to have a clock), we get this kind of definition of orthogonality for free.
+But the rules of orthogonality, like the rules of length-measurement for vectors, are not the ones we would guess from the representation of
+the arrows on a piece of paper. We can't always infer whether vectors are orthogonal based on whether they form a 90-degree
+angle when we draw them. We simply *say* that they're orthogonal if they test out as orthogonal in this type of experiment.
+
+Now suppose we have two of these orthogonal vectors, like  → and ↑, and we compare their intervals. For the timey one,
+this is the square of the clock time along it. For the spacey one, it's not at all obvious that we can even define any
+measure. We can't send a clock along it, because that would require the clock to travel at infinite speed, or teleport
+(at least in the scientist's frame of reference).
+But let's suppose that the metric can be extended in some nice way to include this type of vector, and see what conclusions
+we can reach.
+
+The intervals can't be the same, because then the two vectors would be equivalent, but time and space aren't the same,
+so we don't expect there to be a way to interchange their roles just by spinning around or changing our state of motion.
+
+Nor can either interval be zero, because then we wouldn't have a unified system of measurement that gave useful results
+for both time and space.
+
+The two intervals can't have the same sign, because then we could stretch one of them to match the other, and then they'd
+have the same interval, which we've already ruled out.
+
+Therefore the two intervals must have opposite signs. We've picked the convention that timey vectors have positive intervals,
+so we'll assign negative intervals to spacey ones. A meter stick's spacetime vector is minus the square of its length, in the
+appropriate units (such as light-years).
+
+We're now all set to discuss the multiple impediments that relativity places in the way of would-be faster-than-light astronauts.
+
+Defense number 1, kinematics
+----------------------------
+
+If draw the vector ↑ and then start drawing all the possibilities in between that and →, we will eventually have to
+transition from positive intervals to negative ones. At the transition point, we'll have a vector whose interval is
+zero. Conventionally, we draw our diagrams so that the scales are properly matched on the time and space axes, and
+then the zero interval is what occurs when the vector's representation on paper is at an angle of 45 degrees.
+This amount of tilt is the speed that we call c, and c also happens to be the speed of light.
+
+Now suppose that an object starts at rest. Say it's a proton. For any period when it's at rest,
+its spacetime displacement is a straight-up arrow. Next we speed it up a little (which is what actually happens
+to a proton inside a particle accelerator). Now that it's in this new state of motion, any period of its
+track through spacetime will be an arrow that tilts (let's say to the right). We accelerate it some more, and
+it tilts some more. But of course, we could always change our frame of reference so that we've caught up with
+Mr. Proton and are cruising alongside of him. That is, any of these vectors is equivalent to a straight-up
+vector in some frame of reference.
+
+What can never happen is that any of these vectors has a zero or negative interval, because then it wouldn't
+be equivalent to a straight-up vector in any frame. Therefore as we accelerate the proton, the arrows can only
+tilt closer and closer to the 45-degree line, without ever reaching it.
+
+
+
+
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 31
 
