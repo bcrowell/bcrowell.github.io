@@ -383,7 +383,7 @@ Some excitement was occasioned in a 2011 debacle when the
 particle-physics experiment OPERA mistakenly reported
 faster-than-light propagation of neutrinos; the anomaly was later
 found to be the result of a loose connection on a fiber-optic cable
-plus a miscalibrated oscillator. An experiment called KATRIN is currently
+plus a miscalibrated oscillator. An experiment called KATRIN, pictured at the top of this article, is currently
 measuring the mass of a certain type of neutrino, and in fact the way the
 experiment works is that what it really measures is the mass-squared. So
 if this type of neutrino has a negative mass-squared, and it's not too close
