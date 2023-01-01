@@ -268,7 +268,10 @@ have the same interval, which we've already ruled out.
 
 Therefore the two intervals must have opposite signs. We've picked the convention that timey vectors have positive intervals,
 so we'll assign negative intervals to spacey ones. A meter stick's spacetime vector is minus the square of its length, in the
-appropriate units (such as light-years).
+appropriate units (such as light-years). The result is to divide spacetime into three portions, with the boundaries defined by
+a double cone.
+
+![Diagram showing vectors inside the light cone, with positive interval, and outside it, with negative interval.](light-cone.png)
 
 We're now all set to discuss the multiple impediments that relativity places in the way of would-be faster-than-light astronauts.
 
