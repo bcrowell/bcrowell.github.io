@@ -15,7 +15,7 @@ neutrino goes faster than light. (Wikimedia Commons user Dkw, CC-BY-SA license. 
 
 It's also easy to find explanations that labor through a lot of algebra to arrive at this
 type of result, without any of the dumb non sequiturs. Almost any pre-internet writeup
-fits in this category. A perfectly serviceable example is Einstein's own century-old popularization,
+fits in this category. A perfectly serviceable example is Einstein's own book-length popularization from 1916,
 [Relativity, the special and general theory: A popular exposition](https://www.gutenberg.org/ebooks/5001).
 
 In this blog post, I aim to give a no-swindle explanation that explores all the logical ins and outs, but
@@ -25,9 +25,11 @@ motion, my article can be fairly short.
 
 My general take on the topic is that current physical theories don't so much *forbid* faster-than-light
 motion as *defend* against it, with a multi-layered defense system that, while worthy of any James Bond
-villain's secret island fortress, is not necessarily impregnable. There actually isn't any reason that is
-"the" reason you can't go faster than the speed of light, and in fact one of the good ways of detecting
-bogus presentations is that they make it sound as if there is a single one.
+villain's secret island fortress, is not necessarily impregnable. There actually isn't any one reason that is
+"the" reason you can't go faster than the speed of light, and in fact a  good way of detecting
+bogus presentations is that they make it sound as if there is a single one. Another way you can tell
+a low-quality explanation is that they try to make it sound as if the result just logically has to be
+that way, without any input from observations or experiments, such as the one pictured above.
 
 Spacetime and motion
 -------------------------
