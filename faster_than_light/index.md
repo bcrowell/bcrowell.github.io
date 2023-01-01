@@ -183,6 +183,55 @@ the units cancel out. That is, velocity is a unitless thing. That means there is
 a conversion factor between time and space units, and they prefer to work in a system of units where the conversion
 factor simply equals 1. One such system of units is the one where we use years to measure time, and light-years for distance.
 
+By the way, although the mathematical details are not really our topic here, it's common that we will want to talk
+about the *square* of the elapsed clock time along a certain vector, which is called the "interval," I. For example,
+if a clock moves smoothly, along a certain vector, and its elapsed time is 3 years, then we would measure the
+vector by its interval I=9 (in units of years-squared!). This turns out to be more convenient basically because
+our system of space-time measurement has to be backward-compatible somehow with ruler measurements in space,
+and those have to obey the Pythagorean theorem, which has squares in it.
+
+What gives a vector its sense of individuality
+----------------------------------------------
+
+The figure shows two photos of a pen on a desktop. Are the pens pointing in the same direction?
+
+![A pen shown in two differently rotated frames of reference.](pens.png)
+
+You can probably tell that this is a trick question, because the desktop has a wood grain to it,
+and the wood is oriented differently in the two images. In fact, these are two copies of the same
+photo, just rotated a little.
+
+This example shows that it can be a little tricky to define whether two vectors are "really"
+the same. Vectors that look different could actually be the same vector, just seen by observers
+whose frames of reference are rotated or in motion relative to one another.
+
+One thing we can absolutely say for sure is that if the two vectors don't have the same measure, then
+they aren't the same. If I'd shown you a short pen and a long pen, there wouldn't have been any doubt.
+
+The converse is also true: if two vectors have the same measure, then we can always turn one into the
+other by some change in our frame of reference. For spacetime vectors in 3+1 dimensions, this may require
+some combination of a rotation and a change in your state of motion. (It may also require an additional
+flip of the vector so that the future-directed arrowhead becomes one that points toward the past. For now, let's
+not worry about that possibility, which is not something that you can do without being Benjamin Button.)
+
+What makes time different from space
+------------------------------------
+
+When I was a kid, my pot-smoking relatives told me that time was "the fourth dimension." Groovy, man.
+But we know that this isn't exactly true, because time doesn't behave like space. For example, we can
+freely choose to move around in space, but not in time. This is why physicists talk about spacetime as
+having 3+1 dimenions rather than 4. 
+
+![Spacetime diagram of synchronization.](synchronization.png)
+
+To see more precisely how this plays out in relativity, consider the experiment shown in the figure. The
+scientist's spacetime displacement vector goes from A to C. The diagram is drawn the way she would draw
+it in her own frame of reference: she is at rest the whole time, so the arrow points straight up.
+At A she sends out a space probe to the right at a certain speed relative to her. It's programmed to cruise for a certain
+time, then, at event D, turn around blast its rocket engines so that it comes back at the same speed (again relative to her). It arrives back
+at event C. The scientist measures the time from A to C, so retrospectively she can identify the event B that was
+at the mid-point. Based on this experiment, she can say that events B and D were simultaneous.
+
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2022 Dec. 31
 
 [other blog posts](https://bcrowell.github.io/)
