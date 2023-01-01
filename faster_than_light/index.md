@@ -7,6 +7,10 @@ to find is an explanation that isn't over-simplified to the point of fallacy. I'
 family of these pseudo-explanations. (If you read that article, then you'll see that I've recycled
 a few diagrams and a bit of text here.)
 
+![A digital painting of a fictional spacecraft with stars moving by quickly](spaceship.png)
+
+*(Painting by Wikimedia Commons user Alorin, CC-BY-SA licensed. https://commons.wikimedia.org/wiki/File:Warp_drive_starship.png)*
+
 It's also easy to find explanations that labor through a lot of algebra to arrive at this
 type of result, without any of the dumb non sequiturs. Almost any pre-internet writeup
 fits in this category. A perfectly serviceable example is Einstein's own century-old popularization,
