@@ -221,7 +221,7 @@ they aren't the same. If I'd shown you a short pen and a long pen, there wouldn'
 The converse is also true: if two vectors have the same measure, then we can always turn one into the
 other by some change in our frame of reference. For spacetime vectors in 3+1 dimensions, this may require
 some combination of a rotation and a change in your state of motion. (It may also require an additional
-flip of the vector so that the future-directed arrowhead becomes one that points toward the past. For now, let's
+flip of the vector so that a future-directed arrowhead becomes one that points toward the past. For now, let's
 not worry about that possibility, which is not something that you can do without being Benjamin Button.)
 Two such vectors, which have the same interval, can be considered equivalent.
 
@@ -239,16 +239,16 @@ To see more precisely how this plays out in relativity, consider the experiment 
 scientist's spacetime displacement vector goes from A to C. The diagram is drawn the way she would draw
 it in her own frame of reference: she is at rest the whole time, so the arrow points straight up.
 At A she sends out a space probe to the right at a certain speed relative to her. It's programmed to cruise for a certain
-time, then, at event D, turn around blast its rocket engines so that it comes back at the same speed (again relative to her). It arrives back
+time, then, at event D, turn around and blast its rocket engines so that it comes back at the same speed (again relative to her). It arrives back
 at event C. The scientist measures the time from A to C, so retrospectively she can identify the event B that was
 at the mid-point. Based on this experiment, she can say that events B and D were simultaneous. (This procedure is referred to
 as Einstein synchronization of events B and D.)
 
-So according to this observer, her own vector is purely in the time direction, while a vector from B to D, →, would be purely spatial, i.e.,
-she says that B and D are simultaneous.
+So according to this observer, her own vector is purely in the time direction, while a vector from B to D, →, would be purely spatial.
 
 We can't say that B and D are simultaneous in any *absolute* sense. An observer in a different state of motion would say that they weren't.
-But to her, they are. The fact that they are simultaneous *to her* can be summarized as a fact about her vector, which looks like this ↑,
+But to her, they are. The fact that they are simultaneous *to her* can be summarized as a fact about the relationship
+between her own vector, which looks like this ↑,
 and the B-D vector, which looks like this →. They look perpendicular when drawn this way, in this frame, so we say that they're
 "orthogonal." When we have a metric (her ability to have a clock), we get this kind of definition of orthogonality for free.
 But the rules of orthogonality, like the rules of length-measurement for vectors, are not the ones we would guess from the representation of
@@ -273,10 +273,7 @@ have the same interval, which we've already ruled out.
 
 Therefore the two intervals must have opposite signs. We've picked the convention that timey vectors have positive intervals,
 so we'll assign negative intervals to spacey ones. A meter stick's spacetime vector is minus the square of its length, in the
-appropriate units (such as light-years). The result is to divide spacetime into three portions, with the boundaries defined by
-a double cone.
-
-![Diagram showing vectors inside the light cone, with positive interval, and outside it, with negative interval.](light-cone.png)
+appropriate units (such as light-years).
 
 We're now all set to discuss the multiple impediments that relativity places in the way of would-be faster-than-light astronauts.
 
@@ -288,6 +285,13 @@ transition from positive intervals to negative ones. At the transition point, we
 zero. Conventionally, we draw our diagrams so that the scales are properly matched on the time and space axes, and
 then the zero interval is what occurs when the vector's representation on paper is at an angle of 45 degrees.
 This amount of tilt is the speed that we call c, and c also happens to be the speed of light.
+
+If we fix our attention on one event, and consider other events in spacetime according to their displacements from it, then
+we get a picture like the one shown below. Spacetime gets divided up into three portions, with the boundaries defined by
+a double cone. This three-way division is different from the Newtonian two-way setup where there is only the past and the
+future.
+
+![Diagram showing vectors inside the light cone, with positive interval, and outside it, with negative interval.](light-cone.png)
 
 Now suppose that an object starts at rest. Say it's a proton. For any period when it's at rest,
 its spacetime displacement is a straight-up arrow. Next we speed it up a little (which is what actually happens
