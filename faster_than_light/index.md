@@ -63,7 +63,7 @@ If you've taken
 a physics class in high school or college, you've probably heard of vectors in three-dimensional
 space. In relativity, when we say "vector" we mean a vector in spacetime, which has "3+1 dimensions,"
 i.e., three dimensions of space and one dimension of time.
-In order to depict things on a page or screen, we usually omit two of the dimensions, which makes
+In order to depict things on a page or screen, we usually omit two of the space dimensions, which makes
 it a depiction in 1+1 dimensions.
 
 One way of defining a displacement vector is by specifying two events, which are its
@@ -124,7 +124,7 @@ that students in the early 20th century could only discuss in terms like "Imagin
 A good jumping-on point is 1971. In that year, J.C. Hafele and R.E. Keating
 brought atomic clocks aboard commercial
 airliners, and went around the world, once from east to west and once from west to east.
-Hafele and Keating observed that there was a discrepancy between the times measured by the
+They observed that there was a discrepancy between the times measured by the
 traveling clocks and the times measured by similar clocks that stayed home at the U.S. Naval Observatory in Washington.
 The east-going clock lost time, ending up off by -59±10 nanoseconds, while the west-going one gained 273±7 ns.
 
@@ -144,7 +144,7 @@ Because these effects occur regardless of the type of clock, and always obey the
 we consider them to be facts about time itself,
 and we say that time is not absolute. If time isn't absolute, then neither is simultaneity. Just as Newton and
 Galileo showed that "same place" depends on one's frame of reference, Einstein showed the lack of any universal
-notion of "same time." If observers A and B are in motion relative to one another, they will in general disagree
+notion of "same time." If two observers are in motion relative to one another, they will in general disagree
 both about whether events occur at the same place and about whether they occur at the same time.
 
 Measuring a spacetime vector
@@ -154,11 +154,12 @@ The experiments show that if a clock moves smoothly through spacetime, then the 
 depends only on the displacement vector, and not on anything else. This gives us a way of defining a measurement
 of the "length" of the vector. 
 
+But watch out, because these "lengths" don't have to behave in all the same
+ways as lengths of arrows on a piece of paper. The figure below is a simplified spacetime diagram of the Hafele-Keating
+experiment, with the plane simply traveling straight away from home base and then coming back at the same speed.
+
 ![Simplified spacetime diagram of the Hafele-Keating experiment.](hafele-keating-and-simplification.png)
 
-But watch out, because these "lengths" don't have to behave in all the same
-ways as lengths of arrows on a piece of paper. The figure above is a simplified spacetime diagram of the Hafele-Keating
-experiment, with the plane simply traveling straight away from home base and then coming back at the same speed.
 If you thought that ruler distances on paper were valid indications of clock time, then you would expect the
 traveling clock to record more time than the home-base one. But remember, it's always the clock that *doesn't*
 speed up, slow down, or swerve that experiences the most time. That is, it's the other way around compared
