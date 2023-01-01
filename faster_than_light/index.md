@@ -182,7 +182,7 @@ just a historical inconvenience.) In these natural units, when you compute speed
 the units cancel out. That is, velocity is a unitless thing. That means there is some special velocity that equals 1.
 This is the speed that, as it turns out, light travels at, but relativists actually think of it as more of
 a conversion factor between time and space units, and they prefer to work in a system of units where the conversion
-factor simply equals 1. One such system of units is the one where we use years to measure time, and light-years for distance.
+factor simply equals 1. One such system of units would be the one where we use years to measure time, and light-years for distance.
 
 By the way, although the mathematical details are not really our topic here, it's common that we will want to talk
 about the *square* of the elapsed clock time along a certain vector, which is called the "interval," I. For example,
@@ -214,7 +214,7 @@ other by some change in our frame of reference. For spacetime vectors in 3+1 dim
 some combination of a rotation and a change in your state of motion. (It may also require an additional
 flip of the vector so that the future-directed arrowhead becomes one that points toward the past. For now, let's
 not worry about that possibility, which is not something that you can do without being Benjamin Button.)
-Two such vectors can be considered equivalent.
+Two such vectors, which have the same interval, can be considered equivalent.
 
 What makes time different from space
 ------------------------------------
@@ -259,7 +259,7 @@ so we don't expect there to be a way to interchange their roles just by spinning
 Nor can either interval be zero, because then we wouldn't have a unified system of measurement that gave useful results
 for both time and space.
 
-The two intervals can't have the same sign, because then we could stretch one of them to match the other, and then they'd
+The two intervals can't have the same sign, because then we could stretch vector to match its interval to the other's, and then they'd
 have the same interval, which we've already ruled out.
 
 Therefore the two intervals must have opposite signs. We've picked the convention that timey vectors have positive intervals,
@@ -295,8 +295,8 @@ past the speed of light by any continuous process of acceleration.
 This may seem wrong, because it would seem that we could keep on adding one mile per hour to our
 speed, then another mile per hour, and so on, and eventually we would surpass c.
 Einstein later recalled that when he was trying to create special relativity, he got stuck on
-this point for about a year. Finally he realized that ``Time cannot be absolutely defined, and there is
-an inseparable relation between time and [...] velocity.'' Therefore it didn't need to be true that
+this point for about a year. Finally he realized that "Time cannot be absolutely defined, and there is
+an inseparable relation between time and [...] velocity." Therefore it didn't need to be true that
 velocities add the way we normally assume. After this he finished his seminal paper
 on special relativity within five weeks.
 
@@ -304,7 +304,7 @@ This is supposed to be a presentation without equations,
 but as a side note for those who want to see a more concrete example, the combination of velocities u and v turns out to be (u+v)/(1+uv). So for
 example, if you're going at a speed u=0.6 (60% of the speed of light), and you shoot a bullet from a gun at v=0.6 relative to you,
 the bullet's velocity is only about 88% of the speed of light, not 120%. It's only at low velocities that the product uv occurring in this
-formula becomes small compared to 1, in which case it's well approximated by u+v.
+formula becomes small compared to 1, in which case the final result is well approximated by u+v.
 
 Defense number 2, causality
 ---------------------------
@@ -314,7 +314,7 @@ But that doesn't rule out the kind of scenario like the discontinuous "jump to h
 
 But nobody has ever found a way to do such a jump, and relativity gives us a separate, specific reason to believe that it isn't
 possible. Suppose that we have a spacey vector, →. To an observer in a certain state of motion, this is a simultaneity vector.
-But to observers who is moving to the left or right, this is *not* a simultaneity vector. To them, it will tip a little
+But to observers who are moving to the left or right, this is *not* a simultaneity vector. To them, it will tip a little
 bit so that it points somewhat into the past or future. In fact, any faster-than-light displacement vector has a negative
 interval, so it's equivalent to any other vector with a negative interval, including many that represent motion back into the past.
 This means that any mechanism for faster-than-light travel, communication, or transmission of energy is also a mechanism for
@@ -343,7 +343,10 @@ The metric is a machine that takes vectors and give back the corresponding inter
 If we put in a displacement vector, we get back an interval. If we put in a momentum vector, we get back a number that
 is interpreted as the square of the object's mass. Therefore if we take a material object, whose mass is a positive, nonzero
 number, then no matter how we accelerate the object, its momentum vector will
-always have the same measure. This means that its displacement vector, which points in the same direction, will also have
+always have the same measure. Its mass always stays the same. (There is an old-fashioned way of
+rewriting all the equations and redoing all the terminology so that the mass varies. Professional relativists haven't
+used that ser of conventions since around 1950, and it's finally dying out even in popularizations.)
+This means that its displacement vector, which points in the same direction, will also have
 a positive measure, and its speed will be less than c.
 
 Light has no mass, so now we can see why light travels at c. Its momentum vector has a metric measure of zero, so its
