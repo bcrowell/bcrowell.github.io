@@ -365,7 +365,7 @@ is interpreted as the square of the object's mass. Therefore if we take a materi
 number, then no matter how we accelerate the object, its momentum vector will
 always have the same measure. Its mass always stays the same. (There is an old-fashioned way of
 rewriting all the equations and redoing all the terminology so that the mass varies. Professional relativists haven't
-used that ser of conventions since around 1950, and it's finally dying out even in popularizations.)
+used that set of conventions since around 1950, and it's finally dying out even in popularizations.)
 This means that its displacement vector, which points in the same direction, will also have
 a positive measure, and its speed will be less than c.
 
