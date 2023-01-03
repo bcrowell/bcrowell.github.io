@@ -77,7 +77,7 @@ about the *square* of the elapsed clock time along a certain vector, which is ca
 if a clock moves smoothly, along a certain vector, and its elapsed time is 3 years, then we would measure the
 vector by its interval I=9 (in units of years-squared!). This turns out to be more convenient basically because
 our system of space-time measurement has to be backward-compatible somehow with ruler measurements in space,
-and those have to obey the Pythagorean theorem, which has squares in it.
+and those have to obey the Pythagorean theorem, which has squares in it.[^bilinear]
 
 What gives a vector its sense of individuality
 ----------------------------------------------
@@ -99,7 +99,7 @@ they aren't the same. If I'd shown you a short pen and a long pen, there wouldn'
 
 The converse is also true: if two vectors have the same measure, then we can always turn one into the
 other by some change in our frame of reference. For spacetime vectors in 3+1 dimensions, this may require
-some combination of a rotation and a change in your state of motion.[^1]
+some combination of a rotation and a change in your state of motion.[^benjamin_button]
 Two such vectors, which have the same interval, can be considered equivalent.
 
 What makes time different from space
@@ -127,17 +127,17 @@ We can't say that B and D are simultaneous in any *absolute* sense. An observer 
 But to her, they are. The fact that they are simultaneous *to her* can be summarized as a fact about the relationship
 between her own vector, which looks like this ↑,
 and the B-D vector, which looks like this →. They look perpendicular when drawn this way, in this frame, so we say that they're
-"orthogonal." When we have a metric (her ability to have a clock), we get this kind of definition of orthogonality for free.
+"orthogonal." When we have a metric (her ability to have a clock), we get this kind of definition of orthogonality for free.[^orthogonal]
 But the rules of orthogonality, like the rules of length-measurement for vectors, are not the ones we would guess from the representation of
 the arrows on a piece of paper. We can't always infer whether vectors are orthogonal based on whether they form a 90-degree
 angle when we draw them. We simply *say* that they're orthogonal if they test out as orthogonal in this type of experiment.
 
 Now suppose we have two of these orthogonal vectors, like  → and ↑, and we compare their intervals. For the timey one,
-this is the square of the clock time along it. For the spacey one, it's not at all obvious that we can even define any
+this is the square of the clock time along it. For the spacey one, it's not at all obvious *physically* that we can even define any
 measure. We can't send a clock along it, because that would require the clock to travel at infinite speed, or teleport
 (at least in the scientist's frame of reference).
 But let's suppose that the metric can be extended in some nice way to include this type of vector, and see what conclusions
-we can reach.
+we can reach.[^extend]
 
 The intervals can't be the same, because then the two vectors would be equivalent, but time and space aren't the same,
 so we don't expect there to be a way to interchange their roles just by spinning around or changing our state of motion.
@@ -287,6 +287,10 @@ This post is CC-BY-SA licensed.
 Notes
 -----
 
-[^1]:  It may also require an additional flip of the vector so that a future-directed arrowhead becomes one that points toward the past. For now, let's not worry about that possibility, which is not something that you can do without being Benjamin Button.
+[^bilinear]: For those with more of a taste for math, we can characterize the interval using the axiom I(λu)=λ²I(u). For free, we then get something closely analogous to the dot product from freshman physics. The idea is just to "FOIL out" the inner product (u+v)·(u+v), replace v·u with u·v, and solve for u·v.
 
+[^benjamin_button]:  It may also require an additional flip of the vector so that a future-directed arrowhead becomes one that points toward the past. For now, let's not worry about that possibility, which is not something that you can do without being Benjamin Button.
 
+[^orthogonal]: In terms of the "dot product" defined in the earlier note, Einstein synchronization gives vectors whose dot product is zero. This is exactly like the fact that, in Euclidean space, vectors that are perpendicular to each other have zero dot product.
+
+[^extend]: Mathematically, the extension is uniquely defined by the fact that the interval can be related to our "dot product." This is because we can always express a spacelike vector as the sum of two timelike vectors.
