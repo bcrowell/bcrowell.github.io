@@ -33,8 +33,7 @@ that way, without any input from observations or experiments, such as the one pi
 
 To avoid repeating myself in lots of different blog posts about relativity, I've made a 
 [separate post](../spacetime_diagrams) that gets us off the ground by explaining a few basic
-ideas: spacetime, spacetime diagrams, world-lines, and the relativity of time.
-
+ideas: spacetime, spacetime diagrams, world-lines, the relativity of time, and proper time.
 
 If we take the picture and
 fill it back in (below) with trees and houses and atoms and religious bigots, it tends to evoke
