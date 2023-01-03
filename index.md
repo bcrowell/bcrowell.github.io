@@ -15,5 +15,5 @@ blog posts
 
 [Why can't you go faster than the speed of light? -- An explanation without equations or fallacies.](faster_than_light) - 2022 Dec. 31
 
-[Spacetime diagrams](spacetime_diagrams) - 2023 Jan. 3
+[Spacetime diagrams and the relative nature of time](spacetime_diagrams) - 2023 Jan. 3
 

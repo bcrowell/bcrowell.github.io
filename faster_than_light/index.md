@@ -35,83 +35,11 @@ To avoid repeating myself in lots of different blog posts about relativity, I've
 [separate post](../spacetime_diagrams) that gets us off the ground by explaining a few basic
 ideas: spacetime, spacetime diagrams, world-lines, the relativity of time, and proper time.
 
-If we take the picture and
-fill it back in (below) with trees and houses and atoms and religious bigots, it tends to evoke
-a subjective view known as the "block universe" or "eternalism." (But there is no block universe
-"theory." It's not a scientific theory that makes predictions about experiments, it's just a
-mode of thought or description, and it isn't true or false.)
-
-![spacetime diagram of a man walking his dog, as a series of snapshots, representing the block universe idea](block-universe.png)
-
-*(Figure by the author and his dog.)*
-
-"Same place" is undefined.
---------------------------
-
-The cow's frame and the driver's are equally valid, and one consequence of this is that
-they don't have to agree on whether two events occur in the same place, i.e., whether
-or not a particular displacement vector tilts or not. If I visit the Gettysburg battlefield
-and look at the brass plaque, it's a matter of opinion whether or not I'm actually at the
-same place where the battle happened. It's the same place if I use a frame of reference
-attached to the dirt, but from the point of view of an alien on another planet, the earth
-has been spinning and orbiting the sun, which puts the dirt in a different place after a
-century and a half.
-
-By the way, absolutely *nothing* I've said so far has anything to do with Einstein's theory of relativity.
-All of this could have been written before Einstein was born, as a description of the kind of relativity
-originated by Galileo.
-
-Relativity of time
-------------------
-The decisive break between Newton and Einstein comes when we consider time.
-Newton claimed:
-
-"Absolute, true, and mathematical time, of itself, and from its own nature, flows at a constant rate without regard to anything external..."
-
-There are actually two different claims being made here. First, Newton is saying that there is some sort of pure or
-abstract time that exists regardless of clocks -- clocks being imperfect and limited in precision. This is sort of
-a philosophical claim rather than a scientific one, and in any case most people these days don't endorse Newton's
-take on this. A more common philosophical stance is [operationalism](https://en.wikipedia.org/wiki/Operational_definition),
-according to which a term like "time" does ultimately have to be defined according to the operations required in order to measure it.
-Otherwise it's not really clear how we could get started defining what "time" is. However, we do abstract away any special limitations
-or quirks of specific clocks. If we see *all* clocks behaving in a certain way (with any differences being consistent with their
-known limitations), then we say that what we're seeing is a behavior of time itself.
-
-The second claim Newton is making is that nothing can influence the rate at which time flows. This is a scientific
-claim, not just a philosophical preference, because it can be tested by experiments. When we test it, we find that it's false.
-The evidence was indirect when Einstein first published his theory of relativity in 1905, but
-eventually technology became good enough to allow conceptually *simple* experiments
-that students in the early 20th century could only discuss in terms like "Imagine that we could..."
-A good jumping-on point is 1971. In that year, J.C. Hafele and R.E. Keating
-brought atomic clocks aboard commercial
-airliners, and went around the world, once from east to west and once from west to east.
-They observed that there was a discrepancy between the times measured by the
-traveling clocks and the times measured by similar clocks that stayed home at the U.S. Naval Observatory in Washington.
-The east-going clock lost time, ending up off by -59±10 nanoseconds, while the west-going one gained 273±7 ns.
-
-![Hafele and Keating with their clock](hk-in-cabin.jpg)
-
-*The clock took up two seats, and two tickets were bought for it under the name of "Mr. Clock." (Copyright 1971, Associated press. Used under U.S. fair use exception to copyright law.)*
-
-Newton's notion of absolute time seems like common sense, but in fact it's only an approximation.
-For a passenger jet, it's quite a good approximation, and we need fancy atomic clocks to detect the
-discrepancy. For a subatomic particle in a particle accelerator, or the bits and pieces moving around violently
-inside the atomic nuclei in your body, it can be a really bad approximation. When a clock moves smoothly
-through spacetime, so that its motion can be represented as an arrow without any curves or kinks, it records
-a certain amount of time. When a clock takes a more circuitous route from A to B, like the clocks aboard the
-plane, it records a different amount of time, which is always *less* than the time taken by the non-swervy clock.
-
-Because these effects occur regardless of the type of clock, and always obey the same rules,
-we consider them to be facts about time itself,
-and we say that time is not absolute. If time isn't absolute, then neither is simultaneity. Just as Newton and
-Galileo showed that "same place" depends on one's frame of reference, Einstein showed the lack of any universal
-notion of "same time." If two observers are in motion relative to one another, they will in general disagree
-both about whether events occur at the same place and about whether they occur at the same time.
-
 Measuring a spacetime vector
 ----------------------------
 
-The experiments show that if a clock moves smoothly through spacetime, then the time elapsed on the clock
+As described in the previous post about spacetime diagrams, experiments show that time isn't absolute. However,
+it doesn't depend on all kinds of random factors. If a clock moves smoothly through spacetime, then the time elapsed on the clock
 depends only on the displacement vector, and not on anything else. This gives us a way of defining a measurement
 of the "length" of the vector. 
 
