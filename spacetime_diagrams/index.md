@@ -154,9 +154,21 @@ undergo anything but smooth motion that experiences the most time. That is, it's
 to what you'd think from the lengths on the page. If it helps your intuition, you can
 think of the line segments as roads, and the clock times as indications of how many gas stations
 you pass on those roads. In this particular diagram, the longer road just happens to have fewer gas stations.
-In this blog post, I'll present just enough information about the rules for "how many gas stations" there are in order
-to make a logically rigorous framework for getting at my main topic, which is why relativity forbids faster-than-light motion.
 
+Speed of light, light cone
+--------------
+
+[As I've described elsewhere in more detail](faster_than_light), relativity has a unified system of measurement
+for space and time, and one thing that's unified about it is that relativists normally use the same units for distances and
+times. That means that when we divide distance by time to get a speed, the units cancel out: velocities are unitless
+in relativity. There is a special velocity, 1, which turns out to be a kind of universal speed limit, and all observers
+agree on it -- which is a little weird (and confused Einstein at first) because other velocities depend on the observer's
+frame of reference. This also happens to be the velocity at which light travels, so it's often referred to as the speed
+of light. If we're using units where it doesn't equal 1, then we need a symbol for it, and the standard symbol is c.
+
+Spacetime diagrams are normally drawn in natural units, so that if something is moving one distance unit (e.g., one
+light year) in one time unit (one year), it looks like it's tilted at a 45-degree angle on the paper. If you're at
+a certain event, then all the events you can get to in the future lie within a upside-down 45-degree cone, called your light cone.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2023 Jan. 3
 

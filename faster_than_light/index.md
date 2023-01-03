@@ -4,8 +4,7 @@ Why can't you go faster than the speed of light? -- An explanation without equat
 It's easy to find explanations online of why you can't go faster than the speed of light. What's harder
 to find is an explanation that isn't over-simplified to the point of fallacy. I've done
 [a previous blog post](https://bcrowell.github.io/moving_through_spacetime_at_c/) debunking one
-family of these pseudo-explanations. (If you read that article, then you'll see that I've recycled
-a few diagrams and a bit of text here.)
+family of these pseudo-explanations.
 
 ![The KATRIN spectrometer being transported.](katrin.jpg)
 
