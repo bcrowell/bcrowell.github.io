@@ -161,7 +161,7 @@ you pass on those roads. In this particular diagram, the longer road just happen
 Speed of light, light cone
 --------------
 
-[As I've described elsewhere in more detail](faster_than_light), relativity has a unified system of measurement
+[As I've described elsewhere in more detail](../faster_than_light), relativity has a unified system of measurement
 for space and time, and one thing that's unified about it is that relativists normally use the same units for distances and
 times. That means that when we divide distance by time to get a speed, the units cancel out: velocities are unitless
 in relativity. There is a special velocity, 1, which turns out to be a kind of universal speed limit, and all observers
@@ -172,6 +172,9 @@ of light. If we're using units where it doesn't equal 1, then we need a symbol f
 Spacetime diagrams are normally drawn in natural units, so that if something is moving one distance unit (e.g., one
 light year) in one time unit (one year), it looks like it's tilted at a 45-degree angle on the paper. If you're at
 a certain event, then all the events you can get to in the future lie within a upside-down 45-degree cone, called your light cone.
+
+![spacetime diagram of a lightbulb that briefly flashes on](light-cone.png)
+*A lightbulb momentarily flashes on. The flash travels outward at the speed of light, tracing a light cone.*
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2023 Jan. 3
 
