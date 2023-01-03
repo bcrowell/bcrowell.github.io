@@ -15,11 +15,40 @@
    version="1.1"
    sodipodi:docname="vectors.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   inkscape:export-filename="/home/bcrowell/Documents/blog/faster_than_light/vectors.png"
+   inkscape:export-filename="/home/bcrowell/Documents/blog/spacetime_diagrams/vectors.png"
    inkscape:export-xdpi="103.83"
    inkscape:export-ydpi="103.83">
   <defs
      id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker3367"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3365" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path3080"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
     <marker
        inkscape:isstock="true"
        style="overflow:visible;"
@@ -34,21 +63,6 @@
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
          id="path1097" />
     </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow1Lend"
-       style="overflow:visible;"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path818"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         transform="scale(0.8) rotate(180) translate(12.5,0)" />
-    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -57,9 +71,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.63337883"
-     inkscape:cx="-443.95038"
-     inkscape:cy="381.73255"
+     inkscape:zoom="1.2090773"
+     inkscape:cx="80.231768"
+     inkscape:cy="514.78437"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -87,20 +101,32 @@
      id="layer1">
     <rect
        style="fill:#dedede;fill-opacity:1;stroke:none"
-       id="rect2985"
+       id="rect2985-3"
        width="382.5"
        height="299.62738"
-       x="4.2285155e-06"
-       y="752.7348" />
+       x="-15.069712"
+       y="392.93036" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M 138.93739,1022.3643 53.680354,785.53925"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#5d5d5d;stroke-width:1.33333333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 123.86768,662.55989 38.610637,425.73484"
+       id="path985-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#5d5d5d;stroke-width:1.33333333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 267.54157,436.78667 253.33206,659.40229"
+       id="path987-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 97.019724,588.20431 54.128311,468.75796"
        id="path985"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.66700006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1099)"
-       d="M 268.40178,1019.2067 282.61129,796.59107"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3367)"
+       d="m 255.84659,619.5888 5.88412,-94.0257"
        id="path987"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

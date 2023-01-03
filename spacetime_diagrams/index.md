@@ -23,28 +23,36 @@ who considers herself to be at rest while the scenery rolls by.
 In relativity, we usually abstract out some of the artistic details and make a more pared-down
 version of these diagrams, which looks like this.
 
-![same diagram, simplified](vectors.png)
+![same diagram, simplified](world-lines.png)
 
-We just show the motion of each object as an arrow. Depending on what frame of
-reference we arbitrarily choose for the diagram, we can make one arrow or the other be
+We just show the motion of each object as a line or a curve. Depending on what frame of
+reference we arbitrarily choose for the diagram, we can make one line or the other be
 vertical (showing the object at rest), or we can make both of them slant. It doesn't
 matter which frame of reference we choose. All we can really say in an absolute sense
 is that each thing *is* moving -- relative to the other. That's why it's called
 relativity.
 
-Arrows like these are called vectors, and the type of vector that represents how an
-object gets one place and time to another is called a displacement vector. 
+The lines are called "world-lines." The somewhat odd terminology comes from an awkward
+translation of a German phrase that was intended to be something more like "line through
+the world," or "line through all of history and existence."
 
 The gray rectangle is referred to as "spacetime." It's a sort of stage, or a piece of graph
 paper, that represents both time (vertically) and space (horizontally).
 Any point on the rectangle represents a where-and-when, such as the battle of Gettysburg.
 We refer to such a point as an "event," even if nothing special actually happened there.
+
 If you've taken
 a physics class in high school or college, you've probably heard of vectors in three-dimensional
 space. In relativity, when we say "vector" we mean a vector in spacetime, which has "3+1 dimensions,"
 i.e., three dimensions of space and one dimension of time.
 In order to depict things on a page or screen, we usually omit two of the space dimensions, which makes
-it a depiction in 1+1 dimensions.
+it a depiction in 1+1 dimensions. As shown in the figure below, one way of defining a vector is to single out a certain piece of
+a world-line, with a definite start and end, and an arrowhead that gives it a direction. This
+type of vector is called a spacetime displacement vector. Often we want to use this kind of
+vector to describe the fact that an object moved in a certain way so that it existed at a certain
+event and later existed at some other event.
+
+![vectors as pieces of world-lines](vectors.png)
 
 If we take the picture and
 fill it back in (below) with trees and houses and atoms and religious bigots, it tends to evoke
