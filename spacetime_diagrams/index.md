@@ -54,6 +54,14 @@ event and later existed at some other event.
 
 ![vectors as pieces of world-lines](vectors.png)
 
+We don't consider the place where the arrow sits to be part of
+what defines it. If we slide it somewhere else, without rotating it at all, it's still
+considered to be the same vector. If my friend and I run side by side from one end of
+a football field to the other, our displacement vectors are the same. But if we run at different
+speeds, our displacement vectors are *not* the same -- the faster runner's vector extends over
+less time, so it's more tilted.
+
+
 If we take the picture and
 fill it back in (below) with trees and houses and atoms and religious bigots, it tends to evoke
 a subjective view known as the "block universe" or "eternalism." (But there is no block universe

@@ -31,57 +31,10 @@ bogus presentations is that they make it sound as if there is a single one. Anot
 a low-quality explanation is that they try to make it sound as if the result just logically has to be
 that way, without any input from observations or experiments, such as the one pictured above.
 
-Spacetime and motion
--------------------------
+To avoid repeating myself in lots of different blog posts about relativity, I've made a 
+[separate post](../spacetime_diagrams) that gets us off the ground by explaining a few basic
+ideas: spacetime, spacetime diagrams, world-lines, and the relativity of time.
 
-Graphs and diagrams. Here's our first one:
-
-![spacetime diagram of a car and a cow, in the cow's frame of reference](cow-frame.png)
-
-It's a series of snapshots of a car and a cow.
-Time moves forward as we go up the page.
-The cow sees itself as being at rest,
-while the car drives by on the road.
-
-The following, alternative version shows the same situation in
-the frame of reference of the driver,
-who considers herself to be at rest while the scenery rolls by.
-
-![the same diagram, but in the car's frame of reference](car-frame.png)
-
-In relativity, we usually abstract out some of the artistic details and make a more pared-down
-version of these diagrams, which looks like this.
-
-![same diagram, simplified](vectors.png)
-
-We just show the motion of each object as an arrow. Depending on what frame of
-reference we arbitrarily choose for the diagram, we can make one arrow or the other be
-vertical (showing the object at rest), or we can make both of them slant. It doesn't
-matter which frame of reference we choose. All we can really say in an absolute sense
-is that each thing *is* moving -- relative to the other. That's why it's called
-relativity.
-
-Arrows like these are called vectors, and the type of vector that represents how an
-object gets one place and time to another is called a displacement vector. 
-
-The gray rectangle is referred to as "spacetime." It's a sort of stage, or a piece of graph
-paper, that represents both time (vertically) and space (horizontally).
-Any point on the rectangle represents a where-and-when, such as the battle of Gettysburg.
-We refer to such a point as an "event," even if nothing special actually happened there.
-If you've taken
-a physics class in high school or college, you've probably heard of vectors in three-dimensional
-space. In relativity, when we say "vector" we mean a vector in spacetime, which has "3+1 dimensions,"
-i.e., three dimensions of space and one dimension of time.
-In order to depict things on a page or screen, we usually omit two of the space dimensions, which makes
-it a depiction in 1+1 dimensions.
-
-One way of defining a displacement vector is by specifying two events, which are its
-head and tail. However, we don't consider the place where the arrow sits to be part of
-what defines it. If we slide it somewhere else, without rotating it at all, it's still
-considered to be the same vector. If my friend and I run side by side from one end of
-a football field to the other, our displacement vectors are the same. But if we run at different
-speeds, our displacement vectors are *not* the same -- the faster runner's vector extends over
-less time, so it's more tilted.
 
 If we take the picture and
 fill it back in (below) with trees and houses and atoms and religious bigots, it tends to evoke
