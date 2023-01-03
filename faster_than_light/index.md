@@ -150,7 +150,7 @@ have the same interval, which we've already ruled out.
 
 Therefore the two intervals must have opposite signs. We've picked the convention that timey vectors have positive intervals,
 so we'll assign negative intervals to spacey ones. A meter stick's spacetime vector is minus the square of its length, in the
-appropriate units (such as light-years).
+appropriate units (such as meters or light-years).
 
 We're now all set to discuss the multiple impediments that relativity places in the way of would-be faster-than-light astronauts.
 
@@ -287,10 +287,10 @@ This post is CC-BY-SA licensed.
 Notes
 -----
 
-[^bilinear]: For those with more of a taste for math, we can characterize the interval using the axiom I(λu)=λ²I(u). For free, we then get something closely analogous to the dot product from freshman physics. The idea is just to "FOIL out" the inner product (u+v)·(u+v), replace v·u with u·v, and solve for u·v.
+[^bilinear]: For those with more of a taste for math, we can characterize the interval using the axiom I(λu)=λ²I(u). For free, we then get something closely analogous to the dot product from freshman physics. The idea is just to "FOIL out" the inner product (u+v)·(u+v), assume v·u=u·v, and solve for u·v. Just as dot products in the Euclidean plane don't change when you rotate your frame of reference, the spacetime version of the dot product doesn't change when you rotate or change your state of motion.
 
 [^benjamin_button]:  It may also require an additional flip of the vector so that a future-directed arrowhead becomes one that points toward the past. For now, let's not worry about that possibility, which is not something that you can do without being Benjamin Button.
 
 [^orthogonal]: In terms of the "dot product" defined in the earlier note, Einstein synchronization gives vectors whose dot product is zero. This is exactly like the fact that, in Euclidean space, vectors that are perpendicular to each other have zero dot product.
 
-[^extend]: Mathematically, the extension is uniquely defined by the fact that the interval can be related to our "dot product." This is because we can always express a spacelike vector as the sum of two timelike vectors.
+[^extend]: Mathematically, the extension is uniquely defined by the fact that the interval can be related to our "dot product," and that our dot product has the properties previously introduced, along with (u+v)·w=u·w+v·w. This is because we can always express a spacelike vector as the sum of two timelike vectors.
