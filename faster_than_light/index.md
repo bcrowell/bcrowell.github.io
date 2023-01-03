@@ -99,9 +99,7 @@ they aren't the same. If I'd shown you a short pen and a long pen, there wouldn'
 
 The converse is also true: if two vectors have the same measure, then we can always turn one into the
 other by some change in our frame of reference. For spacetime vectors in 3+1 dimensions, this may require
-some combination of a rotation and a change in your state of motion. (It may also require an additional
-flip of the vector so that a future-directed arrowhead becomes one that points toward the past. For now, let's
-not worry about that possibility, which is not something that you can do without being Benjamin Button.)
+some combination of a rotation and a change in your state of motion.[^1]
 Two such vectors, which have the same interval, can be considered equivalent.
 
 What makes time different from space
@@ -286,5 +284,9 @@ no evidence for the existence of.
 
 This post is CC-BY-SA licensed.
 
+Notes
+-----
+
+[^1]:  It may also require an additional flip of the vector so that a future-directed arrowhead becomes one that points toward the past. For now, let's not worry about that possibility, which is not something that you can do without being Benjamin Button.
 
 
