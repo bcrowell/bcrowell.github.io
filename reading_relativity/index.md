@@ -92,7 +92,7 @@ This is a topic that is inherently pretty easy to discuss without a lot of math.
 
 ## Graduate level
 
-* Spacetime and Geometry: An Introduction to General Relativity (Carroll) - As far as I know, this is the best option right now at the graduate level, since the old standards (MTW and Geroch) are 40 years out of date. There is an earlier, shorter version that is [https://arxiv.org/abs/gr-qc/9712019](available for free on arxiv).
+* Spacetime and Geometry: An Introduction to General Relativity (Carroll) - As far as I know, this is the best option right now at the graduate level, since the old standards (MTW and Geroch) are 40 years out of date. There is an earlier, shorter version that is [available for free on arxiv](https://arxiv.org/abs/gr-qc/9712019).
 
 # Cosmology
 
