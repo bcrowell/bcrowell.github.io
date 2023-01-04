@@ -17,3 +17,4 @@ blog posts
 
 [Spacetime diagrams and the relative nature of time](spacetime_diagrams) - 2023 Jan. 3
 
+[Reading relativity: recommended reading (mostly free) about Einstein's universe, for people with a variety of math backgrounds](reading_relativity) - 2023 Jan. 4

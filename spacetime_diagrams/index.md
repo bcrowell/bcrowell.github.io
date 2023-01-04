@@ -142,7 +142,9 @@ Proper time
 ----------------------------
 
 The experiments show that if a clock moves smoothly through spacetime, then the time elapsed on the clock
-depends only on the displacement vector, and not on anything else. This gives us a way of defining a measurement
+depends only on the displacement vector, and not on anything else.
+This clock time is often referred to as the "proper time," i.e., the time
+measured by someone who is *themself* taking that track through spacetime. Proper time gives us a way of defining a measurement
 of the "length" of the vector. 
 
 But watch out, because these "lengths" don't have to behave in all the same
