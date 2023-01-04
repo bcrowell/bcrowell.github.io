@@ -4,10 +4,11 @@ Reading relativity
 Recommended reading (mostly free) about Einstein's universe, for people with a variety of math backgrounds
 ----------------------------------------------------------------------------------------------------------
 
+![scientific diagram of a ladybug on a ball, inside a box in outer space](waage-box.png)
 
 Online, I run into a lot of laypeople who are curious about black holes or the big bang, as well
 as people with more of a background in philosophy, engineering, or one of the sciences.
-Often they have great questions, but are not looking in the right places to get
+Often they have great questions, but haven't been looking in the right places to get
 clear, reliable information. Laypeople are often reading magazine or newspaper popularizations,
 or watching videos, and many of those treatments are inaccurate. People with more of a STEM background may be looking at presentations that
 are old-fashioned or that make the subject look more mysterious than it is. This blog post is my
@@ -17,6 +18,7 @@ I've tried to list mostly free articles and books, but when there's a non-free b
 think is outstanding, I've included it. Some of the links are to materials written by me (Ben Crowell). The
 list is broken down into headings by general topic, and then each heading lists resources
 at different mathematical levels.
+
 
 # Spacetime diagrams, relativity of time, the light cone
 
@@ -98,9 +100,13 @@ This is a topic that is inherently pretty easy to discuss without a lot of math.
 
 ## With easy math
 
-* Heart of Darkness: Unraveling the Mysteries of the Invisible Universe (Ostriker and Mitton) - [Borrow online from the Internet Archive.](https://archive.org/details/heartofdarknessu0000ostr). A nice historical treatment that is fairly up to date. Assumes no knowledge of relativity.
+* Heart of Darkness: Unraveling the Mysteries of the Invisible Universe (Ostriker and Mitton) - [Borrow online from the Internet Archive.](https://archive.org/details/heartofdarknessu0000ostr) A nice historical treatment that is fairly up to date. Assumes no knowledge of relativity.
 * [Relativity for poets, ch. 13-14](https://archive.org/details/poets_202201/page/10/mode/2up) (Crowell) - Designed to supplement Ostriker and Mitton by doing a little more math and making more of a connection to students' prior knowledge of relativity.
 
 ## With calculus, designed for an upper-division class for physics majors
 
 * [General relativity](https://archive.org/details/genrel), ch. 8 (Crowell)
+
+[Ben Crowell](http://lightandmatter.com/area4author.html), 2023 Jan. 4
+
+[other blog posts](https://bcrowell.github.io/)
