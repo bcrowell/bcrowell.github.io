@@ -26,7 +26,7 @@ This is a topic that is inherently pretty easy to discuss without a lot of math.
 * [Relativity for poets, ch. 1-2](https://archive.org/details/poets_202201/page/10/mode/2up) (Crowell) - A longer textbook-style introduction for a gen ed college class (90 min).
 * [An illustrated guide to relativity](https://www.amazon.com/Illustrated-Guide-Relativity-Tatsu-Takeuchi/dp/0521141001), ch. 1-3 (Takeuchi) - A gen ed textbook (90 min, not free). Non-threatening style, with cute cartoons.
 * [It's about time](https://www.amazon.com/Its-About-Time-Understanding-Relativity/dp/0691141274), ch. 1-8  (Mermin) - A gen ed textbook with a more dry style. (3 hrs, not free)
-* General relativity from A to B], ch. 1-4 (Geroch) - [Borrow online from the Internet Archive.](https://archive.org/details/generalrelativit00gero) A gen ed textbook. The initial chapters are set up to avoid the necessity of un-learning anything in order to understand general relativity. Not much contact with experiment. (3 hrs, not free)
+* General relativity from A to B, ch. 1-4 (Geroch) - [Borrow online from the Internet Archive.](https://archive.org/details/generalrelativit00gero) A gen ed textbook. The initial chapters are set up to avoid the necessity of un-learning anything in order to understand general relativity. Not much contact with experiment. (3 hrs, not free)
 
 
 # The metric
@@ -82,7 +82,7 @@ This is a topic that is inherently pretty easy to discuss without a lot of math.
 
 ## With easy math
 
-* General relativity from A to B], ch. 5-8 (Geroch) - [Borrow online from the Internet Archive.](https://archive.org/details/generalrelativit00gero) A gen ed textbook. Out of date and out of touch with experiment, but still worth reading. (8 hrs, not free)
+* General relativity from A to B, ch. 5-8 (Geroch) - [Borrow online from the Internet Archive.](https://archive.org/details/generalrelativit00gero) A gen ed textbook. Out of date and out of touch with experiment, but still worth reading. (8 hrs, not free)
 * [Relativity for poets, ch. 7-14](https://archive.org/details/poets_202201/page/10/mode/2up) (Crowell) - These are my lecture notes that were really meant to supplement the other books used in a gen ed course on relativity. The treatment of general relativity is a little thin to stand on its own. (4 hrs)
 
 ## With calculus, designed for an upper-division class for physics majors
