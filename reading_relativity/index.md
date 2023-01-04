@@ -13,12 +13,14 @@ clear, reliable information. Laypeople are often reading magazine or newspaper p
 or watching videos, and many of those treatments are inaccurate. People with more of a STEM background may be looking at presentations that
 are old-fashioned or that make the subject look more mysterious than it is. This blog post is my
 attempt to provide a reader's guide to relativity, with options that allow you to decide how
-much you want to try to digest at once, and at what math level. Because I love free information,
+much you want to try to digest at once, and at what math level.
+
+Because I love free information,
 I've tried to list mostly free articles and books, but when there's a non-free book that I
 think is outstanding, I've included it. Some of the links are to materials written by me (Ben Crowell). The
 list is broken down into headings by general topic, and then each heading lists resources
-at different mathematical levels.
-
+at different mathematical levels. Of the books that are not free, many can be borrowed for
+free by clicking through on the links to the Internet Archive.
 
 # Spacetime diagrams, relativity of time, the light cone
 
@@ -54,7 +56,7 @@ This is a topic that is inherently pretty easy to discuss without a lot of math.
 
 * [Relativity for poets, ch. 3](https://archive.org/details/poets_202201/page/10/mode/2up) (Crowell) (90 min).
 * [An illustrated guide to relativity](https://www.amazon.com/Illustrated-Guide-Relativity-Tatsu-Takeuchi/dp/0521141001), sec. 3.4, ch. 4-6 (Takeuchi) - (90 min, not free). Non-threatening style, with cute cartoons.
-* [It's about time](https://www.amazon.com/Its-About-Time-Understanding-Relativity/dp/0691141274)  (Mermin) - Ch. 2 and 4 are Mermin's unusual presentatio of combination of velocities. (2 hrs, not free)
+* [It's about time](https://www.amazon.com/Its-About-Time-Understanding-Relativity/dp/0691141274)  (Mermin) - Ch. 2 and 4 are Mermin's unusual presentation of combination of velocities. (2 hrs, not free)
 
 ## Sophomore STEM level
 
@@ -69,7 +71,7 @@ This is a topic that is inherently pretty easy to discuss without a lot of math.
 ## With easy math
 
 * [Relativity for poets, ch. 5-6](https://archive.org/details/poets_202201/page/10/mode/2up) (Crowell) - These are my lecture notes that were really meant to supplement the other books used in a gen ed course on relativity. The treatment of this topic is a little thin to stand on its own. (60 min)
-* Relativity: A Very Short Introduction, pp. 35-42 (Stannard) - [Borrow online from the Internet Archive.](https://archive.org/details/relativityverysh0000stan). [Available used for about $4.](https://www.bookfinder.com/search/?author=Stannard%2C+Russell&title=Relativity%3A+A+Very+Short+Introduction&lang=en&st=xl&ac=qr) A serviceable but old-fashioned presentation.
+* Relativity: A Very Short Introduction, pp. 35-42 (Stannard) - [Borrow online from the Internet Archive.](https://archive.org/details/relativityverysh0000stan) [Available used for about $4.](https://www.bookfinder.com/search/?author=Stannard%2C+Russell&title=Relativity%3A+A+Very+Short+Introduction&lang=en&st=xl&ac=qr) A serviceable but old-fashioned presentation.
 
 ## Sophomore STEM level
 
