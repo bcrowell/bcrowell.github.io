@@ -20,7 +20,7 @@ at different mathematical levels.
 
 # Spacetime diagrams, relativity of time, the light cone
 
-## With easy math
+This is a topic that is inherently pretty easy to discuss without a lot of math. The resources below are all ones that use only easy math.
 
 * [Spacetime diagrams and the relative nature of time](../spacetime_diagrams) (Crowell) - A short introduction (20 min).
 * [Relativity for poets, ch. 1-2](https://archive.org/details/poets_202201/page/10/mode/2up) (Crowell) - A longer textbook-style introduction for a gen ed college class (90 min).
@@ -38,7 +38,7 @@ at different mathematical levels.
 
 ## Sophomore STEM level
 
-* [Modern physics](https://archive.org/details/mod_20220102), sec. 1.3 (20 min)
+* [Modern physics](https://archive.org/details/mod_20220102) (Crowell), sec. 1.3 (20 min)
 
 ## With calculus, designed for an upper-division class for physics majors
 
@@ -56,7 +56,7 @@ at different mathematical levels.
 
 ## Sophomore STEM level
 
-* [Modern physics](https://archive.org/details/mod_20220102), ch. 4 (1 hr)
+* [Modern physics](https://archive.org/details/mod_20220102) (Crowell), ch. 4 (1 hr)
 
 ## With calculus, designed for an upper-division class for physics majors
 
@@ -71,7 +71,7 @@ at different mathematical levels.
 
 ## Sophomore STEM level
 
-* [Modern physics](https://archive.org/details/mod_20220102), ch. 6 (1 hr)
+* [Modern physics](https://archive.org/details/mod_20220102) (Crowell), ch. 6 (1 hr)
 
 ## With calculus, designed for an upper-division class for physics majors
 
