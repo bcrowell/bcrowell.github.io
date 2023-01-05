@@ -4,9 +4,8 @@ Spacetime diagrams and the relative nature of time
 This blog post is an introduction to spacetime diagrams, which are a really cool way to understand
 what's going on in Einstein's theory of special relativity. As an application, I'll include some
 examples what it means to say that time is relative. This is the quick and dirty guide.
-If you want a more leisurely and detailed intro, you could check out ch. 1-2 of my book
-Relativity for Poets ([free online](https://archive.org/details/poets_202201/page/10/mode/2up)),
-or ch. 1-3 of An Illustrated Guide to Relativity by Takeuchi.
+If you want a more leisurely and detailed intro, you may want to look at one of the
+other resources I've recommended [here](../reading_relativity).
 
 Here's our first spacetime diagram:
 
