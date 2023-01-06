@@ -328,11 +328,9 @@ By the way, the focus of this article is only the metric itself, not a complete 
 worth making the point that the rest of the theory is pretty much implicit in these facts about the metric. As an
 example, suppose we actually want to calculate how much time is elapsed on the two clocks in the diagram. We can do
 that using the metric. I don't want to distract from the main points here by writing out the full calculation in the
-main text, so I'll just give the setup and then give the rest in a footnote. Let t be the time experienced by the
-stay-at-home clock in the figure, and s the time for the traveling clock. Then t=√(**u**⸳**u**) and s=√(**w**⸳**w**),
-and what we're trying to calculate is the ratio t/s. The distance traveled by the moving clock, according to an observer
-in the stay-at-home frame, is d=√(-**v**⸳**v**). We expect this to depend on the velocity of one clock relative
-to the other, which is d/t. If you go ahead and complete the calculation,[^gamma] you should find, for example, that when
+main text, so I'll just give the setup in one footnote[^gamma_setup] and the calculation in another footnote.[^gamma] If you enjoy this
+sort of thing, you can look at the setup and then try to get the calculation on your own without peeking.
+If you just want to see a typical numerical result for concreteness, then when
 the velocity is 0.6 (60% of the speed of light), the time ratio is 1.25.
 
 Einstein's motorcycle
@@ -365,6 +363,12 @@ Notes
 -----
 
 [^benjamin_button]:  It may also require an additional flip of the vector so that a future-directed arrowhead becomes one that points toward the past. For now, let's not worry about that possibility, which is not something that you can do without being Benjamin Button.
+
+[^gamma_setup]: Let t be the time experienced by the
+stay-at-home clock in the figure, and s the time for the traveling clock. Then t=√(**u**⸳**u**) and s=√(**w**⸳**w**),
+and what we're trying to calculate is the ratio t/s. The distance traveled by the moving clock, according to an observer
+in the stay-at-home frame, is d=√(-**v**⸳**v**). (Note the minus sign!) We expect this to depend on the velocity of one clock relative
+to the other, which is d/t.
 
 [^gamma]: We found previously that **w**⸳**w**=**u**⸳**u**+**v**⸳**v**, so that t/s=√[**u**⸳**u**/(**u**⸳**u**+**v**⸳**v**)]. This is the same as
 √[t²/(t²-d²)], or 1/√[1-(d/t)²].
