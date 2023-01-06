@@ -364,11 +364,6 @@ Notes
 
 [^benjamin_button]:  It may also require an additional flip of the vector so that a future-directed arrowhead becomes one that points toward the past. For now, let's not worry about that possibility, which is not something that you can do without being Benjamin Button.
 
-[^gamma_setup]: Let t be the time experienced by the
-stay-at-home clock in the figure, and s the time for the traveling clock. Then t=√(**u**⸳**u**) and s=√(**w**⸳**w**),
-and what we're trying to calculate is the ratio t/s. The distance traveled by the moving clock, according to an observer
-in the stay-at-home frame, is d=√(-**v**⸳**v**). (Note the minus sign!) We expect this to depend on the velocity of one clock relative
-to the other, which is d/t.
+[^gamma_setup]: Let t be the time experienced by the stay-at-home clock in the figure, and s the time for the traveling clock. Then t=√(**u**⸳**u**) and s=√(**w**⸳**w**), and what we're trying to calculate is the ratio t/s. The distance traveled by the moving clock, according to an observer in the stay-at-home frame, is d=√(-**v**⸳**v**). (Note the minus sign!) We expect this to depend on the velocity of one clock relative to the other, which is d/t.
 
-[^gamma]: We found previously that **w**⸳**w**=**u**⸳**u**+**v**⸳**v**, so that t/s=√[**u**⸳**u**/(**u**⸳**u**+**v**⸳**v**)]. This is the same as
-√[t²/(t²-d²)], or 1/√[1-(d/t)²].
+[^gamma]: We found previously that **w**⸳**w**=**u**⸳**u**+**v**⸳**v**, so that t/s=√[**u**⸳**u**/(**u**⸳**u**+**v**⸳**v**)]. This is the same as √[t²/(t²-d²)], or 1/√[1-(d/t)²].
