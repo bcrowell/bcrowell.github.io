@@ -257,8 +257,8 @@ Reason: The squaring stuff makes a lot of things turns out nicely, as in all our
 
 Reason: If we think of this by analogy with the number line in elementary school, a positive number would be like Mr. Bunny taking some hops to the right,
 which we would naturally represent as an arrow pointing in the positive direction. If we want the inner product to act sort of
-like ordinary multiplication, then multiplying two arrows in the same direction should give a positive result, while multiplying two arrows in the
-opposite direction should give a negative one. Orthogonality is the intermediate case, so it should give zero.
+like ordinary multiplication, then multiplying two arrows in the same direction should give a positive result, while multiplying two arrows with
+directions opposite to one another should give a negative output. Orthogonality is the intermediate case, so it should give zero.
 
 We also require that the inner product have the following algebraic properties, which are analogous to ordinary multiplication and also
 ensure that it fits in with the mechanics of how we string together vectors ("add" them) on a spacetime diagram.
@@ -301,21 +301,30 @@ possible to turn time into space or space into time simply by changing our frame
 simple: the interval has to have opposite signs for timelike and spacelike vectors. The convention I'm using here is that the
 interval is positive for timelike vectors, so it's negative for spacelike ones.
 
-To see that this isn't just an arbitrary choice, consider our by-now familiar spacetime diagram of the traveling clock and stay-at-home clock,
-now expressed using vectors and vector addition.
-On the right is some scratch work. First we flip **w** to make -**w**. Then we add **v** and -**w** to make **v**-**w**. Now
-**v**-**w** is a spacelike vector. (It's just twice the distance traveled by the traveling clock before it turns around.)
-But we can certainly calculate (**v**-**w**)⸳(**v**-**w**) by "FOIL"-ing it out and then just doing inner products of timelike
-vectors. Therefore the rules we've already decided on are sufficient to fix the definition of a metric for spacelike vectors as well
-(and spacelike intervals do turn out to have the opposite sign, although I haven't proved that explicitly).
+To see that this isn't just an arbitrary choice, consider our by-now familiar example of the traveling clock and stay-at-home clock.
+The figure below shows the bottom half of the diagram, expressed using vectors and vector addition.
+The vector **u** is the first half of the world-line of the stay-at-home clock. The vector **v** is a vector of simultaneity, as
+judged by an observer in the stay-at-home state of motion, and **w** is the first half of the traveling clock's world-line.
+The vectors **u** and **v** are arranged tip-to-tail, and **w** goes from the tail of the first one to the tip of the second one.
+This is our definition of adding vectors, so **w**=**u**+**v**. If we now take the metric measure (interval) of **w**, we
+have **w**⸳**w**=(**u**+**v**)⸳(**u**+**v**). Since **u** and **v** are orthogonal, when we FOIL this out, the **u**⸳**v** and
+**v**⸳**u** terms are zero, and the result simplifies to **w**⸳**w**=**u**⸳**u**+**v**⸳**v**. Now **u** and **w** are timelike
+vectors, so we have the squared-clock-time interpretation the **w**⸳**w** and **u**⸳**u** pieces of this equation. But recall
+that the stay-at-home clock experiences *more* time, so that **u**⸳**u**>**w**⸳**w**. This proves that **v**⸳**v** is negative.
 
 ![spacetime diagram of the traveling clock and stay-at-home clock](twin-paradox-triangle.png)
+
+Lightlike vectors
+-----------------
 
 If we draw the vector ↑ and then start drawing all the possibilities in between that and →, we will eventually have to
 transition from positive intervals to negative ones. At the transition point, we'll have a vector whose interval is
 zero. Conventionally, we draw our diagrams so that the scales are properly matched on the time and space axes, and
 then the zero interval is what occurs when the vector's representation on paper is at an angle of 45 degrees.
 This amount of tilt is the speed that we call c, and c also happens to be the speed of light.
+
+One way of interpreting the zero interval for a lightlike vector is that time doesn't pass for a ray of light. That is,
+you can't make a clock out of pure light.
 
 If we fix our attention on one event, and consider other events in spacetime according to their displacements from it, then
 we get a picture like the one shown below. Spacetime gets divided up into three portions, with the boundaries defined by
