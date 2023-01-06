@@ -49,7 +49,7 @@ Why this metric and not some other?
 Euclid believed that he was uncovering inherent logical truths about how the world
 should behave. Modern mathematicians, on the contrary, would say that you get a huge amount of latitude
 in defining a metric -- anything goes, as long as it meets some basic criteria.
-Physicists these days have more sophisticated philosophical take. Choosing a metric is
+Physicists these days have a more nuanced philosophical take. Choosing a metric is
 like choosing a romantic partner. Sure, you *could* pick anyone, but some choices are
 nicer than others.
 
@@ -57,11 +57,11 @@ To make this more concrete, consider the example in the figure. Euclid's axioms 
 (almost) logically equivalent to the [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem),
 which says that if you move x units to the right, and then y units up, the distance r that you've traveled as the
 crow flies is given by r²=x²+y². (If you want to solve more explicitly for r, you can take the square root of both sides.)
-The diagram below shows a typical result. 
+The diagram below shows two examples.
 
 ![results of the Pythagorean theorem for displacements (10,0) and (10,1)](pythag_10_1.png)
 
-Notice how in this example the two results are surprisingly close together. That's because when you square things,
+Notice how close the two results are. That's because when you square things,
 it makes the big things even bigger compared to the small things. If you take a look at what happens when you plug
 in the numbers 10 and 1 for the blue vector, you'll see that the second term becomes almost negligible compared to the first.
 
@@ -107,8 +107,8 @@ reality into the pixels on a screen, or *label* them with coordinates like x and
 
 But the green diamond really does lack the symmetry of a circle, and this is not just a matter of the embedding or
 representation we've chosen. To see that, consider the points marked in red and blue on the taxicab-metric "circle."
-The red dot has one black dot as its inside neighbor, at a distance of 1 from it. The blue dot, on the other hand,
-has two such distance-1 neighbors.
+There is only one optimal path for a cab from the center to the red dot (as in Euclid's axiom that two points determine
+a line), but more than one from the center to the blue dot.
 
 The issue with the taxicab metric is that it lacks the rotational symmetry that was baked in to Euclidean geometry
 by one of Euclid's other postulates, which states that all right angles are the same as each other. This way of
