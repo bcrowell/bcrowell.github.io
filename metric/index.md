@@ -207,7 +207,7 @@ The kink is what produces the undesirable asymmetrical corners on the taxicab "c
 
 ![sales tax as a function of the amount of the transaction](economics.png)
 
-Simultaneity is a kind of orthogonality
+Simultaneity is a kind of orthogonality.
 ---------------------------------------
 
 To see how this helps us make sense of relativity, consider the experiment shown in the figure. The
@@ -265,7 +265,7 @@ We start with two physics-based definitions that connect the math to what it rep
 
 Reason: The squaring stuff will make a lot of things turn out nicely, as in all our previous examples. Note that our definition makes the result of the inner product an ordinary number, not a vector. That is, the inner product is a machine that takes two vectors as its inputs, and gives a number as its output.
 
-* When vectors **u** and **v** are orthogonal (i.e., one is a vector of simultaneity as seen by an observer whose world-line coincides with the other), we define **u**⸳**v**=0.
+* When vectors **u** and **v** are orthogonal (e.g., one is a vector of simultaneity as seen by an observer whose world-line coincides with the other), we define **u**⸳**v**=0.
 
 Reason: If we think of this by analogy with the number line in elementary school, a positive number would be like Mr. Bunny taking some hops to the right,
 which we would naturally represent as an arrow pointing in the positive direction. If we want the inner product to act sort of
@@ -290,7 +290,7 @@ on paper, then draw another one with a ruler that has the same length but is in 
 But as we saw with examples like the aerial photograph and the "gas stations" idea, using ruler distances doesn't necessarily work.
 
 In fact, there is no way, based on our rules, that a spacelike vector can have an interval that is some *positive* number. The reason for this
-is that it would then have the same measure as some timelike vectors. But when any two vectors have the same metric measure, they are
+is that it would then have the same measure as some timelike vector. But when any two vectors have the same metric measure, they are
 equivalent in the sense that they could actually *be* the same vector, just seen in a different frame of reference.
 
 For example, this figure shows two photos of a pen on a desktop. 
@@ -345,12 +345,14 @@ at the age of 16. Suppose, Albert Einstein daydreamed, that I ride on a motorcyc
 at nearly the speed of light, chasing a light wave as it passes over me. What would I
 observe? And what would happen if I rode *at* the speed of light?
 
-It turns out that we can understand this using the metric.
+As a final demonstration of the power of the metric, let's use it to resolve this mystery.
+(Spoiler: No, it doesn't like like making the "jump to hyperspace" in Star Wars.)
+
 If we draw the vector ↑ and then start drawing all the possibilities in between that and →, we will eventually have to
 transition from positive intervals to negative ones. At the transition point, we'll have a vector whose interval is
 zero. Conventionally, we draw our diagrams so that the scales are properly matched on the time and space axes, and
 then the zero interval is what occurs when the vector's representation on paper is at an angle of 45 degrees, like ↗.
-This amount of tilt is the speed that we call c, and c also happens to be the speed of light.
+This amount of tilt is the speed that we call c, and c also happens to be the speed of light. (c=1 in natural units.)
 
 If we fix our attention on one event, and consider other events in spacetime according to their displacements from it, then
 we get a picture like the one shown below. Spacetime gets divided up into three portions, with the boundaries defined by
