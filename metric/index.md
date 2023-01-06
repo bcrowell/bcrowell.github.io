@@ -336,14 +336,19 @@ the velocity is 0.6 (60% of the speed of light), the time ratio is 1.25.
 Einstein's motorcycle
 -----------------
 
+At the Swiss Federal Polytechnic school, a physics student, about 20 years old,
+was sitting in the back of a classroom, absorbing a lecture on electromagnetism,
+when he came back to a troubling, half-formed fantasy that he had originally imagined
+at the age of 16. Suppose, Albert Einstein daydreamed, that I ride on a motorcycle
+at nearly the speed of light, chasing a light wave as it passes over me. What would I
+observe? And what would happen if I rode *at* the speed of light?
+
+It turns out that we can understand this using the metric.
 If we draw the vector ↑ and then start drawing all the possibilities in between that and →, we will eventually have to
 transition from positive intervals to negative ones. At the transition point, we'll have a vector whose interval is
 zero. Conventionally, we draw our diagrams so that the scales are properly matched on the time and space axes, and
-then the zero interval is what occurs when the vector's representation on paper is at an angle of 45 degrees.
+then the zero interval is what occurs when the vector's representation on paper is at an angle of 45 degrees, like ↗.
 This amount of tilt is the speed that we call c, and c also happens to be the speed of light.
-
-One way of interpreting the zero interval for a lightlike vector is that time doesn't pass for a ray of light. That is,
-you can't make a clock out of pure light.
 
 If we fix our attention on one event, and consider other events in spacetime according to their displacements from it, then
 we get a picture like the one shown below. Spacetime gets divided up into three portions, with the boundaries defined by
@@ -352,6 +357,17 @@ future.
 
 ![Diagram showing vectors inside the light cone, with positive interval, and outside it, with negative interval.](light-cone.png)
 
+How should we interpret this weird fact that we can have vectors that aren't zero, but their measure according
+to the metric is zero? Let's think about it in terms of Einstein's teenage daydream. He was imagining himself
+as an observer. If he's an observer, then the state of his brain changes over time. Initially the neurons are
+in one state, but then after some input comes in through his senses, the neurons bink-bonk-flip each other into
+some new state. (You can tell from my use of the technical lingo that I have considerable expertise in neuroscience.)
+The whole notion of an observer only makes sense if the observer exists for some finite amount of time.
+
+Now if an observer has a world-line that coincides for a while with a certain vector, the vector's measure (the interval)
+tells us the square of the amount of time that observer experiences. So if an observer's vector is ↗, with ↗⸳↗=0, that
+observer isn't experiencing any time. But an observer can't observe unless time passes so that their mental state
+can change. This is a contradiction, so we arrive at the conclusion that observers *can't* travel at the speed of light.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2023 Jan. 5
 
