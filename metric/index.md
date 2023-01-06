@@ -373,6 +373,9 @@ tells us the square of the amount of time that observer experiences. So if an ob
 observer isn't experiencing any time. But an observer can't observe unless time passes so that their mental state
 can change. This is a contradiction, so we arrive at the conclusion that observers *can't* travel at the speed of light.
 
+That concludes what I wanted to tell you about the metric in relativity. I hope you found it fun and
+stimulating.
+
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2023 Jan. 5
 
 [other blog posts](https://bcrowell.github.io/)
