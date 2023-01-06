@@ -1,9 +1,9 @@
 Euclid meets Dalí: the metric in Einstein's theory of relativity
 ==================
 
-When Syracuse fell to the Roman army in 212 BCE, soldiers were sent to capture
+When Syracuse fell to the Roman army in 212 BCE, a squad of soldiers was sent to capture
 the mathematician and engineer Archimedes, who was considered a valuable military asset.
-[Legend has it](https://en.wikipedia.org/wiki/Noli_turbare_circulos_meos!) that when the soldiers arrived, he was drawing geometrical diagrams in
+[Legend has it](https://en.wikipedia.org/wiki/Noli_turbare_circulos_meos!) that when they arrived, he was drawing geometrical diagrams in
 the sand, and he said, "Please don't disturb my circles." An angry soldier killed him.
 
 ![the death of Archimedes](death_of_archimedes_giani.jpg)
@@ -44,8 +44,8 @@ about color.
 Why this metric and not some other?
 ---------------------------------
 
-Euclid believed that he was uncovering essential logical truths about how the world
-should behave. Modern mathematicians would say that you get a huge amount of latitude
+Euclid believed that he was uncovering inherent logical truths about how the world
+should behave. Modern mathematicians, on the contrary, would say that you get a huge amount of latitude
 in defining a metric -- anything goes, as long as it meets some basic criteria.
 Physicists these days have more sophisticated philosophical take. Choosing a metric is
 like choosing a romantic partner. Sure, you *could* pick anyone, but some choices are
@@ -60,7 +60,10 @@ The diagram below shows a typical result.
 ![results of the Pythagorean theorem for displacements (10,0) and (10,1)](pythag_10_1.png)
 
 Notice how in this example the two results are surprisingly close together. That's because when you square things,
-it makes the big things even bigger compared to the small things. As an example of how this matters in our universe,
+it makes the big things even bigger compared to the small things. If you take a look at what happens when you plug
+in the numbers 10 and 1 for the blue vector, you'll see that the second term becomes almost negligible compared to the first.
+
+As an example of how this matters in our universe,
 notice how the weight of the slackliner in the photo makes the rope sag. Even if you made the rope extremely tight,
 it would still sag quite a bit. The proportions for one half of the rope look pretty close to 10 meters to 1 meter.
 So in order to get the rope to sag by one meter, it only had to stretch by about 0.05 m along the length of each half.
@@ -69,10 +72,17 @@ So in order to get the rope to sag by one meter, it only had to stretch by about
 
 *(Wikimedia Commons user Jeff P, CC-BY licensed. https://commons.wikimedia.org/wiki/File:Yosemite_Highlining_(15554008495).jpg )*
 
-It's not at all hard to conceive of a metric that doesn't have these squares in it, which would seem simpler.
-Here's a picture of the result for the version without the squares, r=x+y, when we go 10 dots to the right and 1 dot up.
+It's not at all hard to conceive of a metric that doesn't have these squares in it, and that would seem simpler.
+Physicists have found by experience that when they try to guess how nature behaves, it's usually a good idea to
+make your hypotheses as simple as possible -- but no simpler!
+
+Here's a picture of the result for the simpler version without the squares, r=x+y, when we go 10 dots to the right and 1 dot up.
 The result is just 11. This is often referred to as the [taxicab metric](https://en.wikipedia.org/wiki/Taxicab_geometry), because it's
-effectively what you care about if you're driving a car on a city whose streets are a square grid.
+effectively what you care about if you're driving a car on a city whose streets are a square grid. The poor driver doesn't
+get any benefit from the fact that the blue "as the crow flies" line looks shorter on your computer screen. To a being living in
+a universe with a taxicab metric, that wouldn't even be what a line would look like; it would look like one of the various
+eleven-block paths, which appear to our eyes as "staircase" shapes.
+
 
 ![taxicab version of the vector (10,1), showing the result of 11](taxicab.png)
 
@@ -84,7 +94,7 @@ how I roll."
 ![a circle of radius 2, in the taxicab metric](diamond.png)
 
 It looks more like a diamond than a circle. But is that just our uptight bourgeois values at work? After all, our
-eye easily accepts this aerial photo as a circle, and we could easily make it fit the Pythagorean theorem in its
+eye easily accepts the aerial photo below as a circle, and we could easily make it fit the Pythagorean theorem in its
 usual form simply by adopting the graph-paper grid shown in the figure. There's no principle that says that the
 *representation* of the shape has to look like anything in particular; that's just a matter of how we *embed*
 reality into the pixels on a screen, or *label* them with coordinates like x and y.
@@ -179,10 +189,10 @@ single, fixed point way over on the left. The up-down direction is orthogonal to
 so small changes hardly change the distance at all. This is different from left-right changes, which
 produce a one-for-one effect.
 
-In the Pythagorean theorem, as we saw earlier, the squares are what produce this behavior. The fact that these
+In the Pythagorean theorem, as we saw earlier, the squares in the formula x²+y² are what produce this behavior. The fact that these
 squares exist is also directly related to the rotational symmetry of space. If you take a look at the
-green-red-blue sequence in the figure, you'll see that the sequence of distances goes 10.05, 10, 10.05. It
-goes down and then back up, and it does it in a symmetrical way. Suppose instead that it had shown a steady trend,
+green-red-blue sequence in the figure, you'll see that the sequence of distances goes 10.05, 10, 10.05. The numbers decrease and
+then come back up, and they do it in a symmetrical way. Suppose instead that it had shown a steady trend,
 maybe 9, 10, 11, just like the orange-red-pink series. That would violate the symmetry of space. There would be something special about up compared
 to down. Spinning the paper upside down would produce the opposite trend, which would be a contradiction to our expectation of symmetry
 and leave us wondering how to tell which version of the diagram to trust -- the original one or the upside-down one.
@@ -217,7 +227,7 @@ But to her, they are. The fact that they are simultaneous *to her* can
 be summarized as a fact about the relationship between her own vector,
 which looks like this ↑, and the B-D vector, which looks like this
 →. They look perpendicular when drawn this way, in this frame, and we
-do say that they're "orthogonal," but not for that reason. Tthe rules
+do say that they're "orthogonal," but not for that reason. The rules
 of orthogonality, like the rules of length-measurement for vectors,
 are not the ones we would guess from the representation of the arrows
 on a piece of paper. We can't always infer whether vectors are
@@ -226,9 +236,9 @@ them.
 
 The reason we use the word "orthogonal" here is that these two vectors are orthogonal in the
 sense described earlier: when the distance BD is small, the resulting effect on time is small.
-Only when the distance is big (i.e., when the motion is very fast) to we get a big time dilation.
+Only when the distance is big (i.e., when the motion is very fast) do we get a big time dilation.
 Furthermore, if we had placed D at an equal distance to the *left* of the AC line, we would have gotten the same
-answer.
+clock readings.
 
 As a preliminnary to the rest of our discussion, it's useful to be able to talk about stretching and flipping a vector.
 Suppose c is just some number, like 3. Then 3**u** means the vector **u** stretched to
@@ -251,14 +261,14 @@ We start with two physics-based definitions that connect the math to what it rep
 
 * When a clock has a certain world-line, a portion of which is some vector **u**, we define the inner product **u**⸳**u** to be the square of the elapsed time on the clock. For convenience, we may notate this squared time as I and call it the *interval*.
 
-Reason: The squaring stuff makes a lot of things turns out nicely, as in all our previous examples. Note that this makes the result of the inner product an ordinary number, not a vector. That is, the inner product is a machine that takes two vectors as its inputs, and gives a number as its output.
+Reason: The squaring stuff will make a lot of things turn out nicely, as in all our previous examples. Note that our definition makes the result of the inner product an ordinary number, not a vector. That is, the inner product is a machine that takes two vectors as its inputs, and gives a number as its output.
 
-* When vectors **u** and **v** are (i.e., one is a vector of simultaneity as seen by an observer whose world-line coincides with the other), we define **u**⸳**v**=0.
+* When vectors **u** and **v** are orthogonal (i.e., one is a vector of simultaneity as seen by an observer whose world-line coincides with the other), we define **u**⸳**v**=0.
 
 Reason: If we think of this by analogy with the number line in elementary school, a positive number would be like Mr. Bunny taking some hops to the right,
 which we would naturally represent as an arrow pointing in the positive direction. If we want the inner product to act sort of
 like ordinary multiplication, then multiplying two arrows in the same direction should give a positive result, while multiplying two arrows with
-directions opposite to one another should give a negative output. Orthogonality is the intermediate case, so it should give zero.
+directions opposite to one another should give a negative output, like 2x-3=-6. Orthogonality is the intermediate case, so it should give zero.
 
 We also require that the inner product have the following algebraic properties, which are analogous to ordinary multiplication and also
 ensure that it fits in with the mechanics of how we string together vectors ("add" them) on a spacetime diagram.
@@ -275,11 +285,11 @@ Measuring spacelike vectors
 Something strange happens now when we compute the interval of a spacelike vector. First off, it's not even obvious that what we've said
 so far about the inner product even suffices to define a system of spatial measurement. We might naively think that we could just draw the vector
 on paper, then draw another one with a ruler that has the same length but is in a timelike direction, and take the inner product on that.
-But as we saw with examples like the aerial photograph and the "gas stations" idea, that doesn't necessarily work.
+But as we saw with examples like the aerial photograph and the "gas stations" idea, using ruler distances doesn't necessarily work.
 
 In fact, there is no way, based on our rules, that a spacelike vector can have an interval that is some *positive* number. The reason for this
 is that it would then have the same measure as some timelike vectors. But when any two vectors have the same metric measure, they are
-actually equivalent in the sense that they could actually *be* the same vector, just seen in a different frame of reference.
+equivalent in the sense that they could actually *be* the same vector, just seen in a different frame of reference.
 
 For example, this figure shows two photos of a pen on a desktop. 
 
@@ -301,6 +311,8 @@ possible to turn time into space or space into time simply by changing our frame
 simple: the interval has to have opposite signs for timelike and spacelike vectors. The convention I'm using here is that the
 interval is positive for timelike vectors, so it's negative for spacelike ones.
 
+![spacetime diagram of the traveling clock and stay-at-home clock](twin-paradox-triangle.png)
+
 To see that this isn't just an arbitrary choice, consider our by-now familiar example of the traveling clock and stay-at-home clock.
 The figure below shows the bottom half of the diagram, expressed using vectors and vector addition.
 The vector **u** is the first half of the world-line of the stay-at-home clock. The vector **v** is a vector of simultaneity, as
@@ -312,9 +324,8 @@ have **w**⸳**w**=(**u**+**v**)⸳(**u**+**v**). Since **u** and **v** are orth
 vectors, so we have the squared-clock-time interpretation the **w**⸳**w** and **u**⸳**u** pieces of this equation. But recall
 that the stay-at-home clock experiences *more* time, so that **u**⸳**u**>**w**⸳**w**. This proves that **v**⸳**v** is negative.
 
-![spacetime diagram of the traveling clock and stay-at-home clock](twin-paradox-triangle.png)
 
-Lightlike vectors
+Einstein's motorcycle
 -----------------
 
 If we draw the vector ↑ and then start drawing all the possibilities in between that and →, we will eventually have to

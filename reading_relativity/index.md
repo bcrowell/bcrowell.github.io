@@ -36,8 +36,9 @@ This is a topic that is inherently pretty easy to discuss without a lot of math.
 
 ## With easy math
 
-* [Why can't you go faster than the speed of light? -- An explanation without equations or fallacies.](../faster_than_light) (Crowell) - As suggested by the title, the emphasis in this short article is on explaining why superluminal speeds are impossible, but I accomplish that by developing from scratch, in a visual style, the relevant facts about the metric. (20 min)
-* [Relativity for poets, ch. 4](https://archive.org/details/poets_202201/page/10/mode/2up) (Crowell) - A longer textbook-style introduction for a gen ed college class. (40 min)
+* [Why can't you go faster than the speed of light? -- An explanation without equations or fallacies.](../faster_than_light) (Crowell) - As suggested by the title, the emphasis in this short article is on explaining why superluminal speeds are impossible, but I accomplish that by developing from scratch, in a visual style, the relevant facts about the metric. I gloss over some details, which are presented in more detail in the Euclid meets Dalí article (below). (20 min)
+* [Relativity for poets, ch. 4](https://archive.org/details/poets_202201/page/10/mode/2up) (Crowell) - A very short textbook-style introduction for a gen ed college class. This assumes that you already know quite a bit of relativity from the earlier chapters of the book, so the metric is presented as an afterthough: simply a different set of mathematical tools for expressing the same ideas. (20 min)
+* [Euclid meets Dalí: the metric in Einstein's theory of relativity](../metric) (Crowell) - This article assumes only some basic previous knowledge of spacetime diagrams (like [this](../spacetime_diagrams)), and presents the metric as a foundation for relativity. This is pitched at people without a college-level STEM background, but it will be helpful to have had something like a high school precalculus or physics class. (60 min)
 
 ## Sophomore STEM level
 
