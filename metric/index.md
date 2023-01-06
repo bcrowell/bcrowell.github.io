@@ -314,16 +314,26 @@ interval is positive for timelike vectors, so it's negative for spacelike ones.
 ![spacetime diagram of the traveling clock and stay-at-home clock](twin-paradox-triangle.png)
 
 To see that this isn't just an arbitrary choice, consider our by-now familiar example of the traveling clock and stay-at-home clock.
-The figure below shows the bottom half of the diagram, expressed using vectors and vector addition.
+The figure above shows the bottom half of the diagram, expressed using vectors and vector addition.
 The vector **u** is the first half of the world-line of the stay-at-home clock. The vector **v** is a vector of simultaneity, as
 judged by an observer in the stay-at-home state of motion, and **w** is the first half of the traveling clock's world-line.
 The vectors **u** and **v** are arranged tip-to-tail, and **w** goes from the tail of the first one to the tip of the second one.
 This is our definition of adding vectors, so **w**=**u**+**v**. If we now take the metric measure (interval) of **w**, we
-have **w**⸳**w**=(**u**+**v**)⸳(**u**+**v**). Since **u** and **v** are orthogonal, when we FOIL this out, the **u**⸳**v** and
+have **w**⸳**w**=(**u**+**v**)⸳(**u**+**v**). Since **u** and **v** are orthogonal, when we multiply this out, the **u**⸳**v** and
 **v**⸳**u** terms are zero, and the result simplifies to **w**⸳**w**=**u**⸳**u**+**v**⸳**v**. Now **u** and **w** are timelike
 vectors, so we have the squared-clock-time interpretation the **w**⸳**w** and **u**⸳**u** pieces of this equation. But recall
 that the stay-at-home clock experiences *more* time, so that **u**⸳**u**>**w**⸳**w**. This proves that **v**⸳**v** is negative.
 
+By the way, the focus of this article is only the metric itself, not a complete presentation of relativity, but it's
+worth making the point that the rest of the theory is pretty much implicit in these facts about the metric. As an
+example, suppose we actually want to calculate how much time is elapsed on the two clocks in the diagram. We can do
+that using the metric. I don't want to distract from the main points here by writing out the full calculation in the
+main text, so I'll just give the setup and then give the rest in a footnote. Let t be the time experienced by the
+stay-at-home clock in the figure, and s the time for the traveling clock. Then t=√(**u**⸳**u**) and s=√(**w**⸳**w**),
+and what we're trying to calculate is the ratio t/s. The distance traveled by the moving clock, according to an observer
+in the stay-at-home frame, is d=√(-**v**⸳**v**). We expect this to depend on the velocity of one clock relative
+to the other, which is d/t. If you go ahead and complete the calculation,[^gamma] you should find, for example, that when
+the velocity is 0.6 (60% of the speed of light), the time ratio is 1.25.
 
 Einstein's motorcycle
 -----------------
@@ -356,3 +366,5 @@ Notes
 
 [^benjamin_button]:  It may also require an additional flip of the vector so that a future-directed arrowhead becomes one that points toward the past. For now, let's not worry about that possibility, which is not something that you can do without being Benjamin Button.
 
+[^gamma]: We found previously that **w**⸳**w**=**u**⸳**u**+**v**⸳**v**, so that t/s=√[**u**⸳**u**/(**u**⸳**u**+**v**⸳**v**)]. This is the same as
+√[t²/(t²-d²)], or 1/√[1-(d/t)²].
