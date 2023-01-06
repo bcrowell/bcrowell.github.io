@@ -4,18 +4,20 @@ Euclid meets Dalí: the metric in Einstein's theory of relativity
 When Syracuse fell to the Roman army in 212 BCE, a squad of soldiers was sent to capture
 the mathematician and engineer Archimedes, who was considered a valuable military asset.
 [Legend has it](https://en.wikipedia.org/wiki/Noli_turbare_circulos_meos!) that when they arrived, he was drawing geometrical diagrams in
-the sand, and he said, "Please don't disturb my circles." An angry soldier killed him.
+the sand, and he said, "Don't disturb my circles." An angry soldier killed him.
 
 ![the death of Archimedes](death_of_archimedes_giani.jpg)
 
-*(The death of Archimedes, by Giani.)*
+*"Don't disturb my circles." (The death of Archimedes, by Giani.)*
 
 Euclid's third postulate is that a circle exists with any given center and radius.
 What was revolutionary about that was not the seemingly unobjectionable
 claim about physical space, it was the idea that *this* was the kind of thing
 that you would write down in order to describe the order of things in the world.
 Not a statement about gods or warlords, myths or miracles, but one about the universe
-as something that the human mind can encompass and *measure*.
+as something that the human mind can encompass and *measure*. The drawing shows Archimedes
+using a compass, which is the only distance-measuring device in the [physical embodiment of
+Euclid's thought-system](https://en.wikipedia.org/wiki/Straightedge_and_compass_construction).
 
 In mathematician-speak, Euclid endowed space with a *metric*, meaning
 a set of mathematical machinery that allows us to say things like,
