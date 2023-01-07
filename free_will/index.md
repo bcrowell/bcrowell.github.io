@@ -117,8 +117,26 @@ that the incompatibilists say they're taking seriously. Folk-wisdom free will is
 If Cain's brain is somehow influenced by some kind of randomness at the atomic level, then if anything, that
 would tend to *decrease* his moral responsibility.
 
+![drawing of Schrodinger's cat](cat.png)
+
+*The Schrodinger equation says that Schrodinger's cat is both alive and dead, and the situation is never resolved. It's a matter of interpretation whether this should be rectified by modifying the math.*
+
 The second problem is that it is simply not true that classical physics (meaning the physics that came before
 the quantum revolution, ca. 1927) is deterministic, while quantum physics is random.
+The notion that classical physics is deterministic just doesn't stand up to more careful analysis.
+It's more of a folk-science belief among physicists (Norton 2003).
+The very entertaining and readable book by Earman (1995) shows how thoroughly it breaks down in Einstein's
+theory of relativity (which physicists consider classical). And as to whether quantum physics is random,
+that's a matter of interpretation. Sorry, but it really does matter what you mean by "random." The basic
+equation that governs quantum physics, called the Schrodinger equation, is completely deterministic.
+It says that a uranium atom is both decayed and not decayed, and that
+[Schrodinger's cat](https://archive.org/details/mod_20220102/page/354/mode/2up) is both alive
+and dead at the same time, and there's nothing random about it. Some physicists who felt queasy about that
+have advocated adding [additional machinery](https://en.wikipedia.org/wiki/Dirac%E2%80%93von_Neumann_axioms) to
+quantum mechanics to force a random outcome, but the Schrodinger equation [works equally well without it](https://en.wikipedia.org/wiki/Quantum_decoherence). Real-world physical theories just don't lend themselves to categorization as random or deterministic.
+
+Thanks for reading. I hope I've convinced you that the laws of physics have nothing whatsoever to do with
+whether or not we have free will.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2023 Jan. 7
 
@@ -134,5 +152,9 @@ Campbell, 1951, "Is `Freewill' a Pseudo-Problem?," https://sci-hub.se/http://www
 Clark, Winegard, and Baumeister, 2019, "Forget the Folk: Moral Responsibility Preservation Motives and Other Conditions for Compatibilism," https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6374326/
 
 Dennett, 1984, Elbow room: the varieties of free will worth wanting
+
+Earman, 1995, "Bangs, crunches, whimpers, and shrieks: singularities and acausalities in relativistic spacetimes"
+
+Norton, 2003, "Causation as Folk Science," https://quod.lib.umich.edu/p/phimp/3521354.0003.004/1
 
 Schlick, 1931, "The Pseudo-problem of Freedom of the Will" (chapter in a book)
