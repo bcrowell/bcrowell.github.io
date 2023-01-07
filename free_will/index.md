@@ -69,6 +69,56 @@ So if you take the compatiblism off-ramp, then once again, the laws of physics d
 you do or don't have free will. The laws of physics help to explain why chemistry works the way it does, and
 chemistry helps to explain why your brain works (or doesn't work) properly.
 
+Off-ramp 3: Libertarianism
+--------------------------
+
+Some people feel uncomfortable with this idea that we can or should reduce the mind to the workings of
+the brain. Many of the people who feel this way are religious. (Yes, believe it or not, many professional
+philosophers [https://survey2020.philpeople.org/survey/results/4842](are theists).
+Among this population, the point of view that is almost completely absent
+is agnosticism.) In [Genesis 4:7](https://biblehub.com/interlinear/genesis/4-7.htm), God tells Cain that he is to "rule over" (timshel)
+his desire, which Cain takes as the green light to kill his brother. That sounds a lot like
+a declaration that people have free will, and they get it from Yahweh. This point of view tends to
+be in opposition to naturalism and to embrace something like Cartesian dualism.
+
+So if you agree with this point of view, then again there is nothing about the laws of physics that
+is relevant. You're rejecting physics as an explanation of the mind, so physics has no contribution to make.
+
+Off-ramp 4: Incompatibilism
+---------------------------
+
+Some people feel that the compatibilists are cheating by moving the
+goal posts. Ordinary people, they say, know what they mean by free
+will, and it isn't the watered-down version offered by the
+compatibilists.  Embrace the suck: the common folk think they have free
+will, but science says they don't. Free will is an illusion. Many of
+the most visible proponents of this point of view are neuroscientists,
+such as Sam Harris. There is a tendency among many of these people to take extreme positions on moral responsibility.
+For example Gregg Caruso, who leans toward incompatibilism, believes that there should be only a
+"public health-quarantine model" for criminal justice, and that deterrence is wrong.
+I would call this the ["Gee, Officer Krupke"](https://en.wikipedia.org/wiki/Gee%2C_Officer_Krupke) conclusion.
+
+If physics was going to have any relevance at all to free will, then it would have to be among the incompatiblists.
+The simplest form of the argument would be that our brain is basically a computer, and its operations are ultimately
+governed by the laws of physics. Therefore if Cain is thinking about whether to kill Abel, the outcome is predetermined
+by the initial physical state of his brain (plus other external sensory impressions that occur while he's thinking, but
+those too are part of the physical universe and governed by physical laws).
+
+When you frame the argument this way, it sounds as though it matters that the brain is a *deterministic* computer
+governed by *deterministic* physical laws. This makes it sound as though Isaac Newton took away your free will,
+with his conception of a universe operating entirely according to such laws -- heaven and earth both, no exceptions.
+If so, then you might think that the terms of the whole discussion could be altered by the discovery of quantum
+physics, which allows for randomness.
+There are two big problems with this idea.
+
+The first problem is that if randomness enters into the functioning of the brain, then there is absolutely no
+reason to think that that randomness somehow has implications for the folk-wisdom version of free will
+that the incompatibilists say they're taking seriously. Folk-wisdom free will is all about moral responsibility.
+If Cain's brain is somehow influenced by some kind of randomness at the atomic level, then if anything, that
+would tend to *decrease* his moral responsibility.
+
+The second problem is that it is simply not true that classical physics (meaning the physics that came before
+the quantum revolution, ca. 1927) is deterministic, while quantum physics is random.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2023 Jan. 7
 
