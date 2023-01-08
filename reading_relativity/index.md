@@ -93,6 +93,7 @@ This is a topic that is inherently pretty easy to discuss without a lot of math.
 
 * Gravity: An Introduction to Einstein's General Relativity (Hartle) - Not free. [Used copies are available for about $40](https://www.bookfinder.com/search/?author=Hartle%2C+James+B.&title=Gravity%3A+An+Introduction+to+Einstein%27s+General+Relativity&lang=en&st=xl&ac=qr)
 * Spacetime physics, ch. 9 (Taylor and Wheeler) - [Borrow online from the Internet Archive.](https://archive.org/details/spacetimephysics00edwi_0). A one-chapter presentation at the tail end of a book on special relativity. (1 hr)
+* Exploring black holes: introduction to general relativity (Taylor and Wheeler) - A cool book that uses only basic calculus and introduces general relativity solely though black holes. [Unfortunately, used copies seem to cost at least $75.](https://www.bookfinder.com/search/?author=Edwin+F.+Taylor&title=Exploring+Black+Holes%3A+Introduction+to+General+Relativity&lang=en&st=xl&ac=qr)
 
 ## Graduate level
 

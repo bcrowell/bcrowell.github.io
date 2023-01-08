@@ -42,7 +42,7 @@ People mulled this over and published papers with titles like "The Pseudo-proble
 (Schlick 1931) and "Is `Freewill' a Pseudo-Problem?" (Campbell 1951).
 Then, surprisingly, there was
 progress. The idea was to revive and clarify a point of view called [compatibilism](https://en.wikipedia.org/wiki/Compatibilism).
-(Dennett 1984 is very readable).
+(Dennett 1984 is very readable.)
 Compatibilists argue that that there are various situations in which we all agree, as a matter of common sense, that
 a certain person lacks free will.
 
@@ -53,7 +53,7 @@ may compulsively wash their hands over and over again. They can't control their 
 There are also lots of silly, fun examples, such as some of the robot parables in Stanislaw Lem's [The Cyberiad](https://en.wikipedia.org/wiki/The_Cyberiad) (one of my favorite science fiction books of all time).
 
 Whether the examples are serious or silly, they can be interpreted in terms of a perfectly reasonable picture
-of our world. We have a bunch of organs in our body. The liver has jobs like removing alcohol from the blood and
+of our natural world. We have a bunch of organs in our body. The liver has jobs like removing alcohol from the blood and
 storing up energy. If your liver gets messed up, you can't function normally. Likewise your brain has jobs like
 making decisions. If your brain gets messed up, you lose that ability.
 
@@ -100,7 +100,7 @@ will, but science says they don't. Free will is an illusion.
 Many of
 the most visible proponents of this point of view are neuroscientists,
 such as Sam Harris. There is a tendency among many of these people to take extreme positions on moral responsibility.
-For example Gregg Caruso, who espouses ideas overlapping with incompatibilism, believes that there should be only a
+For example, Gregg Caruso, who espouses ideas overlapping with incompatibilism, believes that there should be only a
 "public health-quarantine model" for criminal justice, and that deterrence is wrong.
 I would call this the ["Gee, Officer Krupke"](https://en.wikipedia.org/wiki/Gee%2C_Officer_Krupke) conclusion.
 
