@@ -1,4 +1,4 @@
-Physics didn't take away your free will, and quantum mechanics didn't give it back
+Physics didn't take away your free will, and quantum mechanics didn't give it back.
 ==================
 
 People who have thought hard about free will don't necessarily all agree on it.
@@ -66,7 +66,7 @@ So if you take the compatiblism off-ramp, then once again, the laws of physics d
 you do or don't have free will. The laws of physics help to explain why chemistry works the way it does, and
 chemistry helps to explain why your brain works (or doesn't work) properly.
 
-Off-ramp 3: Libertarianism
+Off-ramp 3: Libertarianism (no, not that kind of libertarianism)
 --------------------------
 
 Some people feel uncomfortable with this idea that we can or should reduce the mind to the workings of
@@ -76,7 +76,9 @@ Among this population, the point of view that is almost completely absent
 is agnosticism.) In [Genesis 4:7](https://biblehub.com/interlinear/genesis/4-7.htm), God tells Cain that he is to "rule over" (timshel)
 his desire, which Cain takes as the green light to kill his brother. That sounds a lot like
 a declaration that people have free will, and they get it from Yahweh. This point of view tends to
-be in opposition to naturalism and to embrace something like Cartesian dualism.
+be in opposition to naturalism and to embrace something like Cartesian dualism. It's 
+called [libertarianism](https://en.wikipedia.org/wiki/Libertarianism_(metaphysics)) (and it's
+not the same as the political philosophy).
 
 ![Cain killing Abel](cain.jpg)
 
@@ -92,10 +94,12 @@ Some people feel that the compatibilists are cheating by moving the
 goal posts. Ordinary people, they say, know what they mean by free
 will, and it isn't the watered-down version offered by the
 compatibilists.  Embrace the suck: the common folk think they have free
-will, but science says they don't. Free will is an illusion. Many of
+will, but science says they don't. Free will is an illusion. 
+
+Many of
 the most visible proponents of this point of view are neuroscientists,
 such as Sam Harris. There is a tendency among many of these people to take extreme positions on moral responsibility.
-For example Gregg Caruso, who leans toward incompatibilism, believes that there should be only a
+For example Gregg Caruso, who espouses ideas overlapping with incompatibilism, believes that there should be only a
 "public health-quarantine model" for criminal justice, and that deterrence is wrong.
 I would call this the ["Gee, Officer Krupke"](https://en.wikipedia.org/wiki/Gee%2C_Officer_Krupke) conclusion.
 
@@ -129,7 +133,9 @@ is deterministic, while quantum physics is random.
 The notion that classical physics is deterministic doesn't stand up to more careful analysis.
 It's more of a folk-science belief among physicists (Norton 2003).
 The very entertaining and readable book by Earman (1995) shows how thoroughly it breaks down in Einstein's
-theory of general relativity (which physicists consider classical). And as to whether quantum physics is random,
+theory of general relativity (which physicists consider classical).
+
+And as to whether quantum physics is random,
 that's a matter of interpretation. Sorry, but it really does matter what you mean by "random." The basic
 equation that governs quantum physics, called the Schrodinger equation, is completely deterministic.
 It says that a uranium atom is both decayed and not decayed, and that
