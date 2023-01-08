@@ -20,3 +20,5 @@ blog posts
 [Reading relativity: recommended reading (mostly free) about Einstein's universe, for people with a variety of math backgrounds](reading_relativity) - 2023 Jan. 4
 
 [Euclid meets Dalí: the metric in Einstein's theory of relativity](metric) - 2023 Jan. 6
+
+[Physics didn't take away your free will, and quantum mechanics didn't give it back](free_will) - 2023 Jan. 7

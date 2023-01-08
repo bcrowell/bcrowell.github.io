@@ -19,9 +19,10 @@ Off-ramp number 1: The discussion is meaningless, because "free will" has never 
 ------------------------------------------------------------------------------------------------------------
 
 If you ask people for their opinions about free will (Clark 2019), you get all kinds of
-answers. They contradict themselves.  They seem to engage in motivated reasoning. They may be sure that
+answers. They contradict themselves.  They resort to motivated reasoning. They may be sure that
 they know what the phrase means, but they can't seem to define it in any way that withstands scrutiny. Religions
-have their own doctrines about free will, such as the one in [Genesis 3:3](https://ebible.org/web/GEN03.htm) --
+have their own doctrines about free will, like the ones in [Genesis 3:3](https://ebible.org/web/GEN03.htm) 
+and [4:7](https://ebible.org/web/GEN04.htm)--
 but rest assured that the answers supplied by the Abrahamic religions aren't the same as the ones you get from Buddhists.
 Philosophers, at least up until fairly recently, didn't seem able to do any better.
 
@@ -57,7 +58,7 @@ making decisions. If your brain gets messed up, you lose that ability.
 
 OK, I know it's really, really silly to take surveys on intellectual questions, but just for the record, a
 2020 [survey](https://survey2020.philpeople.org/survey/results/4838) showed that compatibilism was the preferred point of view of
-about 60% out of several thousand English-speaking academic philosophers .
+about 60% out of several thousand English-speaking academic philosophers.
 
 The reason compatibilism is called compatiblism is that it says there is no conflict between the fact that
 the universe seems to have rules and the notion that your brain makes choices if it's in good working order.
@@ -79,7 +80,7 @@ be in opposition to naturalism and to embrace something like Cartesian dualism.
 
 ![Cain killing Abel](cain.jpg)
 
-*"If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it."*
+*"If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it." [Genesis 4:7](https://ebible.org/web/GEN04.htm)*
 
 So if you agree with this point of view, then again there is nothing about the laws of physics that
 is relevant. You're rejecting physics as an explanation of the mind, so physics has no contribution to make.
@@ -121,14 +122,14 @@ would tend to *decrease* his moral responsibility.
 
 ![drawing of Schrodinger's cat](cat.png)
 
-*The Schrodinger equation says that Schrodinger's cat is both alive and dead, and the situation is never resolved. It's a matter of interpretation whether this should be rectified by modifying the math.*
+*The Schrodinger equation says that Schrodinger's cat is both alive and dead, and the situation is never resolved. It's a matter of interpretation whether this should be rectified by fiddling with the math.*
 
-The second problem is that it is simply not true that classical physics (meaning the physics that came before
-the quantum revolution, ca. 1927) is deterministic, while quantum physics is random.
-The notion that classical physics is deterministic just doesn't stand up to more careful analysis.
+The second problem is that it is simply not true that classical physics
+is deterministic, while quantum physics is random.
+The notion that classical physics is deterministic doesn't stand up to more careful analysis.
 It's more of a folk-science belief among physicists (Norton 2003).
 The very entertaining and readable book by Earman (1995) shows how thoroughly it breaks down in Einstein's
-theory of relativity (which physicists consider classical). And as to whether quantum physics is random,
+theory of general relativity (which physicists consider classical). And as to whether quantum physics is random,
 that's a matter of interpretation. Sorry, but it really does matter what you mean by "random." The basic
 equation that governs quantum physics, called the Schrodinger equation, is completely deterministic.
 It says that a uranium atom is both decayed and not decayed, and that
