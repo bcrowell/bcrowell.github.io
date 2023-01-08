@@ -42,6 +42,7 @@ People mulled this over and published papers with titles like "The Pseudo-proble
 (Schlick 1931) and "Is `Freewill' a Pseudo-Problem?" (Campbell 1951).
 Then, surprisingly, there was
 progress. The idea was to revive and clarify a point of view called [compatibilism](https://en.wikipedia.org/wiki/Compatibilism).
+(Dennett 1984 is very readable).
 Compatibilists argue that that there are various situations in which we all agree, as a matter of common sense, that
 a certain person lacks free will.
 
@@ -133,7 +134,7 @@ is deterministic, while quantum physics is random.
 The notion that classical physics is deterministic doesn't stand up to more careful analysis.
 It's more of a folk-science belief among physicists (Norton 2003).
 The very entertaining and readable book by Earman (1995) shows how thoroughly it breaks down in Einstein's
-theory of general relativity (which physicists consider classical). A recent breakthrough by Dafermos (2022) goes farther,
+theory of general relativity (which physicists consider classical). A recent breakthrough by Dafermos (2022) goes further,
 suggesting that there is a type of unpredictability going on inside black holes called a Cauchy horizon -- a possibility that
 had previously been thought to be an artifact of certain mathematical approximations. Does it seem silly to you that we'd
 even be talking about the interior of a black hole when the topic is whether Cain had a choice about killing Abel?
