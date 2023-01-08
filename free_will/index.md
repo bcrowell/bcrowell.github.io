@@ -15,8 +15,6 @@ your persuasion.
 
 ![Eve with the serpent. An icon of a helium atom hovers above them.](eve.png)
 
-*(Biblia Pauperum, public domain. Modified by the author. https://commons.wikimedia.org/wiki/File:BibliaPauperum.jpg )*
-
 Off-ramp number 1: The discussion is meaningless, because "free will" has never been defined satisfactorily.
 ------------------------------------------------------------------------------------------------------------
 
@@ -48,8 +46,6 @@ a certain person lacks free will.
 
 ![a person washing his hands](hand_washing.jpg)
 
-*(Lars Klintwall Malmqvist, PD, https://commons.wikimedia.org/wiki/File:OCD_handwash.jpg )*
-
 For example, someone with [obsessive–compulsive disorder](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder)
 may compulsively wash their hands over and over again. They can't control their own behavior.
 There are also lots of silly, fun examples, such as some of the robot parables in Stanislaw Lem's [The Cyberiad](https://en.wikipedia.org/wiki/The_Cyberiad) (one of my favorite science fiction books of all time).
@@ -74,12 +70,16 @@ Off-ramp 3: Libertarianism
 
 Some people feel uncomfortable with this idea that we can or should reduce the mind to the workings of
 the brain. Many of the people who feel this way are religious. (Yes, believe it or not, many professional
-philosophers [https://survey2020.philpeople.org/survey/results/4842](are theists).
+philosophers [are theists](https://survey2020.philpeople.org/survey/results/4842).
 Among this population, the point of view that is almost completely absent
 is agnosticism.) In [Genesis 4:7](https://biblehub.com/interlinear/genesis/4-7.htm), God tells Cain that he is to "rule over" (timshel)
 his desire, which Cain takes as the green light to kill his brother. That sounds a lot like
 a declaration that people have free will, and they get it from Yahweh. This point of view tends to
 be in opposition to naturalism and to embrace something like Cartesian dualism.
+
+![Cain killing Abel](cain.jpg)
+
+*"If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it."*
 
 So if you agree with this point of view, then again there is nothing about the laws of physics that
 is relevant. You're rejecting physics as an explanation of the mind, so physics has no contribution to make.
@@ -97,6 +97,8 @@ such as Sam Harris. There is a tendency among many of these people to take extre
 For example Gregg Caruso, who leans toward incompatibilism, believes that there should be only a
 "public health-quarantine model" for criminal justice, and that deterrence is wrong.
 I would call this the ["Gee, Officer Krupke"](https://en.wikipedia.org/wiki/Gee%2C_Officer_Krupke) conclusion.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j7TT4jnnWys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If physics was going to have any relevance at all to free will, then it would have to be among the incompatiblists.
 The simplest form of the argument would be that our brain is basically a computer, and its operations are ultimately
@@ -158,3 +160,13 @@ Earman, 1995, "Bangs, crunches, whimpers, and shrieks: singularities and acausal
 Norton, 2003, "Causation as Folk Science," https://quod.lib.umich.edu/p/phimp/3521354.0003.004/1
 
 Schlick, 1931, "The Pseudo-problem of Freedom of the Will" (chapter in a book)
+
+Photo credits
+------
+
+Cain - Den Grooten Figuer-Bibel, https://commons.wikimedia.org/wiki/File:Ka%C3%AFn_doodt_Abel_Van_Cain_ende_Abel_(serietitel)_Geschiedenis_van_Ka%C3%AFn_en_Abel_(serietitel)_Den_Grooten_Figuer-Bibel_(..)_(serietitel),_RP-P-1982-306-14.jpg
+
+Eve, the serpent, and the atom - Biblia Pauperum, public domain. Modified by the author. https://commons.wikimedia.org/wiki/File:BibliaPauperum.jpg
+
+Washing hands - Lars Klintwall Malmqvist, PD, https://commons.wikimedia.org/wiki/File:OCD_handwash.jpg 
+
