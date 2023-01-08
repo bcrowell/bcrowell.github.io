@@ -133,7 +133,13 @@ is deterministic, while quantum physics is random.
 The notion that classical physics is deterministic doesn't stand up to more careful analysis.
 It's more of a folk-science belief among physicists (Norton 2003).
 The very entertaining and readable book by Earman (1995) shows how thoroughly it breaks down in Einstein's
-theory of general relativity (which physicists consider classical).
+theory of general relativity (which physicists consider classical). A recent breakthrough by Dafermos (2022) goes farther,
+suggesting that there is a type of unpredictability going on inside black holes called a Cauchy horizon -- a possibility that
+had previously been thought to be an artifact of certain mathematical approximations. Does it seem silly to you that we'd
+even be talking about the interior of a black hole when the topic is whether Cain had a choice about killing Abel?
+Yes, that's exactly the point! It is silly. The two have nothing to do with one another (although it is fun to imagine
+Cain riding a space probe into a black hole, [Dr. Strangelove](https://en.wikipedia.org/wiki/Dr._Strangelove)-style,
+on a quest to get back the free will that was taken from him by the atheistic physicists).
 
 And as to whether quantum physics is random,
 that's a matter of interpretation. Sorry, but it really does matter what you mean by "random." The basic
@@ -159,6 +165,8 @@ References
 Campbell, 1951, "Is `Freewill' a Pseudo-Problem?," https://sci-hub.se/http://www.jstor.org/stable/2251143
 
 Clark, Winegard, and Baumeister, 2019, "Forget the Folk: Moral Responsibility Preservation Motives and Other Conditions for Compatibilism," https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6374326/
+
+Dafermos, 2022, https://www.dpmms.cam.ac.uk/~md384/research/structure-of-singularities/strong-cosmic-censorship.html
 
 Dennett, 1984, Elbow room: the varieties of free will worth wanting
 
