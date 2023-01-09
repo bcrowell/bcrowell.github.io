@@ -2,9 +2,8 @@ Why can't you go faster than the speed of light? -- An explanation without equat
 ===================================================
 
 It's easy to find explanations online of why you can't go faster than the speed of light. What's harder
-to find is an explanation that isn't over-simplified to the point of fallacy. I've done
-[a previous blog post](https://bcrowell.github.io/moving_through_spacetime_at_c/) debunking one
-family of these pseudo-explanations.
+to find is an explanation that isn't 
+[over-simplified to the point of fallacy](https://bcrowell.github.io/moving_through_spacetime_at_c/).
 
 ![The KATRIN spectrometer being transported.](katrin.jpg)
 
@@ -33,6 +32,7 @@ that way, without any input from observations or experiments, such as the one pi
 To avoid repeating myself in lots of different blog posts about relativity, I've made a 
 [separate post](../spacetime_diagrams) that gets us off the ground by explaining a few basic
 ideas: spacetime, spacetime diagrams, world-lines, the relativity of time, and proper time.
+If you don't already know about those things, you'll need to read that first.
 
 Measuring a spacetime vector
 ----------------------------
