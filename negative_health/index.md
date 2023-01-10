@@ -8,7 +8,7 @@ Medieval doctors cured cancer by [killing a puppy](https://time.com/4982099/quac
 Today, the US spends something like $90 billion per year on
 [useless treatments](https://www.theguardian.com/society/2017/feb/10/epidemic-of-untreatable-back-and-neck-pain-costs-billions-study-finds) for lower back pain.
 
-![skeletons dancing](dance_of_death.jpg)
+![people toasting at a party](party.jpg)
 
 It's good to know what *doesn't* work. In this blog post, I'll describe some examples of negative scientific results about health, diet, and exercise,
 and how you can make your life better by accepting them.
@@ -91,6 +91,6 @@ Schwellnus et al., 2008, "Cause of Exercise Associated Muscle Cramps (EAMC) — 
 Photo Credits
 -------------
 
-Dance of death - Michael Wolgemut, 1493, https://commons.wikimedia.org/wiki/File:Nuremberg_chronicles_-_Dance_of_Death_(CCLXIIIIv).jpg
-
 Tiger - Malene Thyssen, CC-BY, https://commons.wikimedia.org/wiki/File:Siberian_Tiger_by_Malene_Th.jpg
+
+Party - https://commons.wikimedia.org/wiki/File:Hip,_Hip,_Hurrah!_Artists%E2%80%99_Party,_Skagen_(Peder_Severin_Kr%C3%B8yer)_-_Gothenburg_Museum_of_Art_-_F_62.tif
