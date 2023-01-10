@@ -169,6 +169,8 @@ Clark, Winegard, and Baumeister, 2019, "Forget the Folk: Moral Responsibility Pr
 
 Dafermos, 2022, https://www.dpmms.cam.ac.uk/~md384/research/structure-of-singularities/strong-cosmic-censorship.html
 
+Del Santo, 2021, "Indeterminism, causality and information: Has physics ever been deterministic?," https://arxiv.org/abs/2003.07411
+
 Dennett, 1984, Elbow room: the varieties of free will worth wanting
 
 Earman, 1995, "Bangs, crunches, whimpers, and shrieks: singularities and acausalities in relativistic spacetimes"
@@ -185,4 +187,9 @@ Cain - Den Grooten Figuer-Bibel, https://commons.wikimedia.org/wiki/File:Ka%C3%A
 Eve, the serpent, and the atom - Biblia Pauperum, public domain. Modified by the author. https://commons.wikimedia.org/wiki/File:BibliaPauperum.jpg
 
 Washing hands - Lars Klintwall Malmqvist, PD, https://commons.wikimedia.org/wiki/File:OCD_handwash.jpg 
+
+Notes
+-----
+
+[^gisin]:  An even more forceful argument for the *irreducible* randomness of classical physics, at all times, is given by Gisin and el Santo (Del Santo 2021). Their ideas are fascinating, but speculative. All that is really necessary for my point about free will is the much weaker characterizations I've given, which I think are widely accepted by specialists: that classical mechanics is at least sometimes nondetermististic, and that the determinism or indeterminism of quantum mechanics is a matter of interpretation.
 
