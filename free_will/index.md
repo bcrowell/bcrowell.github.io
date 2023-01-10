@@ -132,7 +132,7 @@ would tend to *decrease* his moral responsibility.
 The second problem is that it is simply not true that classical physics
 is deterministic, while quantum physics is random.
 The notion that classical physics is deterministic doesn't stand up to more careful analysis.
-It's more of a folk-science belief among physicists (Norton 2003).
+It's more of a folk-science belief among physicists (Norton 2003).[^gisin]
 The very entertaining and readable book by Earman (1995) shows how thoroughly it breaks down in Einstein's
 theory of general relativity (which physicists consider classical). A recent breakthrough by Dafermos (2022) goes further,
 suggesting that there is a type of unpredictability going on inside black holes called a Cauchy horizon -- a possibility that
