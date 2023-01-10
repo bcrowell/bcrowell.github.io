@@ -22,3 +22,5 @@ blog posts
 [Euclid meets Dalí: the metric in Einstein's theory of relativity](metric) - 2023 Jan. 6
 
 [Physics didn't take away your free will, and quantum mechanics didn't give it back.](free_will) - 2023 Jan. 7
+
+[Embrace the negative: Live better by accepting negative scientific results about health, diet, and exercise](negative_health) - 2023 Jan. 10

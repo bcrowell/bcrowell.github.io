@@ -163,7 +163,7 @@ expensive, and they come in single-use plastic bottles, which are a huge environ
 People used to think that muscle cramps were caused by the loss of sodium from the body during
 intense endurance activity, which gave a reason for using these drinks to maintain one's electrolyte
 balance. However, studies show that's not true, and cramps really just occur because the nerves in
-the muscles have been repeatedly stimulated. 
+the muscles have been repeatedly stimulated (Schwellnus 2008).
 
 The same marketers have also pushed the idea that
 you need to "fuel" your exercise by constantly consuming sugary drinks or gels while you're doing the activity. Typically it takes
@@ -459,6 +459,8 @@ Rose 1991 - Rose, Haas, and Regli,
              Am J Public Health 81 (1991) 709,
              http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1405147/pdf/amjph00206-0039.pdf
 
+
+Schwellnus et al., 2008, "Cause of Exercise Associated Muscle Cramps (EAMC) — altered neuromuscular control, dehydration or electrolyte depletion?," https://sci-hub.se/http://dx.doi.org/10.1136/bjsm.2008.050401
 
 Scott 2004 - Scott et al, "The effect of drinking tea at high altitude on hydration status and mood," Eur. J. Appl. Physiol. 91(4):498.493
 
