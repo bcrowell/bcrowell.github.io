@@ -24,3 +24,5 @@ blog posts
 [Physics didn't take away your free will, and quantum mechanics didn't give it back.](free_will) - 2023 Jan. 7
 
 [Embrace the negative: Live better by accepting negative scientific results about health, diet, and exercise](negative_health) - 2023 Jan. 10
+
+[The who, when, and where of early Christianity: how little is known, and why it matters](when_early_christianity) - 2023 Jan. 14

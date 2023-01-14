@@ -10,6 +10,10 @@ time on our planet before suddenly and inexplicably leaving without a trace. The
 people who met them were not literate white males, so it wasn't until
 after the Civil War that anybody tried to write down a systematic account.
 
+![beheading of Justin Martyr](justin.jpg)
+
+*The beheading of Justin Martyr, who gave us our first snapshot of the evolution of the Christian gospels, more than a century after the crucifixion.*
+
 This is of course a fictional story, but it's a lot like the
 historical puzzle of early Christianity. Newspaper reporters are
 taught to nail down the who-what-where-when in the first paragraph. We
@@ -36,7 +40,7 @@ The whos
 Probably the easiest of the "W's" is the whos.
 
 The Gospel of Mark is likely the first written biographical material about Jesus, but
-and it begins not with a description of Jesus but of John the Baptist.
+it begins not with a description of Jesus but of John the Baptist.
 John was a great celebrity of his time and place. He merits a long passage in
 [Josephus](https://en.wikipedia.org/wiki/Josephus)
 -- much longer than the brief mention of Jesus.[^josephus_on_jesus] A pagan writer like Epictetus, writing as late as
@@ -44,6 +48,10 @@ ca. 130 CE, demonstrates a clear consciousness of a baptism-based sect such as J
 but no consciousness of Jesus or his sub-sect. During the first century CE, it's probably
 most accurate to talk about something like a John-Jesus sect of Jews rather than any
 exclusivist or distinctly recognized religion based on Jesus.
+
+![John the Baptist in the wilderness](john-in-the-wilderness.jpg)
+
+*John the Baptist was a bigger deal than Jesus.*
 
 If anything, it was John who was more of a big deal to their contemporaries. Josephus, writing around 90 CE, says:
 
@@ -73,6 +81,10 @@ of the twelve if such a group was historical. When Paul does discuss which leade
 Jesus).[^acts_on_twelve]
 
 The four canonical gospels are all anonymous works.[^gospels_authorship]
+
+![Leon Trotsky](trotsky.jpg)
+
+*Like Trotsky, Paul had to be rehabilitated.*
 
 Paul was the first of the prominent leaders of the Jesus movement to
 be literate (Jesus probably wasn't[^jesus_literacy]), so we have a
@@ -129,14 +141,25 @@ is some older or more conservative authority who confidently asserts some very n
 the range to be narrow so that they can make it *early* and narrow, all with the goal of
 giving their religion the most direct possible connection to the poorly recorded man named Jesus of Nazareth.
 
-There is actually no reason to believe that a text like Mark or Luke even has a single well-defined date and
-place where it was composed. The evidence points the opposite way. For example, the 
+There is actually no reason to believe that a text like Mark was even composed
+on  a single well-defined date or in one place.
+The evidence points the opposite way. For example, the 
 final chapter of Mark is witnessed in [several different forms](https://en.wikipedia.org/wiki/Mark_16).
-The original version ended in ambiguous and confusing incident, in which three of Jesus's female followers
+The original version ends in an ambiguous and confusing incident, in which three of Jesus's female followers
 enter his tomb, encounter a mysterious man in white who tells them Jesus is risen, but then never
 tell anyone else. That version didn't work well, probably both because Jesus himself failed to appear and
 because the witnesses were female. (Women weren't considered valid witnesses in general.) Therefore two
 other versions were written, of which one finally became canonical.
+
+![The women at the tomb, and the mysterious man in white](women_at_the_tomb.jpg)
+
+*The women at the tomb, and the mysterious man in white*
+
+We also know that as late as 155-157, Justin Martyr was working from documents he calls the "memoirs of
+the apostles." These seem to overlap a lot with what we would now call the canonical gospels, but he also
+seems to have a lot of information that didn't make it into the canon, such as a story that Jesus was
+born in a cave. This tells us that not only were the gospels being edited for centuries before their
+wording became set, but that fairly significant aspects of them remained fluid for a long time.
 
 From the point of view of someone who doesn't believe in the supernatural, there is further evidence.
 We have supernatural stories such as [Herod's massacre of the innocents](https://en.wikipedia.org/wiki/Massacre_of_the_Innocents)
@@ -146,12 +169,17 @@ were supposed to be forbidden. He brought with him a prostitute and a torah scro
 floor and had sex with the prostitute on top of it. Then he cut the veil with his sword, and a torrent of blood poured out, which
 he thought was a sign that he had killed the God of the Jews.
 
-Now although some miracles happen in private, this type of miracle is very public. If you accept the supernatural hypothesis
+Now miracles can be public public, private, or anything in between, and the public ones help with dating.
+Something like Herod's massacre can't be hidden from the public. If you accept the supernatural hypothesis
 that it actually happened, then it would have been famous. People in the area would have known about it, and would have
 told their kids and grandkids. If you *don't* believe in the supernatural, then it works the other way around. People
 in the area would have known that it *didn't* happen. If you asked them, they wouldn't be uncertain, any more than I
 would be uncertain about whether Al Qaeda followed up 9/11 by destroying the Golden Gate Bridge. So any writings that
 describe such a public miracle must have circulated only in a time and/or place very distant from the original, claimed event.
+
+![Roman triumph](triumph.jpg)
+
+*The rending of the temple veil was made famous by the Flavian triumph.*
 
 In the Christian version of the veil myth ([Mark 15:38](https://ebible.org/web/MRK15.htm)), the veil is rent from top to bottom
 at the moment when Jesus gives up the ghost. (The other gospels add additional public miracles in the form of an earthquake
@@ -161,7 +189,7 @@ That means that at least this particular story in Mark must date to generations 
 Otherwise it would never have been acceptable to its audience, especially in Syria-Palestine. Since other portions of Mark
 have to date to as early as ca. 80 CE,[^early_mark] Mark has to have been composed over an extended period of time.
 
-Because the range of error for the timing of the gospels is so great compared to what was claimed in older
+Because the timing of the gospels is so much more fuzzy compared to what was claimed in older
 reverential treatments, there is room for much greater uncertainty in how they came to be written.
 A very interesting hypothesis along these lines is presented by Tyson in his book
 [Marcion and Luke-Acts: A Defining Struggle](https://www.bookfinder.com/search/?author=Tyson%2C+Joseph+B.&title=Marcion+and+Luke-Acts%3A+A+Defining+Struggle&lang=en&st=xl&ac=qr). According to this theory, which builds on previous work by Knox,
@@ -174,6 +202,10 @@ Trotsky. According to Tyson, it was *after* Marcion that somebody else bolted on
 birth and resurrection accounts and created what we now call the canonical gospel of
 Luke.
 
+![St Luke's ox](luke_ox.jpg)
+
+*The gospel of Luke is traditionally said to have been written by a person named Luke, whose icon is an ox.*
+
 The Knox-Tyson idea would have seemed inconceivable to workers who were laboring under the
 misconception of false precision when it came to dating, because according to the standard
 (falsely precise) chronology, Marcion was supposed to come *after* Luke. I don't know if I'm
@@ -183,7 +215,7 @@ footing with other accounts.
 
 Thanks for reading!
 
-[Ben Crowell](http://lightandmatter.com/area4author.html), 2023 Jan. 5
+[Ben Crowell](http://lightandmatter.com/area4author.html), 2023 Jan. 14
 
 [other blog posts](https://bcrowell.github.io/)
 
@@ -207,3 +239,18 @@ Notes
 [^veil_famous]: There is a variety of evidence that the temple veil was well known throughout the Roman empire, much like the Liberty Bell in North America today. After the Roman-Jewish war ended, such artifacts were brought to Rome and displayed by Flavius in a triumphal procession, including parade floats with simulated fires, and real prisoners being slaughtered in theatrical reenactments of battles. The clearest evidence we have that the veil itself was well known is that we can track how it was referred to over the years in writings intended for a variety of audiences. In Mark, which is carefully written to be understandable to gentile Romans among its audience, there is no explanation of what it is, even though other Jewish customs and concepts are explained in detail -- even very basic ones. Over the years, we see evidence that western audiences begin to forget what it is, so that writings such as the western witnesses of the Diatessaron need to explain it. Thus we can track very accurately how much ordinary people in the Roman empire knew about the veil and when they knew it.
 
 [^early_mark]: There is a variety of evidence to this effect, but the most telling is that Mark 8:38-9:1 prepares Jesus's followers for the coming of the Son of Man "in the glory of his father surrounded by the holy messengers/angels," during the lifetimes of his listeners. If that particular section of the text had not become ossified fairly early on, then it would certainly have been frames in a different way so that it would not sound so much like a failed prophecy.
+
+Photo credits
+-------------
+
+Justin Martyr - https://commons.wikimedia.org/wiki/File:Mosaic_of_St._Justin_Martyr,_Mount_of_the_Beatitudes.jpg
+
+John the Baptist in the wilderness - Bosch
+
+Trotsky - https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B5%D0%B2_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_%D0%A2%D1%80%D0%BE%D1%86%D0%BA%D0%B8%D0%B9.jpg
+
+The women at the tomb, and the mysterious man in white - Tissot, https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brooklyn_Museum_-_Mary_Magdalene_and_the_Holy_Women_at_the_Tomb_%28Madeleine_et_les_saintes_femmes_au_tombeau%29_-_James_Tissot.jpg/488px-Brooklyn_Museum_-_Mary_Magdalene_and_the_Holy_Women_at_the_Tomb_%28Madeleine_et_les_saintes_femmes_au_tombeau%29_-_James_Tissot.jpg
+
+Roman triumph - Vernet, 1789, https://commons.wikimedia.org/wiki/File:The_Triumph_of_Aemilius_Paulus_(detail).jpg
+
+St Luke's ox - Donatello, https://it.wikipedia.org/wiki/File:Donatello,_simbolo_di_san_luca.jpg
