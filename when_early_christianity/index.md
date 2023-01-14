@@ -25,7 +25,7 @@ The history matters if you care about how western civilization, for better or
 for worse, had its collective brain molded. Were Christians persecuted, or
 is that a myth? How much of Christianity is really the invention of the Apostle
 Paul ("[Paulianity](https://en.wikipedia.org/wiki/Pauline_Christianity)"), and how much is due to people you've probably never heard
-of, like [Marcion of Sinope](https://en.wikipedia.org/wiki/Marcion_of_Sinope)?
+of, like Marcion of Sinope?
 Can Paul's homophobia be surgically removed from the religion?
 The Gospel of Mark presents Jesus's life with almost no mention of any
 novel ethical teachings.[^novel_ethics] Did those ideas only later come to be associated with him?
@@ -86,7 +86,102 @@ in Mexico City using an ice ax, but not knowing whether the killer was
 FDR or Greta Garbo. All we get is an ultra-fragmented, distanced view
 of some kind of inside-baseball sectarian conflict.
 
+Where
+-----
 
+The wheres are a lot sketchier. We know all about the geography of Paulinism, because Paul's writings tell us all about that. Everything
+else is more of a haze. The canonical gospels were all written in Greek. Mark, the earliest, is especially important. Where was it written, and for what audience?
+
+Many Christian authors have wanted to believe [Papias of Hierapolis](https://en.wikipedia.org/wiki/Papias_of_Hierapolis#Gospel_origins)'s
+account, that Mark was actually written by someone named Mark, who was Peter's interpreter. This would place its composition in Rome.
+For anyone who doesn't believe in supernaturalism, this is all impossible, since Mark would then date to before the destruction of
+the [Second Temple](https://en.wikipedia.org/wiki/Second_Temple), but the author clearly knows that the temple has been destroyed.
+The desire is clearly to connect the gospels to the life of the historical Jesus by the shortest possible chain of personal links.
+Other authors think rural Syria is a more likely place of origin.[^mark_syria]
+
+More likely Mark is a composite document that grew over a long period of time and in a variety of places.
+At least some of the audience was Italian, since it has lots of Latinisms and explains things by reference to Roman society.
+Some were gentile, since it explains basic things like kosher rules and the Aramaic word "abba" (father).
+
+But at the some time, there are clearly some features that are aimed at Jews. The rending of the temple's veil
+(15:38) comes at a climactic moment, but a gentile audience would be unlikely to get the intended emotional impact
+of this miracle, even if the veil was famous. There is none of the antisemitism of Luke and John. Aramaic words
+are often preserved, which seems like an unlikely thing for a Greek-speaking author to bother doing when
+writing for a Greek-speaking, gentile audience. But at the same time, these Aramaisms are translated so that
+that portion of the audience will understand them.
+
+When
+----
+
+The whens are the toughest of all -- not that you would know it from many presentations. For example,
+Wikipedia currently [claims](https://en.wikipedia.org/wiki/Dating_the_Bible#Table_IV:_New_Testament) to be able
+to place Mark at 65-73 CE, which is an absurd confidence interval when we're dealing with a piece of writing for which there are
+[no copies earlier than the third century](https://en.wikipedia.org/wiki/Papyrus_45). There is a cult
+of [false precision](https://en.wikipedia.org/wiki/False_precision), as in the following classic Star Trek dialog:
+
+> Kirk: What would you say the odds are on our getting out of here?
+
+> Spock: Difficult to be precise, Captain. I should say approximately 7,824.7 to 1.
+
+When it comes to the gospels, this tendency towards false precision goes back to the same credulity and pietism that
+led people to uncritically accept Papias. For every modern expert who gives a reasonable range of error, there
+is some older or more conservative authority who confidently asserts some very narrow range of dates. They want
+the range to be narrow so that they can make it *early* and narrow, all with the goal of
+giving their religion the most direct possible connection to the poorly recorded man named Jesus of Nazareth.
+
+There is actually no reason to believe that a text like Mark or Luke even has a single well-defined date and
+place where it was composed. The evidence points the opposite way. For example, the 
+final chapter of Mark is witnessed in [several different forms](https://en.wikipedia.org/wiki/Mark_16).
+The original version ended in ambiguous and confusing incident, in which three of Jesus's female followers
+enter his tomb, encounter a mysterious man in white who tells them Jesus is risen, but then never
+tell anyone else. That version didn't work well, probably both because Jesus himself failed to appear and
+because the witnesses were female. (Women weren't considered valid witnesses in general.) Therefore two
+other versions were written, of which one finally became canonical.
+
+From the point of view of someone who doesn't believe in the supernatural, there is further evidence.
+We have supernatural stories such as [Herod's massacre of the innocents](https://en.wikipedia.org/wiki/Massacre_of_the_Innocents)
+or the ones about the temple veil. As a typical example, the [mishnah](https://en.wikipedia.org/wiki/Mishnah) (Gittin 56)
+says that after the fall of the Temple in 70, the Roman general Titus entered the temple's holy of holies, where gentiles
+were supposed to be forbidden. He brought with him a prostitute and a torah scroll. He laid the scroll down on the
+floor and had sex with the prostitute on top of it. Then he cut the veil with his sword, and a torrent of blood poured out, which
+he thought was a sign that he had killed the God of the Jews.
+
+Now although some miracles happen in private, this type of miracle is very public. If you accept the supernatural hypothesis
+that it actually happened, then it would have been famous. People in the area would have known about it, and would have
+told their kids and grandkids. If you *don't* believe in the supernatural, then it works the other way around. People
+in the area would have known that it *didn't* happen. If you asked them, they wouldn't be uncertain, any more than I
+would be uncertain about whether Al Qaeda followed up 9/11 by destroying the Golden Gate Bridge. So any writings that
+describe such a public miracle must have circulated only in a time and/or place very distant from the original, claimed event.
+
+In the Christian version of the veil myth ([Mark 15:38](https://ebible.org/web/MRK15.htm)), the veil is rent from top to bottom
+at the moment when Jesus gives up the ghost. (The other gospels add additional public miracles in the form of an earthquake
+and the opening of the tombs.) The veil was in fact a very famous object of its time, so that there could
+not have been any doubt initially (even among gentiles and as far away as Rome) that nothing like this miracle had taken place.[^veil_famous]
+That means that at least this particular story in Mark must date to generations later than the Roman-Jewish war, probably 120 CE or later.
+Otherwise it would never have been acceptable to its audience, especially in Syria-Palestine. Since other portions of Mark
+have to date to as early as ca. 80 CE,[^early_mark] Mark has to have been composed over an extended period of time.
+
+Because the range of error for the timing of the gospels is so great compared to what was claimed in older
+reverential treatments, there is room for much greater uncertainty in how they came to be written.
+A very interesting hypothesis along these lines is presented by Tyson in his book
+[Marcion and Luke-Acts: A Defining Struggle](https://www.bookfinder.com/search/?author=Tyson%2C+Joseph+B.&title=Marcion+and+Luke-Acts%3A+A+Defining+Struggle&lang=en&st=xl&ac=qr). According to this theory, which builds on previous work by Knox,
+there was a local Gospel used in [Pontus](https://en.wikipedia.org/wiki/Pontus_(region))
+which was the source for two different versions of the Gospel of Luke. One of these became
+the one used by [Marcion of Sinope](https://en.wikipedia.org/wiki/Marcion_of_Sinope),
+the most important early Christian who you've never heard of. Marcion was later denounced as
+a heretic, which is why you don't hear about him any more often than you hear about
+Trotsky. According to Tyson, it was *after* Marcion that somebody else bolted on the
+birth and resurrection accounts and created what we now call the canonical gospel of
+Luke.
+
+The Knox-Tyson idea would have seemed inconceivable to workers who were laboring under the
+misconception of false precision when it came to dating, because according to the standard
+(falsely precise) chronology, Marcion was supposed to come *after* Luke. I don't know if I'm
+completely convinced by Tyson's picture, but because of the vast uncertainty in the dates,
+it's plausible and worth treating on an equal
+footing with other accounts.
+
+Thanks for reading!
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2023 Jan. 5
 
@@ -106,3 +201,9 @@ Notes
 [^gospels_authorship]: Re Luke and John, see the Wikipedia articles [Authorship of Luke–Acts](https://en.wikipedia.org/wiki/Authorship_of_Luke%E2%80%93Acts) and [Authorship of the Johannine works](https://en.wikipedia.org/wiki/Authorship_of_the_Johannine_works).
 
 [^jesus_literacy]: Many experts believe that Jesus was unable to read.  Any opportunities to learn to read or write would have been extremely scarce, hence the disbelief expressed in Mark 6:2. The gospels say that Jesus did not have any formal opportunity to learn to read (John 7:15), and if this is true, then he could only have taught himself or learned informally from someone. (There were probably no institutions similar to our modern schools, and it's unclear whether Nazareth had a synagogue; if there was one, it probably didn't have a copy of the torah or other Hebrew scriptures.) From a straight reading of the gospels, we would get the impression that the adult Jesus had a deep knowledge of the scripture and was able to debate its fine points skillfully. But actually the passages in the gospels where he quotes scripture often show signs of being later layers added by Christian writers.
+
+[^mark_syria]: For a summary, see Rohrbaugh, 1993, "The Social Location of the Marcan Audience," https://sci-hub.se/https://doi.org/10.1177/014610799302300304
+
+[^veil_famous]: There is a variety of evidence that the temple veil was well known throughout the Roman empire, much like the Liberty Bell in North America today. After the Roman-Jewish war ended, such artifacts were brought to Rome and displayed by Flavius in a triumphal procession, including parade floats with simulated fires, and real prisoners being slaughtered in theatrical reenactments of battles. The clearest evidence we have that the veil itself was well known is that we can track how it was referred to over the years in writings intended for a variety of audiences. In Mark, which is carefully written to be understandable to gentile Romans among its audience, there is no explanation of what it is, even though other Jewish customs and concepts are explained in detail -- even very basic ones. Over the years, we see evidence that western audiences begin to forget what it is, so that writings such as the western witnesses of the Diatessaron need to explain it. Thus we can track very accurately how much ordinary people in the Roman empire knew about the veil and when they knew it.
+
+[^early_mark]: There is a variety of evidence to this effect, but the most telling is that Mark 8:38-9:1 prepares Jesus's followers for the coming of the Son of Man "in the glory of his father surrounded by the holy messengers/angels," during the lifetimes of his listeners. If that particular section of the text had not become ossified fairly early on, then it would certainly have been frames in a different way so that it would not sound so much like a failed prophecy.
