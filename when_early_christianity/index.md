@@ -12,7 +12,7 @@ after the Civil War that anybody tried to write down a systematic account.
 
 ![beheading of Justin Martyr](justin.jpg)
 
-*The beheading of Justin Martyr, who gave us our first snapshot of the evolution of the Christian gospels, more than a century after the crucifixion.*
+*The beheading of Justin Martyr, who gave us our first dated snapshot of the evolution of the Christian gospels, more than a century after the crucifixion.*
 
 This is of course a fictional story, but it's a lot like the
 historical puzzle of early Christianity. Newspaper reporters are
@@ -43,7 +43,7 @@ The Gospel of Mark is likely the first written biographical material about Jesus
 it begins not with a description of Jesus but of John the Baptist.
 John was a great celebrity of his time and place. He merits a long passage in
 [Josephus](https://en.wikipedia.org/wiki/Josephus)
--- much longer than the brief mention of Jesus.[^josephus_on_jesus] A pagan writer like Epictetus, writing as late as
+-- much longer than the brief mention of Jesus.[^josephus_on_jesus] A pagan author like Epictetus, writing as late as
 ca. 130 CE, demonstrates a clear consciousness of a baptism-based sect such as John's,
 but no consciousness of Jesus or his sub-sect. During the first century CE, it's probably
 most accurate to talk about something like a John-Jesus sect of Jews rather than any
@@ -101,7 +101,7 @@ of some kind of inside-baseball sectarian conflict.
 Where
 -----
 
-The wheres are a lot sketchier. We know all about the geography of Paulinism, because Paul's writings tell us all about that. Everything
+The wheres are a lot sketchier. We know all about the geography of Paulinism, because Paul's writings tell us about that. Everything
 else is more of a haze. The canonical gospels were all written in Greek. Mark, the earliest, is especially important. Where was it written, and for what audience?
 
 Many Christian authors have wanted to believe [Papias of Hierapolis](https://en.wikipedia.org/wiki/Papias_of_Hierapolis#Gospel_origins)'s
