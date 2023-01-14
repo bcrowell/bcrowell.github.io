@@ -139,7 +139,7 @@ type of causal diagram, it's immediately obvious that there is no
 see-forever going on. The other, crazy stuff, we fervently hoped, was
 only an artifact of the unphysical features of the Kerr spacetime,
 which after all was never thought to be correct in detail as a model
-of an astrophysical black hole. A fairly popular idea was the the diverging blueshifts
+of an astrophysical black hole. A fairly popular idea was that the diverging blueshifts
 were actually signs of a kind of blueshift instability, and that this instability would
 cause the inner horizon never to form in the first place for collapse from general initial conditions.
 But that just doesn't seem to be
