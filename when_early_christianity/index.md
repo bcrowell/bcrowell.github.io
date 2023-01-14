@@ -221,6 +221,21 @@ Thanks for reading!
 
 This post is CC-BY-ND licensed.
 
+Photo credits
+-------------
+
+Justin Martyr - https://commons.wikimedia.org/wiki/File:Mosaic_of_St._Justin_Martyr,_Mount_of_the_Beatitudes.jpg
+
+John the Baptist in the wilderness - Bosch
+
+Trotsky - https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B5%D0%B2_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_%D0%A2%D1%80%D0%BE%D1%86%D0%BA%D0%B8%D0%B9.jpg
+
+The women at the tomb, and the mysterious man in white - Tissot, https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brooklyn_Museum_-_Mary_Magdalene_and_the_Holy_Women_at_the_Tomb_%28Madeleine_et_les_saintes_femmes_au_tombeau%29_-_James_Tissot.jpg/488px-Brooklyn_Museum_-_Mary_Magdalene_and_the_Holy_Women_at_the_Tomb_%28Madeleine_et_les_saintes_femmes_au_tombeau%29_-_James_Tissot.jpg
+
+Roman triumph - Vernet, 1789, https://commons.wikimedia.org/wiki/File:The_Triumph_of_Aemilius_Paulus_(detail).jpg
+
+St Luke's ox - Donatello, https://it.wikipedia.org/wiki/File:Donatello,_simbolo_di_san_luca.jpg
+
 Notes
 -----
 
@@ -240,17 +255,3 @@ Notes
 
 [^early_mark]: There is a variety of evidence to this effect, but the most telling is that Mark 8:38-9:1 prepares Jesus's followers for the coming of the Son of Man "in the glory of his father surrounded by the holy messengers/angels," during the lifetimes of his listeners. If that particular section of the text had not become ossified fairly early on, then it would certainly have been framed in a different way so that it would not sound so much like a failed prophecy.
 
-Photo credits
--------------
-
-Justin Martyr - https://commons.wikimedia.org/wiki/File:Mosaic_of_St._Justin_Martyr,_Mount_of_the_Beatitudes.jpg
-
-John the Baptist in the wilderness - Bosch
-
-Trotsky - https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B5%D0%B2_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_%D0%A2%D1%80%D0%BE%D1%86%D0%BA%D0%B8%D0%B9.jpg
-
-The women at the tomb, and the mysterious man in white - Tissot, https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brooklyn_Museum_-_Mary_Magdalene_and_the_Holy_Women_at_the_Tomb_%28Madeleine_et_les_saintes_femmes_au_tombeau%29_-_James_Tissot.jpg/488px-Brooklyn_Museum_-_Mary_Magdalene_and_the_Holy_Women_at_the_Tomb_%28Madeleine_et_les_saintes_femmes_au_tombeau%29_-_James_Tissot.jpg
-
-Roman triumph - Vernet, 1789, https://commons.wikimedia.org/wiki/File:The_Triumph_of_Aemilius_Paulus_(detail).jpg
-
-St Luke's ox - Donatello, https://it.wikipedia.org/wiki/File:Donatello,_simbolo_di_san_luca.jpg
