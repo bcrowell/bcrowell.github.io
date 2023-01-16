@@ -3,6 +3,7 @@ Psychopathic AI: a call to arms
 
 Our society has reached a tipping point with artificial intelligence. 
 The harm is skyrocketing, and the claimed benefits are mostly snake oil.
+In this blog post, I describe the real-world harm being caused by four different AI systems, all in the pursuit of profit and working in shady areas of the law.
 
 ![scene of a car crash](tesla_crash.jpg)
 
@@ -64,12 +65,16 @@ There is also a vast amount of artwork that is done in the artist's own carefull
 be reproduced cheaply in vast quantities. Artist Hollie Mengert [says](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data),
 "For me, personally, it feels like someone’s taking work that I’ve done, you know, things that I’ve learned — I’ve been a working artist since I graduated art school in 2011 — and is using it to create art that that I didn’t consent to and didn’t give permission for."
 
-And now Microsoft is jumping in with [software](https://arstechnica.com/information-technology/2023/01/microsofts-new-ai-can-simulate-anyones-voice-with-3-seconds-of-audio/
+And now Microsoft is jumping in with [software called VALL-E](https://arstechnica.com/information-technology/2023/01/microsofts-new-ai-can-simulate-anyones-voice-with-3-seconds-of-audio/
 ) that is supposed to be able to imitate anyone's voice based
 on a three-second sample. There are obvious applications. A Chinese political dissident gets a call from her mother, but it's
 actually the police. A woman who has escaped an abusive relationship gets a voice mail that she thinks is from an old
 friend. [Deepfake pornography](https://en.wikipedia.org/wiki/Deepfake_pornography) can now use not just Gal Gadot's face
-but also her voice.
+but also her voice. (The video portion of these deepfakes is now apparently really easy to do on a normal PC.)
+And as with DALL-E, there is a misuse of people's personal data as the "seed" for the algorithm.
+The fakes are based on approximate matches to
+voices in the database used by Microsoft, which is mostly people who recorded auiobooks. You thought you were helping
+blind people access Alice Walker, but actually you helped a stalker track down his ex. Thanks, Microsoft!
 
 I don't know about you, but this seems like a loathsome take on what the future should be.
 I'm not normally a big fan of government regulation, but it's necessary here.
