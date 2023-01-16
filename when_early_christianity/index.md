@@ -169,7 +169,7 @@ were supposed to be forbidden. He brought with him a prostitute and a torah scro
 floor and had sex with the prostitute on top of it. Then he cut the veil with his sword, and a torrent of blood poured out, which
 he thought was a sign that he had killed the God of the Jews.
 
-Now miracles can be public public, private, or anything in between, and the public ones help with dating.
+Now miracles can be public, private, or anything in between, and the public ones help with dating.
 Something like Herod's massacre can't be hidden from the public. If you accept the supernatural hypothesis
 that it actually happened, then it would have been famous. People in the area would have known about it, and would have
 told their kids and grandkids. If you *don't* believe in the supernatural, then it works the other way around. People
