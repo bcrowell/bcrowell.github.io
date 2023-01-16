@@ -26,3 +26,5 @@ blog posts
 [Embrace the negative: Live better by accepting negative scientific results about health, diet, and exercise](negative_health) - 2023 Jan. 10
 
 [The who, when, and where of early Christianity: how little is known, and why it matters](when_early_christianity) - 2023 Jan. 14
+
+[Psychopathic AI: a call to arms](psychopathic_ai) - 2023 Jan. 16

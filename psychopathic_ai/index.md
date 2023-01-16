@@ -3,7 +3,6 @@ Psychopathic AI: a call to arms
 
 Our society has reached a tipping point with artificial intelligence. 
 The harm is skyrocketing, and the claimed benefits are mostly snake oil.
-I'm not normally a big fan of government regulation, but it's necessary here.
 
 ![scene of a car crash](tesla_crash.jpg)
 
@@ -15,10 +14,11 @@ marketed a $15,000 feature that falsely claims to add "full self-driving" to a T
 In a [2019 crash](https://www.latimes.com/california/story/2022-01-19/a-tesla-on-autopilot-killed-two-people-in-gardena-is-the-driver-guilty-of-manslaughter), a Tesla on autopilot barreled down a freeway off-ramp, ran a red light, and killed two people in a Honda.
 The car's owner is being tried for manslaughter, but the real criminal is Musk, who has
 told drivers that they can take their hands off the wheel and stop paying attention.
+
 In 2021, Tesla [stopped releasing data from accidents](https://cleantechnica.com/2022/12/29/california-bans-deceptive-self-driving-claims/)
 caused by their system, which is a beta test being conducted on human guinea pigs.
 There are other systems using better sensors that are [much more reliable](https://www.theverge.com/2019/4/24/18512580/elon-musk-tesla-driverless-cars-lidar-simulation-waymo), 
-but Musk doesn't want to use them, because they take [about $500](https://futurism.com/the-byte/500-lidar-system-prove-elon-musk-wrong)
+but Musk doesn't want to use them, because they'd take [about $500](https://futurism.com/the-byte/500-lidar-system-prove-elon-musk-wrong)
 off of his bottom line. It's a race to the bottom, and Tesla plans to win.
 
 Musk is also one of the founders of [OpenAI](https://en.wikipedia.org/wiki/OpenAI), which makes
@@ -28,7 +28,7 @@ OpenAI encourages naive people to believe that these systems are both smarter an
 reliable than they are. Both of these systems also have the potential for serious social harm.
 
 Many people using ChatGPT don't realize that it basically produces fluent nonsense. 
-But as with the Tesla autopilot system, users are fooled by the system's behavior to think it works better than it does.
+But as with the Tesla autopilot system, users are fooled by the system's behavior into thinking that it works better than it does.
 At least the autopilot is *usually* accurate. ChatGPT simply doesn't care.
 A librarian
 [writes](https://blacktwitter.io/@bibliotecaria/109650353375080864):
@@ -56,7 +56,25 @@ forced into a [battle](https://meta.stackoverflow.com/questions/421831/temporary
 Even worse is the capacity for what's known as [coordinated inauthentic behavior](https://www.nytimes.com/2023/01/15/opinion/ai-chatgpt-lobbying-democracy.html). Imagine a congressional representative on the receiving end of a letter-writing
 campaign in which all the letters actually came from an AI.
     
+The visual art systems have a whole different set of issues. Their inputs are copyrighted photos and art that have been webscraped.
+[Says technology journalist Andy Baio](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data),
+"The academic researchers took the data, laundered it, and it was used by commercial companies."
+There are millions and millions of selfies in there, which can now be used for any purpose.
+There is also a vast amount of artwork that is done in the artist's own carefully cultivated style, which can now
+be reproduced cheaply in vast quantities. Artist Hollie Mengert [says](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data),
+"For me, personally, it feels like someone’s taking work that I’ve done, you know, things that I’ve learned — I’ve been a working artist since I graduated art school in 2011 — and is using it to create art that that I didn’t consent to and didn’t give permission for."
 
+And now Microsoft is jumping in with [software](https://arstechnica.com/information-technology/2023/01/microsofts-new-ai-can-simulate-anyones-voice-with-3-seconds-of-audio/
+) that is supposed to be able to imitate anyone's voice based
+on a three-second sample. There are obvious applications. A Chinese political dissident gets a call from her mother, but it's
+actually the police. A woman who has escaped an abusive relationship gets a voice mail that she thinks is from an old
+friend. [Deepfake pornography](https://en.wikipedia.org/wiki/Deepfake_pornography) can now use not just Gal Gadot's face
+but also her voice.
+
+I don't know about you, but this seems like a loathsome take on what the future should be.
+I'm not normally a big fan of government regulation, but it's necessary here.
+California has taken a step in the right direction with [SB 1398](https://cleantechnica.com/2022/12/29/california-bans-deceptive-self-driving-claims/),
+which makes it more practical to go after Tesla for its misleading advertising.
 
 [Ben Crowell](http://lightandmatter.com/area4author.html), 2023 Jan. 16
 
