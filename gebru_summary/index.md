@@ -3,6 +3,8 @@ A summary of six articles by and about AI ethicist Timnit Gebru
 
 ![portrait of Gebru](gebru_portrait.jpg)
 
+*Photo credit: TechCrunch, CC-BY, https://commons.wikimedia.org/wiki/File:Timnit_Gebru_crop.jpg*
+
 This blog post briefly summarizes the following six articles, which were listed
 in the web page for [an interview](https://open.spotify.com/episode/0Zyexhty6AEbINudjfnuRB?si=zZ3amJ6gQxK_6FCTq7nL9g&context=spotify%3Ashow%3A6NOJ6IkTb2GWMj1RpmtnxP) with AI ethicist [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru), founder
 of the [Distributed Artificial Intelligence Research Institute](https://www.dair-institute.org/).
