@@ -28,3 +28,6 @@ blog posts
 [The who, when, and where of early Christianity: how little is known, and why it matters](when_early_christianity) - 2023 Jan. 14
 
 [Psychopathic AI: a call to arms](psychopathic_ai) - 2023 Jan. 16
+
+[A summary of six articles by and about AI ethicist Timnit Gebru](gebru_summary) - 2023 Jan. 21
+
