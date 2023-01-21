@@ -35,7 +35,16 @@ Supporters of this ideology include Elon Musk, Sam Bankman-Fried, and
 Peter Thiel. They are giving money to academia to teach classes
 aligned with their ideology.
 
-These are a lot of the same people who have been creating large
+(The Wired article didn't really explain what EA actually is. There
+is a [Wikipedia article](https://en.wikipedia.org/wiki/Effective_altruism).
+It mainly seems to be a philosophy of how to allocate money to charity and
+social programs. Most of the criticism seems to have been catalyzed by
+the fact that fraudster Sam Bankman-Fried was a big proponent. The WP
+article didn't highlight Musk or Thiel, but there does seem to be a
+link here to Musk's self-serving and [false](../psychopathic_ai) claims that Tesla's "full self-driving"
+feature saves lives.)
+
+Returning to the summary of the Gebru piece, she says that these are a lot of the same people who have been creating large
 language models (LLMs), in what Gebru and Mitchell describe as a "race
 to the bottom." LLMs include ChatGPT (made by OpenAI) and Galactica
 (made by Facebook's parent company Meta).  Three days after the
