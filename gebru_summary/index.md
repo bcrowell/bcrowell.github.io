@@ -10,23 +10,23 @@ in the web page for [an interview](https://open.spotify.com/episode/0Zyexhty6AEb
 of the [Distributed Artificial Intelligence Research Institute](https://www.dair-institute.org/).
 Gebru is on Mastodon: https://toot.community/@timnitGebru@dair-community.social
 
-* Gebru, Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’, https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/
+* Gebru, Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’, <https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/>
 
-* Williams et al., The Exploited Labor Behind Artificial Intelligence, https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/
+* Williams et al., The Exploited Labor Behind Artificial Intelligence, <https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/>
 
-* Gebru et al., Datasheets for Datasets, https://arxiv.org/abs/1803.09010
+* Gebru et al., Datasheets for Datasets, <https://arxiv.org/abs/1803.09010>
 
-* Toon, In Emergencies, Should You Trust a Robot?, https://news.gatech.edu/news/2016/02/29/emergencies-should-you-trust-robot
+* Toon, In Emergencies, Should You Trust a Robot?, <https://news.gatech.edu/news/2016/02/29/emergencies-should-you-trust-robot>
 
-* Hao, We read the paper that forced Timnit Gebru out of Google. Here’s what it says., https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/
+* Hao, We read the paper that forced Timnit Gebru out of Google. Here’s what it says., <https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/>
 
-* Bender et al., On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?, https://dl.acm.org/doi/10.1145/3442188.3445922
+* Bender et al., On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?, <https://dl.acm.org/doi/10.1145/3442188.3445922>
 
-Another podcast of interest: https://techwontsave.us/episode/151_dont_fall_for_the_ai_hype_w_timnit_gebru.html
+Another podcast of interest: <https://techwontsave.us/episode/151_dont_fall_for_the_ai_hype_w_timnit_gebru.html>
 
 # Gebru, Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’
 
-https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/
+<https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/>
 
 People pushing effective altruism (EA) portray general AI as
 inevitable, so that we should just try to "make it beneficial to
@@ -53,7 +53,7 @@ attribution."
 
 # Williams et al., The Exploited Labor Behind Artificial Intelligence
 
-https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/
+<https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/>
 
 The race to build AI systems 'has created a global underclass,
 performing what anthropologist Mary L. Gray and computational social
@@ -86,7 +86,7 @@ places like Kenya, are trying to unionize, but have faced retribution.
 
 # Gebru et al., Datasheets for Datasets
 
-https://arxiv.org/abs/1803.09010
+<https://arxiv.org/abs/1803.09010>
 
 Abstract: "The machine learning community currently has no
 standardized process for documenting datasets, which can lead to
@@ -104,7 +104,7 @@ accountability."
 
 # Toon, In Emergencies, Should You Trust a Robot?
 
-https://news.gatech.edu/news/2016/02/29/emergencies-should-you-trust-robot
+<https://news.gatech.edu/news/2016/02/29/emergencies-should-you-trust-robot>
 
 This is a 2016 piece put out by the Georgia Tech PR office, so keep in
 mind that it's somewhat out of date and also that these university PR
@@ -125,15 +125,15 @@ article) seems like another obvious example.
 
 # Bender et al., On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
 
-https://dl.acm.org/doi/10.1145/3442188.3445922
+<https://dl.acm.org/doi/10.1145/3442188.3445922>
 
-Summarized in: Hao, We read the paper that forced Timnit Gebru out of Google. Here’s what it says., https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/
+Summarized in: Hao, We read the paper that forced Timnit Gebru out of Google. Here’s what it says., <https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/>
 
 Hao's article first mentions a paper Gebru wrote showing that facial
 recognition AI was less accurate at identifying women and people of
 color, but the main focus is on the one referenced above, about large language
 models, which she coauthored with several other people from big tech
-and academia. The paper says: 
+and academia. My writeup here is a summary of Hao's summary.
 
 * The models have huge carbon footprints, and the huge cost of building them slants their use toward the interests of tech elites.
 
