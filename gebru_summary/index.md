@@ -62,7 +62,7 @@ person might have a higher probability of reoffending.
 
 Laypeople have a psychological tendency to trust machines: "the algorithm must know." For example,
 Google Maps could send you down some weird route, which you assume is for a good reason.
-This is called "automation bias." The public's perception of ChatGPT is a strong example of
+This is called "automation bias." The public's perception of ChatGPT is an example of
 this bias. Because its output is grammatically correct, people think it must be truthful or
 based on some understanding of the topic. She also references the Toon study (summary below).
 
@@ -87,7 +87,7 @@ This is why she created DAIR.
 She's trained as an engineer. When you build an electronic gadget like a microphone, each component
 has a long list of specs, such as its temperature tolerance. There is no such thing in AI.
 People just throw together models and data-sets, and then they're handed off to other people
-to use for any random purpose. "I thought of it as an engineer." This is not appropriate.
+to use for any random purpose. "I thought of it as an engineer." 
 (See summary below of her paper on this topic.)
 
 They discuss government regulation. There are proposed bills in the EU and
