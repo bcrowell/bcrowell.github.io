@@ -29,5 +29,5 @@ blog posts
 
 [Psychopathic AI: a call to arms](psychopathic_ai) - 2023 Jan. 16
 
-[A summary of six articles by and about AI ethicist Timnit Gebru](gebru_summary) - 2023 Jan. 21
+[A summary of an interview with AI ethicist Timnit Gebru and six articles by and about her](gebru_summary) - 2023 Jan. 21
 
