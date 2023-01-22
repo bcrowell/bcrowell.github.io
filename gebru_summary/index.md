@@ -1,14 +1,17 @@
-A summary of six articles by and about AI ethicist Timnit Gebru
+A summary of an interview with AI ethicist Timnit Gebru and six articles by and about her
 ==============================================================
 
 ![portrait of Gebru](gebru_portrait.jpg)
 
 *Photo credit: TechCrunch, CC-BY, https://commons.wikimedia.org/wiki/File:Timnit_Gebru_crop.jpg*
 
-This blog post briefly summarizes the following six articles, which were listed
-in the web page for [an interview](https://open.spotify.com/episode/0Zyexhty6AEbINudjfnuRB?si=zZ3amJ6gQxK_6FCTq7nL9g&context=spotify%3Ashow%3A6NOJ6IkTb2GWMj1RpmtnxP) with AI ethicist [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru), founder
+This blog post briefly summarizes 
+[an interview](https://open.spotify.com/episode/0Zyexhty6AEbINudjfnuRB?si=zZ3amJ6gQxK_6FCTq7nL9g&context=spotify%3Ashow%3A6NOJ6IkTb2GWMj1RpmtnxP) with AI ethicist [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru), founder
 of the [Distributed Artificial Intelligence Research Institute](https://www.dair-institute.org/).
-Gebru is on Mastodon: https://toot.community/@timnitGebru@dair-community.social
+It then follows up by summarizing
+the following six articles, which were listed
+in the web page for the interview.
+Gebru is on Mastodon: <https://toot.community/@timnitGebru@dair-community.social>
 
 * Gebru, Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’, <https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/>
 
@@ -23,6 +26,80 @@ Gebru is on Mastodon: https://toot.community/@timnitGebru@dair-community.social
 * Bender et al., On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?, <https://dl.acm.org/doi/10.1145/3442188.3445922>
 
 Another podcast of interest: <https://techwontsave.us/episode/151_dont_fall_for_the_ai_hype_w_timnit_gebru.html>
+
+# Summary of the interview
+
+AI is a marketing term. Corporations hype it. The public's perception of it comes from science fiction,
+which leads them to think if it as something that thinks for itself. Really what these corporations
+are doing is a set of techniques. What they're doing is not the same thing as artificial general intelligence (AGI),
+which isn't even a well-defined thing.
+
+What the public perceives is an illusion of AI, with "armies of exploited workers"
+behind the illusion. These workers do things like tagging an image of a tree using the word
+"tree."
+
+What is machine learning? Neural networks are one example. A neural network has lots of
+layers. Deep learning is a term used to mean there are lots of layers.
+
+She's not worried about super-intelligent machines taking over, she's worried
+about centralization of power, crowd-work, and harmful use of AI.
+
+As an example of
+harmful use there are autonomous weapons such as robot drones and robot dogs,
+which could be (have actually been?) used on BLM protestors or people crossing US borders.
+(From the interview, I was unclear re in what sense these are "autonomous," and
+whether, for example, there are really already "autonomous" machines of this type doing this type of thing.)
+
+There are two ways for algorithms to be harmful. One way is if they're inaccurate. For example,
+facial recognition systems have higher error rates for women and people of color, which makes
+the police more likely to wrongfully arrest them. But even if facial recognition worked perfectly,
+it could be used surveillance, or to make mass incarceration more widespread.
+
+She gave a real-world example of a sentencing algorithm that was used in the case of
+a man who had consensual sex with a 14-year-old girl. Because the man was very young,
+the algorithm decided that he should get a heavier punishment, apparently because a young
+person might have a higher probability of reoffending.
+
+Laypeople have a psychological tendency to trust machines: "the algorithm must know." For example,
+Google Maps could send you down some weird route, which you assume is for a good reason.
+This is called "automation bias." The public's perception of ChatGPT is a strong example of
+this bias. Because its output is grammatically correct, people think it must be truthful or
+based on some understanding of the topic. She also references the Toon study (summary below).
+
+Before building these systems, people should be asking themselves, "should we build it?"
+Before building a missle, ask if it's necessary. Ditto for large language models.
+OpenAI has a product, ChatGPT, that is harmful, and talks as if it has to be built.
+Technologies are not unavoidable. People talk as if the technology has its own timeline and mind.
+It's actually rich people pumping in resources based on their priorities.
+
+As an example of an intentionally chosen path, she talks about Maori language revitalization.
+There is not an "only path."
+
+People who sell themselves as altruists can be dangerous. Some of these people
+say that the biggest danger facing the world today is that a superintelligent being
+will be created. If we don't create it, China will, and if that happens, it will
+be a kind of devil. So we need to win the race and create a good kind.
+Some of these zealots are the people who are setting the agenda in big tech.
+
+When she tried to work in big tech, there were no voices of people like labor organizers or advocates for refugees.
+This is why she created DAIR.
+
+She's trained as an engineer. When you build an electronic gadget like a microphone, each component
+has a long list of specs, such as its temperature tolerance. There is no such thing in AI.
+People just throw together models and data-sets, and then they're handed off to other people
+to use for any random purpose. "I thought of it as an engineer." This is not appropriate.
+(See summary below of her paper on this topic.)
+
+They discuss government regulation. There are proposed bills in the EU and
+in the US (Ron Wyden).
+Current laws don't require corporations to prove first that what they're doing is not harmful.
+That's  now how it works for food, drugs, houses, or bridges.
+She describes a mentality in big tech: don't investigate issues because it's better to have plausible deniability.
+The US doesn't have anything like the GDPR, so it's much easier to put out a product quickly.
+
+The interviewer mentions facebook, which leads to a discussion of its history. It was
+initially a web site called "hot or not." They did it using data scraped without consent.
+This is an example of the kind of mentality described above.
 
 # Gebru, Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’
 
